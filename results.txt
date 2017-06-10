@@ -1,0 +1,5708 @@
+Aberavon LAB HOLD
+Majority: 16,761 Turnout: 66.7% (33,268) 
+Conservative 5,901 Sadie Vidal
+Labour 22,662 Stephen Kinnock
+Liberal Democrat 599 Cen Phillips
+UK Independence Party 1,345 Caroline Jones
+Plaid Cymru 2,761 Andrew Bennison
+Green 0
+Other 0
+
+Aberconwy CON HOLD
+Majority: 635 Turnout: 71.0% (32,150) 
+Conservative 14,337 Guto Bebb
+Labour 13,702 Emily Owen
+Liberal Democrat 941 Sarah Lesiter-Burgess
+UK Independence Party 0
+Plaid Cymru 3,170 Wyn Jones
+Green 0
+
+Aberdeen North SNP HOLD
+Majority: 4,139 Turnout: 59.2% (36,757) 
+Conservative 8,341 Grace O'Keeffe
+Labour 11,031 Orr Vinegold
+Liberal Democrat 1,693 Isobel Davidson
+Scottish National Party 15,170 Kirsty Blackman
+Other 522 Richard Durkin
+
+Aberdeen South CON GAIN
+Majority: 4,752 Turnout: 68.5% (44,483) 
+Conservative 18,746 Ross Thomson
+Labour 9,143 Callum O'Dwyer
+Liberal Democrat 2,600 Jenny Wilson
+UK Independence Party 0
+Scottish National Party 13,994 Callum McCaig
+Green 0
+Other 0
+
+Aberdeenshire W & Kincardine CON GAIN
+Majority: 7,950 Turnout: 71.2% (51,625) 
+Conservative 24,704 Andrew Bowie
+Labour 5,706 Barry Black
+Liberal Democrat 4,461 John Waddell
+UK Independence Party 0
+Scottish National Party 16,754 Stuart Donaldson
+Green 0
+Other 0
+
+Airdrie & Shotts SNP HOLD
+Majority: 195 Turnout: 59.2% (38,002) 
+Conservative 8,813 Jennifer Donnellan
+Labour 14,096 Helen McFarlane
+Liberal Democrat 802 Ewan McRobert
+UK Independence Party 0
+Scottish National Party 14,291 Neil Gray
+Other 0
+
+Aldershot CON HOLD
+Majority: 11,478 Turnout: 64.2% (48,955) 
+Conservative 26,955 Leo Docherty
+Labour 15,477 Gary Puffett
+Liberal Democrat 3,637 Alan Hilliar
+UK Independence Party 1,796 Roy Swales
+Green 1,090 Donna Wallace
+
+Aldridge-Brownhills CON HOLD
+Majority: 14,307 Turnout: 66.7% (40,235) 
+Conservative 26,317 Wendy Morton
+Labour 12,010 John Fisher
+Liberal Democrat 1,343 Ian Garrett
+UK Independence Party 0
+Green 0
+Other 565 Mark Beech
+
+Altrincham & Sale West CON HOLD
+Majority: 6,426 Turnout: 72.1% (52,790) 
+Conservative 26,933 Graham Brady
+Labour 20,507 Andrew Western
+Liberal Democrat 4,051 Jane Brophy
+UK Independence Party 0
+Green 1,000 Geraldine Coggins
+Other 299 Neil Taylor
+
+Alyn & Deeside LAB HOLD
+Majority: 5,235 Turnout: 71.0% (44,760) 
+Conservative 18,080 Laura Knightly
+Labour 23,315 Mark Tami
+Liberal Democrat 1,077 Pete Williams
+UK Independence Party 1,117 David Griffiths
+Plaid Cymru 1,171 Jacqui Hurst
+Green 0
+
+Amber Valley CON HOLD
+Majority: 8,300 Turnout: 67.3% (45,811) 
+Conservative 25,905 Nigel Mills
+Labour 17,605 James Dawson
+Liberal Democrat 1,100 Kate Smith
+UK Independence Party 0
+Green 650 Matt McGuinness
+Other 551 Daniel Bamford
+
+Angus CON GAIN
+Majority: 2,645 Turnout: 63.0% (40,192) 
+Conservative 18,148 Kirstene Hair
+Labour 5,233 William Campbell
+Liberal Democrat 1,308 Clive Sneddon
+UK Independence Party 0
+Scottish National Party 15,503 Mike Weir
+Green 0
+
+Antrim East DUP HOLD
+Majority: 14,645 Turnout: 60.6% (38,143) 
+Conservative 963 Mark Logan
+UK Independence Party 0
+Sinn Fein 3,555 Oliver McMullan
+Democratic Unionist Party 21,873 Sammy Wilson
+Ulster Unionist Party 4,524 John Stewart
+Other 7,228 Margaret McKillop
+
+Antrim North DUP HOLD
+Majority: 19,942 Turnout: 64.1% (48,460) 
+Conservative 0
+UK Independence Party 0
+Sinn Fein 7,878 Cara McShane
+Democratic Unionist Party 28,521 Ian Paisley
+Ulster Unionist Party 3,482 Jackson Minford
+Other 8,579 Declan O'Loan
+
+Antrim South DUP GAIN
+Majority: 3,208 Turnout: 63.3% (43,170) 
+Conservative 0
+Sinn Fein 7,797 Declan Kearney
+Democratic Unionist Party 16,508 Paul Girvan
+Ulster Unionist Party 13,300 Danny Kinahan
+Other 5,565 Roisin Lynch
+
+Arfon PLAID HOLD
+Majority: 92 Turnout: 68.2% (28,208) 
+Conservative 4,614 Phillippa Parry
+Labour 11,427 Mary Griffiths Clarke
+Liberal Democrat 648 Calum Davies
+UK Independence Party 0
+Plaid Cymru 11,519 Hywel Williams
+Other 0
+
+Argyll & Bute SNP HOLD
+Majority: 1,328 Turnout: 71.5% (48,069) 
+Conservative 15,976 Gary Mulvaney
+Labour 6,044 Michael Kelly
+Liberal Democrat 8,745 Alan Reid
+UK Independence Party 0
+Scottish National Party 17,304 Brendan O'Hara
+
+Arundel & South Downs CON HOLD
+Majority: 23,883 Turnout: 74.6% (60,256) 
+Conservative 37,573 Nick Herbert
+Labour 13,690 Caroline Fife
+Liberal Democrat 4,783 Shweta Kapadia
+UK Independence Party 1,668 John Wallace
+Green 2,542 Jo Prior
+
+Ashfield LAB HOLD
+Majority: 441 Turnout: 64.0% (49,993) 
+Conservative 20,844 Tony Harper
+Labour 21,285 Gloria De Piero
+Liberal Democrat 969 Bob Charlesworth
+UK Independence Party 1,885 Ray Young
+Green 398 Arran Rangi
+Other 4,612 Gail Turner
+
+Ashford CON HOLD
+Majority: 17,478 Turnout: 68.5% (59,879) 
+Conservative 35,318 Damian Green
+Labour 17,840 Sally Gathern
+Liberal Democrat 3,101 Adrian Gee-Turner
+UK Independence Party 2,218 Gerald O'Brien
+Green 1,402 Mandy Rossi
+
+Ashton under Lyne LAB HOLD
+Majority: 11,295 Turnout: 58.8% (39,773) 
+Conservative 12,710 Jack Rankin
+Labour 24,005 Angela Rayner
+Liberal Democrat 646 Carly Hicks
+UK Independence Party 1,878 Maurice Jackson
+Green 534 Andy Hunter-Rossall
+
+Aylesbury CON HOLD
+Majority: 14,696 Turnout: 71.2% (58,743) 
+Conservative 32,313 David Lidington
+Labour 17,617 Mark Bateman
+Liberal Democrat 5,660 Steven Lambert
+UK Independence Party 1,296 Vijay Srao
+Green 1,237 Coral Simpson
+Other 620 Kyle Michael
+
+Ayr, Carrick & Cumnock CON GAIN
+Majority: 2,774 Turnout: 64.9% (46,222) 
+Conservative 18,550 Bill Grant
+Labour 11,024 Carol Mochan
+Liberal Democrat 872 Callum Leslie
+UK Independence Party 0
+Scottish National Party 15,776 Corri Wilson
+
+Ayrshire Central SNP HOLD
+Majority: 1,267 Turnout: 65.3% (45,087) 
+Conservative 15,504 Caroline Hollins Martin
+Labour 11,762 Nairn McDonald
+Liberal Democrat 1,050 Tom Inglis
+Scottish National Party 16,771 Philippa Whitford
+Green 0
+
+Ayrshire North & Arran SNP HOLD
+Majority: 3,633 Turnout: 64.8% (47,433) 
+Conservative 14,818 David Rocks
+Labour 13,040 Chris Rimicans
+Liberal Democrat 1,124 Mark Dickson
+UK Independence Party 0
+Scottish National Party 18,451 Patricia Gibson
+
+Banbury CON HOLD
+Majority: 12,399 Turnout: 73.4% (61,562) 
+Conservative 33,388 Victoria Prentis
+Labour 20,989 Sean Woodcock
+Liberal Democrat 3,452 John Howson
+UK Independence Party 1,581 Dickie Bird
+Green 1,225 Ian Middleton
+Other 927 Roseanne Edwards
+
+Banff & Buchan CON GAIN
+Majority: 3,693 Turnout: 61.6% (41,643) 
+Conservative 19,976 David Duguid
+Labour 3,936 Caitlin Stott
+Liberal Democrat 1,448 Galen Milne
+Scottish National Party 16,283 Eilidh Whiteford
+
+Barking LAB HOLD
+Majority: 21,608 Turnout: 61.9% (47,679) 
+Conservative 10,711 Talati Minesh
+Labour 32,319 Margaret Hodge
+Liberal Democrat 599 Pauline Pearce
+UK Independence Party 3,031 Roger Gravett
+Green 724 Shannon Butterfield
+Other 295 Noel Falvey
+
+Barnsley Central LAB HOLD
+Majority: 15,546 Turnout: 60.9% (39,089) 
+Conservative 9,436 Amanda Ford
+Labour 24,982 Dan Jarvis
+Liberal Democrat 549 David Ridgway
+UK Independence Party 3,339 Gavin Felton
+Green 572 Richard Trotman
+Other 211 Stephen Morris
+
+Barnsley East LAB HOLD
+Majority: 13,283 Turnout: 58.9% (40,776) 
+Conservative 10,997 Andrew Lloyd
+Labour 24,280 Stephanie Peacock
+Liberal Democrat 750 Nicola Turner
+UK Independence Party 3,247 James Dalton
+Other 1,502 Kevin Riddiough
+
+Barrow & Furness LAB HOLD
+Majority: 209 Turnout: 68.5% (47,590) 
+Conservative 22,383 Simon Fell
+Labour 22,592 John Woodcock
+Liberal Democrat 1,278 Loraine Birchall
+UK Independence Party 962 Alan Piper
+Green 375 Rob O'Hara
+Other 0
+
+Basildon & Billericay CON HOLD
+Majority: 13,400 Turnout: 65.0% (44,918) 
+Conservative 27,381 John Baron
+Labour 13,981 Kayte Block
+Liberal Democrat 1,548 Antonia Harrison
+UK Independence Party 2,008 Tina Hughes
+
+Basildon South CON HOLD
+Majority: 11,490 Turnout: 64.1% (47,120) 
+Conservative 26,811 Stephen Metcalfe
+Labour 15,321 Byron Taylor
+Liberal Democrat 732 Reetendra Banerji
+UK Independence Party 3,193 Peter Whittle
+Green 680 Sim Harman
+British National Party 383 Paul Borg
+Other 0
+
+Basingstoke CON HOLD
+Majority: 9,466 Turnout: 68.3% (55,960) 
+Conservative 29,510 Maria Miller
+Labour 20,044 Terry Bridgeman
+Liberal Democrat 3,406 John Shaw
+UK Independence Party 1,681 Alan Stone
+Green 1,106 Richard Winter
+Other 213 Scott Neville
+
+Bassetlaw LAB HOLD
+Majority: 4,852 Turnout: 66.5% (52,250) 
+Conservative 22,615 Annette Simpson
+Labour 27,467 John Mann
+Liberal Democrat 1,154 Leon Duveen
+UK Independence Party 0
+Green 0
+Other 1,014 Nigel Turner
+
+Bath LIB DEM GAIN
+Majority: 5,694 Turnout: 74.3% (49,582) 
+Conservative 17,742 Ben Howlett
+Labour 7,279 Joe Rayment
+Liberal Democrat 23,436 Wera Hobhouse
+UK Independence Party 0
+Green 1,125 Eleanor Field
+Other 0
+
+Batley & Spen LAB HOLD
+Majority: 8,961 Turnout: 67.1% (53,780) 
+Conservative 20,883 Ann Myatt
+Labour 29,844 Tracy Brabin
+Liberal Democrat 1,224 John Lawson
+UK Independence Party 0
+Green 695 Alan Freeman
+Other 1,134 Mohammed Hanif
+
+Battersea LAB GAIN
+Majority: 2,416 Turnout: 71.0% (55,058) 
+Conservative 22,876 Jane Ellison
+Labour 25,292 Marsha De Cordova
+Liberal Democrat 4,401 Richard Davis
+UK Independence Party 357 Eugene Power
+Green 866 Lois Davis
+Other 1,266 Chris Coghlan
+
+Beaconsfield CON HOLD
+Majority: 24,543 Turnout: 72.3% (56,028) 
+Conservative 36,559 Dominic Grieve
+Labour 12,016 James English
+Liberal Democrat 4,448 Peter Chapman
+UK Independence Party 1,609 Jon Conway
+Green 1,396 Russell Secker
+
+Beckenham CON HOLD
+Majority: 15,087 Turnout: 76.0% (51,630) 
+Conservative 30,632 Bob Stewart
+Labour 15,545 Marina Ahmad
+Liberal Democrat 4,073 Julie Ireland
+UK Independence Party 0
+Green 1,380 Ruth Fabricant
+
+Bedford LAB GAIN
+Majority: 789 Turnout: 67.5% (48,480) 
+Conservative 21,923 Richard Fuller
+Labour 22,712 Mohammad Yasin
+Liberal Democrat 2,837 Henry Vann
+UK Independence Party 0
+Green 1,008 Lucy Bywater
+Other 0
+
+Bedfordshire Mid CON HOLD
+Majority: 20,983 Turnout: 75.4% (63,148) 
+Conservative 38,936 Nadine Dorries
+Labour 17,953 Rhiannon Meades
+Liberal Democrat 3,798 Lisa French
+UK Independence Party 0
+Green 1,794 Gareth Ellis
+Other 667 Ann Kelly
+
+Bedfordshire North East CON HOLD
+Majority: 20,862 Turnout: 73.8% (64,220) 
+Conservative 39,139 Alistair Burt
+Labour 18,277 Julian Vaughan
+Liberal Democrat 3,693 Stephen Rutherford
+UK Independence Party 1,896 Duncan Strachan
+Green 1,215 Philippa Fleming
+
+Bedfordshire South West CON HOLD
+Majority: 14,168 Turnout: 69.8% (55,635) 
+Conservative 32,961 Andrew Selous
+Labour 18,793 Daniel Scott
+Liberal Democrat 2,630 Daniel Norton
+UK Independence Party 0
+Green 950 Morvern Rennie
+Other 301 Morenike Mafoh
+
+Belfast East DUP HOLD
+Majority: 8,253 Turnout: 67.5% (42,890) 
+Conservative 446 Sheila Bodel
+Sinn Fein 894 Mairead O'Donnell
+Democratic Unionist Party 23,917 Gavin Robinson
+Ulster Unionist Party 1,408 Hazel Legge
+Green 561 Georgina Milne
+Other 15,664 Seamas de Faoite
+
+Belfast North DUP HOLD
+Majority: 2,081 Turnout: 67.3% (45,936) 
+Sinn Fein 19,159 John Finucane
+Democratic Unionist Party 21,240 Nigel Dodds
+Green 644 Malachai O'Hara
+Other 4,893 Martin McAuley
+
+Belfast South DUP GAIN
+Majority: 5,950 Turnout: 66.1% (43,705) 
+Conservative 246 Clare Salier
+UK Independence Party 0
+Sinn Fein 7,143 Mairtin O Muilleoir
+Democratic Unionist Party 13,299 Emma Little Pengelly
+Ulster Unionist Party 1,527 Michael Henderson
+Green 2,241 Clare Bailey
+Other 19,249 Alasdair McDonnell
+
+Belfast West SINN FEIN HOLD
+Majority: 19,036 Turnout: 65.1% (40,633) 
+Conservative 0
+UK Independence Party 0
+Sinn Fein 27,107 Paul Maskey
+Democratic Unionist Party 5,455 Frank McCoubrey
+Ulster Unionist Party 0
+Other 8,071 Tim Attwood
+
+Bermondsey & Old Southwark LAB HOLD
+Majority: 12,972 Turnout: 67.1% (58,521) 
+Conservative 7,581 Siobhan Baillie
+Labour 31,161 Neil Coyle
+Liberal Democrat 18,189 Simon Hughes
+UK Independence Party 838 Elizabeth Jones
+Green 639 John Tyson
+Other 113 James Clarke
+
+Berwick-upon-Tweed CON HOLD
+Majority: 11,781 Turnout: 71.8% (42,212) 
+Conservative 22,145 Anne-Marie Trevelyan
+Labour 10,364 Scott Dickinson
+Liberal Democrat 8,916 Julie Porksen
+UK Independence Party 0
+Green 787 Thomas Stewart
+Other 0
+
+Berwickshire CON GAIN
+Majority: 11,060 Turnout: 71.5% (52,367) 
+Conservative 28,213 John Lamont
+Labour 4,519 Ian Davidson
+Liberal Democrat 2,482 Caroline Burgess
+UK Independence Party 0
+Scottish National Party 17,153 Calum Kerr
+Green 0
+Other 0
+
+Bethnal Green & Bow LAB HOLD
+Majority: 35,393 Turnout: 69.5% (59,825) 
+Conservative 7,576 Charlie Chirico
+Labour 42,969 Rushanara Ali
+Liberal Democrat 2,982 William Dyer
+UK Independence Party 894 Ian de Wulverton
+Green 1,516 Alistair Polson
+Other 3,888 Ajmal Masroor
+
+Beverley & Holderness CON HOLD
+Majority: 14,042 Turnout: 69.0% (55,678) 
+Conservative 32,499 Graham Stuart
+Labour 18,457 Johanna Boal
+Liberal Democrat 2,808 Denis Healy
+UK Independence Party 0
+Green 756 Richard Howarth
+Other 1,158 Lee Walton
+
+Bexhill & Battle CON HOLD
+Majority: 22,165 Turnout: 75.7% (59,472) 
+Conservative 36,854 Huw Merriman
+Labour 14,689 Christine Bayliss
+Liberal Democrat 4,485 Joel Kemp
+UK Independence Party 2,006 Geoffrey Bastin
+Green 1,438 Jonathan Kent
+
+Bexleyheath & Crayford CON HOLD
+Majority: 9,073 Turnout: 69.2% (45,189) 
+Conservative 25,113 David Evennett
+Labour 16,040 Stef Borella
+Liberal Democrat 1,201 Simone Reynolds
+UK Independence Party 1,944 Mike Ferro
+Green 601 Ivor Lobo
+British National Party 290 Peter Finch
+Other 0
+
+Birkenhead LAB HOLD
+Majority: 25,514 Turnout: 67.7% (43,663) 
+Conservative 8,044 Stewart Gardiner
+Labour 33,558 Frank Field
+Liberal Democrat 1,118 Allan Brame
+UK Independence Party 0
+Green 943 Jayne Clough
+
+Birmingham Edgbaston LAB HOLD
+Majority: 6,917 Turnout: 64.0% (43,612) 
+Conservative 17,207 Caroline Squire
+Labour 24,124 Preet Gill
+Liberal Democrat 1,564 Colin Green
+UK Independence Party 0
+Green 562 Alice Kiff
+Other 155 Dick Rodgers
+
+Birmingham Erdington LAB HOLD
+Majority: 7,285 Turnout: 57.2% (37,217) 
+Conservative 14,286 Robert Alden
+Labour 21,571 Jack Dromey
+Liberal Democrat 750 Ann Holtom
+UK Independence Party 0
+Green 610 James Lovatt
+Other 0
+
+Birmingham Hall Green LAB HOLD
+Majority: 33,944 Turnout: 69.4% (54,310) 
+Conservative 8,199 Reena Ranger
+Labour 42,143 Roger Godsiff
+Liberal Democrat 3,137 Jerry Evans
+UK Independence Party 0
+Green 831 Patrick Cox
+Other 0
+
+Birmingham Hodge Hill LAB HOLD
+Majority: 31,026 Turnout: 61.3% (46,394) 
+Conservative 6,580 Ahmereen Reza
+Labour 37,606 Liam Byrne
+Liberal Democrat 805 Phil Bennion
+UK Independence Party 1,016 Mohammed Khan
+Green 387 Clare Thomas
+Other 0
+
+Birmingham Ladywood LAB HOLD
+Majority: 28,714 Turnout: 59.0% (41,307) 
+Conservative 5,452 Andrew Browning
+Labour 34,166 Shabana Mahmood
+Liberal Democrat 1,156 Lee Dargue
+UK Independence Party 0
+Green 533 Kefentse Dennis
+Other 0
+
+Birmingham Northfield LAB HOLD
+Majority: 4,667 Turnout: 61.3% (44,348) 
+Conservative 18,929 Meg Powell-Chandler
+Labour 23,596 Richard Burden
+Liberal Democrat 959 Roger Harmer
+UK Independence Party 0
+Green 864 Eleanor Masters
+
+Birmingham Perry Barr LAB HOLD
+Majority: 18,383 Turnout: 63.0% (44,197) 
+Conservative 11,726 Charlotte Hodivala
+Labour 30,109 Khalid Mahmood
+Liberal Democrat 1,080 Harjun Singh
+UK Independence Party 0
+Green 591 Vijay Rana
+Other 691 Harjinder Singh
+
+Birmingham Selly Oak LAB HOLD
+Majority: 15,207 Turnout: 65.9% (48,985) 
+Conservative 15,629 Sophie Shrubsole
+Labour 30,836 Steve McCabe
+Liberal Democrat 1,644 David Radcliffe
+UK Independence Party 0
+Green 876 Julien Pritchard
+
+Birmingham Yardley LAB HOLD
+Majority: 16,574 Turnout: 61.3% (44,502) 
+Conservative 8,824 Mohammed Afzal
+Labour 25,398 Jess Phillips
+Liberal Democrat 7,984 John Hemming
+UK Independence Party 1,916 Paul Clayton
+Green 280 Christopher Garghan
+Other 100 Abu Nowshed
+
+Bishop Auckland LAB HOLD
+Majority: 502 Turnout: 64.0% (43,281) 
+Conservative 20,306 Christopher Adams
+Labour 20,808 Helen Goodman
+Liberal Democrat 1,176 Ciaran Morrissey
+UK Independence Party 0
+Green 0
+British National Party 991 Adam Walker
+
+Blackburn LAB HOLD
+Majority: 20,368 Turnout: 67.2% (47,512) 
+Conservative 12,780 Bob Eastwood
+Labour 33,148 Kate Hollern
+Liberal Democrat 709 Irfan Ahmed
+UK Independence Party 0
+Other 875 Duncan Miller
+
+Blackley & Broughton LAB HOLD
+Majority: 19,601 Turnout: 56.0% (40,113) 
+Conservative 8,657 David Goss
+Labour 28,258 Graham Stringer
+Liberal Democrat 737 Charles Gadsden
+UK Independence Party 1,825 Martin Power
+Green 462 David Jones
+Other 174 Abi Ajoku
+
+Blackpool North & Cleveleys CON HOLD
+Majority: 2,023 Turnout: 64.1% (41,007) 
+Conservative 20,255 Paul Maynard
+Labour 18,232 Chris Webb
+Liberal Democrat 747 Sue Close
+UK Independence Party 1,392 Paul White
+Green 381 Duncan Royle
+Other 0
+
+Blackpool South LAB HOLD
+Majority: 2,523 Turnout: 59.8% (34,953) 
+Conservative 15,058 Peter Anthony
+Labour 17,581 Gordon Marsden
+Liberal Democrat 634 Bill Greene
+UK Independence Party 1,339 Noel Matthews
+Green 341 John Peter Warnock
+Other 0
+
+Blaenau Gwent LAB HOLD
+Majority: 11,907 Turnout: 63.2% (32,384) 
+Conservative 4,783 Tracey West
+Labour 18,787 Nick Smith
+Liberal Democrat 295 Cameron Sullivan
+UK Independence Party 973 Dennis May
+Plaid Cymru 6,880 Nigel Copner
+Green 0
+Other 666 Vicki Browning
+
+Blaydon LAB HOLD
+Majority: 13,477 Turnout: 70.2% (48,084) 
+Conservative 13,502 Thomas Smith
+Labour 26,979 Liz Twist
+Liberal Democrat 4,366 Jonathan Wallace
+UK Independence Party 2,459 Ray Tolley
+Green 583 Paul McNally
+Other 195 Michael Marchetti
+
+Blyth Valley LAB HOLD
+Majority: 7,915 Turnout: 67.0% (42,490) 
+Conservative 15,855 Ian Levy
+Labour 23,770 Ronnie Campbell
+Liberal Democrat 1,947 Jeff Reid
+UK Independence Party 0
+Green 918 Dawn Furness
+
+Bognor Regis & Littlehampton CON HOLD
+Majority: 17,494 Turnout: 67.7% (51,352) 
+Conservative 30,276 Nick Gibb
+Labour 12,782 Alan Butcher
+Liberal Democrat 3,352 Francis Oppler
+UK Independence Party 1,861 Patrick Lowe
+Green 993 Andrew Bishop
+Other 2,088 Paul Sanderson
+
+Bolsover LAB HOLD
+Majority: 5,288 Turnout: 63.4% (46,519) 
+Conservative 18,865 Helen Harrison
+Labour 24,153 Dennis Skinner
+Liberal Democrat 1,372 Ross Shipman
+UK Independence Party 2,129 Philip Rose
+
+Bolton North East LAB HOLD
+Majority: 3,797 Turnout: 67.2% (45,183) 
+Conservative 19,073 James Daly
+Labour 22,870 David Crausby
+Liberal Democrat 1,316 Warren Fox
+UK Independence Party 1,567 Harry Lamb
+Green 357 Liz Spencer
+
+Bolton South East LAB HOLD
+Majority: 13,126 Turnout: 61.4% (42,323) 
+Conservative 12,550 Sarah Pochin
+Labour 25,676 Yasmin Qureshi
+Liberal Democrat 781 Frank Harasiwka
+UK Independence Party 2,779 Jeff Armstrong
+Green 537 Alan Johnson
+
+Bolton West CON HOLD
+Majority: 936 Turnout: 70.1% (51,054) 
+Conservative 24,459 Chris Green
+Labour 23,523 Julie Hilling
+Liberal Democrat 1,485 Rebecca Forrest
+UK Independence Party 1,587 Martin Tighe
+Other 0
+
+Bootle LAB HOLD
+Majority: 36,200 Turnout: 69.0% (50,288) 
+Conservative 6,059 Charles Fifield
+Labour 42,259 Peter Dowd
+Liberal Democrat 837 David Newman
+UK Independence Party 0
+Green 709 Alison Gibbon
+Other 424 Kim Bryan
+
+Boston & Skegness CON HOLD
+Majority: 16,572 Turnout: 62.7% (42,879) 
+Conservative 27,271 Matt Warman
+Labour 10,699 Paul Kenny
+Liberal Democrat 771 Philip Smith
+UK Independence Party 3,308 Paul Nuttall
+Green 547 Victoria Percival
+British National Party 0
+Other 283 Mike Gilbert
+
+Bosworth CON HOLD
+Majority: 18,351 Turnout: 69.7% (56,168) 
+Conservative 31,864 David Tredinnick
+Labour 13,513 Chris Kealey
+Liberal Democrat 9,744 Michael Mullaney
+UK Independence Party 0
+Green 1,047 Mick Gregg
+
+Bournemouth East CON HOLD
+Majority: 7,937 Turnout: 65.2% (48,618) 
+Conservative 25,221 Tobias Ellwood
+Labour 17,284 Mel Semple
+Liberal Democrat 3,168 Jon Nicholas
+UK Independence Party 1,405 David Hughes
+Green 1,236 Alasdair Keddie
+Other 304 Kieron Wilson
+
+Bournemouth West CON HOLD
+Majority: 7,711 Turnout: 60.8% (44,507) 
+Conservative 23,812 Conor Burns
+Labour 16,101 David Stokes
+Liberal Democrat 2,929 Phil Dunn
+UK Independence Party 0
+Green 1,247 Simon Bull
+Other 418 Jason Halsey
+
+Bracknell CON HOLD
+Majority: 16,016 Turnout: 70.6% (55,892) 
+Conservative 32,882 Phillip Lee
+Labour 16,866 Paul Bidwell
+Liberal Democrat 4,186 Patrick Smith
+UK Independence Party 1,521 Len Amos
+Green 0
+Other 437 Olivio Barreto
+
+Bradford East LAB HOLD
+Majority: 20,540 Turnout: 64.8% (45,622) 
+Conservative 9,291 Mark Trafford
+Labour 29,831 Imran Hussain
+Liberal Democrat 843 Mark Jewell
+UK Independence Party 1,372 Jonathan Barras
+Green 289 Andy Stanford
+Other 3,996 Paul Parkins
+
+Bradford South LAB HOLD
+Majority: 6,700 Turnout: 60.6% (41,049) 
+Conservative 15,664 Tanya Graham
+Labour 22,364 Judith Cummins
+Liberal Democrat 516 Stuart Thomas
+UK Independence Party 1,758 Stephen Place
+Green 370 Darren Parkinson
+Other 377 Therese Hirst
+
+Bradford West LAB HOLD
+Majority: 21,902 Turnout: 67.4% (45,528) 
+Conservative 7,542 George Grant
+Labour 29,444 Naz Shah
+Liberal Democrat 712 Alun Griffiths
+UK Independence Party 885 Derrick Hodgson
+Green 481 Celia Hickson
+Other 6,464 Muhammad Hijazi
+
+Braintree CON HOLD
+Majority: 18,422 Turnout: 69.5% (52,326) 
+Conservative 32,873 James Cleverly
+Labour 14,451 Malcolm Fincken
+Liberal Democrat 2,251 Peter Turner
+UK Independence Party 1,835 Richard Bingley
+Green 916 Thomas Pashby
+British National Party 0
+Other 0
+
+Brecon & Radnorshire CON HOLD
+Majority: 8,038 Turnout: 73.8% (41,334) 
+Conservative 20,081 Chris Davies
+Labour 7,335 Dan Lodge
+Liberal Democrat 12,043 James Gibson-Watt
+UK Independence Party 576 Peter Gilbert
+Plaid Cymru 1,299 Kate Heneghan
+Green 0
+
+Brent Central LAB HOLD
+Majority: 27,997 Turnout: 64.7% (52,296) 
+Conservative 10,211 Rahoul Bhansali
+Labour 38,208 Dawn Butler
+Liberal Democrat 2,519 Anton Georgiou
+UK Independence Party 556 Janice North
+Green 802 Shaka Lish
+Other 0
+
+Brent North LAB HOLD
+Majority: 17,061 Turnout: 68.4% (56,444) 
+Conservative 18,435 Ameet Jogia
+Labour 35,496 Barry Gardiner
+Liberal Democrat 1,614 Paul Lorber
+UK Independence Party 0
+Green 660 Michaela Lichten
+Other 239 Elcena Jeffers
+
+Brentford & Isleworth LAB HOLD
+Majority: 12,182 Turnout: 72.4% (61,629) 
+Conservative 23,182 Mary Macleod
+Labour 35,364 Ruth Cadbury
+Liberal Democrat 3,083 Joe Bourke
+UK Independence Party 0
+Green 0
+
+Brentwood & Ongar CON HOLD
+Majority: 24,002 Turnout: 70.6% (52,910) 
+Conservative 34,811 Michael Burghart
+Labour 10,809 Gareth Barrett
+Liberal Democrat 4,426 Karen Chilvers
+UK Independence Party 1,845 Michael McGough
+Green 915 Paul Jeater
+Other 104 Louca Kousoulou
+
+Bridgend LAB HOLD
+Majority: 4,700 Turnout: 69.6% (43,255) 
+Conservative 17,213 Karen Robson
+Labour 21,913 Madeleine Moon
+Liberal Democrat 919 Jonathan Pratt
+UK Independence Party 781 Alun Williams
+Plaid Cymru 1,783 Rhys Watkins
+Green 0
+Other 646 Isabel Robson
+
+Bridgwater & Somerset West CON HOLD
+Majority: 15,448 Turnout: 65.3% (58,267) 
+Conservative 32,111 Ian Liddell-Grainger
+Labour 16,663 Wes Hinckes
+Liberal Democrat 6,332 Marcus Kravis
+UK Independence Party 2,102 Simon Smedley
+Green 1,059 Kay Powell
+
+Brigg & Goole CON HOLD
+Majority: 12,363 Turnout: 68.2% (45,057) 
+Conservative 27,219 Andrew Percy
+Labour 14,856 Terence Smith
+Liberal Democrat 836 Jerry Lonsdale
+UK Independence Party 1,596 David Jeffreys
+Green 550 Isabel Pires
+Other 0
+
+Brighton Kemptown LAB GAIN
+Majority: 9,868 Turnout: 72.5% (49,207) 
+Conservative 18,835 Simon Kirby
+Labour 28,703 Lloyd Russell-Moyle
+Liberal Democrat 1,457 Emily Tester
+UK Independence Party 0
+Green 0
+Other 212 Doktor Haze
+
+Brighton Pavilion GREEN HOLD
+Majority: 14,689 Turnout: 76.4% (57,677) 
+Conservative 11,082 Emma Warman
+Labour 15,450 Solomon Curtis
+Liberal Democrat 0
+UK Independence Party 630 Ian Buchanan
+Green 30,139 Caroline Lucas
+Other 376 Nick Yeomans
+
+Bristol East LAB HOLD
+Majority: 13,394 Turnout: 70.2% (50,799) 
+Conservative 17,453 Theo Clarke
+Labour 30,847 Kerry McCarthy
+Liberal Democrat 1,389 Chris Lucas
+UK Independence Party 0
+Green 1,110 Lorraine Francis
+Other 0
+
+Bristol North West LAB GAIN
+Majority: 4,761 Turnout: 71.7% (54,096) 
+Conservative 22,639 Charlotte Leslie
+Labour 27,400 Darren Jones
+Liberal Democrat 2,814 Celia Downie
+UK Independence Party 0
+Green 1,243 Sharmila Bousa
+Other 0
+
+Bristol South LAB HOLD
+Majority: 15,987 Turnout: 65.5% (54,382) 
+Conservative 16,679 Mark Weston
+Labour 32,666 Karin Smyth
+Liberal Democrat 1,821 Benjamin Nutland
+UK Independence Party 1,672 Ian Kealey
+Green 1,428 Tony Dyer
+Other 116 John Langley
+
+Bristol West LAB HOLD
+Majority: 37,336 Turnout: 77.0% (71,608) 
+Conservative 9,877 Annabel Tall
+Labour 47,213 Thangam Debbonaire
+Liberal Democrat 5,201 Stephen Williams
+UK Independence Party 0
+Green 9,216 Molly Scott Cato
+Other 101 Jodian Rodgers
+
+Broadland CON HOLD
+Majority: 15,816 Turnout: 72.4% (55,971) 
+Conservative 32,406 Keith Simpson
+Labour 16,590 Iain Simpson
+Liberal Democrat 4,449 Steve Riley
+UK Independence Party 1,594 David Moreland
+Green 932 Andrew Boswell
+
+Bromley & Chislehurst CON HOLD
+Majority: 9,590 Turnout: 71.7% (46,662) 
+Conservative 25,175 Bob Neill
+Labour 15,585 Sara Hyde
+Liberal Democrat 3,369 Sam Webber
+UK Independence Party 1,383 Emmett Jenner
+Green 1,150 Roisin Robertson
+
+Bromsgrove CON HOLD
+Majority: 16,573 Turnout: 73.5% (54,040) 
+Conservative 33,493 Sajid Javid
+Labour 16,920 Michael Thompson
+Liberal Democrat 2,488 Neil Lewis
+UK Independence Party 0
+Green 1,139 Spoz Esposito
+
+Broxbourne CON HOLD
+Majority: 15,792 Turnout: 64.6% (47,485) 
+Conservative 29,515 Charles Walker
+Labour 13,723 Selina Norgrove
+Liberal Democrat 1,481 Andy Graham
+UK Independence Party 1,918 Tony Faulkner
+Green 848 Tabitha Evans
+
+Broxtowe CON HOLD
+Majority: 865 Turnout: 75.0% (55,510) 
+Conservative 25,985 Anna Soubry
+Labour 25,120 Greg Marshall
+Liberal Democrat 2,247 Tim Hallam
+UK Independence Party 1,477 Fran Loi
+Green 681 Pat Morton
+Other 0
+
+Buckingham SPEAKER HOLD
+Majority: 31,363 Turnout: 66.2% (52,679) 
+UK Independence Party 4,168 Brian Mapletoft
+Green 8,574 Michael Sheppard
+Other 39,937 Scott Raven
+
+Burnley LAB HOLD
+Majority: 6,353 Turnout: 62.3% (40,290) 
+Conservative 12,479 Paul White
+Labour 18,832 Julie Cooper
+Liberal Democrat 6,046 Gordon Birtwistle
+UK Independence Party 2,472 Tom Commis
+Green 461 Laura Fisk
+
+Burton CON HOLD
+Majority: 10,047 Turnout: 67.5% (49,911) 
+Conservative 28,936 Andrew Griffiths
+Labour 18,889 John McKiernan
+Liberal Democrat 1,262 Dominic Hardwick
+UK Independence Party 0
+Green 824 Simon Hales
+
+Bury North LAB GAIN
+Majority: 4,375 Turnout: 70.9% (47,903) 
+Conservative 21,308 David Nuttall
+Labour 25,683 James Frith
+Liberal Democrat 912 Richard Baum
+UK Independence Party 0
+Green 0
+
+Bury South LAB HOLD
+Majority: 5,965 Turnout: 69.2% (50,990) 
+Conservative 21,200 Robert Largan
+Labour 27,165 Ivan Lewis
+Liberal Democrat 1,065 Andrew Page
+UK Independence Party 1,316 Ian Henderson
+Green 0
+Other 244 Peter Wright
+
+Bury St Edmunds CON HOLD
+Majority: 18,441 Turnout: 70.8% (62,160) 
+Conservative 36,794 Jo Churchill
+Labour 18,353 Bill Edwards
+Liberal Democrat 3,565 Helen Korfanty
+UK Independence Party 0
+Green 2,596 Helen Geake
+Other 852 Liam Byrne
+
+Caerphilly LAB HOLD
+Majority: 12,078 Turnout: 64.1% (41,297) 
+Conservative 10,413 Jane Pratt
+Labour 22,491 Wayne David
+Liberal Democrat 725 Kay David
+UK Independence Party 1,259 Liz Wilks
+Plaid Cymru 5,962 Lindsay Whittle
+Green 447 Andrew Creak
+Other 0
+
+Caithness, Sutherland & Easter Ross LIB DEM GAIN
+Majority: 2,044 Turnout: 65.9% (30,901) 
+Conservative 6,990 Struan Mackie
+Labour 3,833 Olivia Bell
+Liberal Democrat 11,061 Jamie Stone
+UK Independence Party 0
+Scottish National Party 9,017 Paul Monaghan
+
+Calder Valley CON HOLD
+Majority: 609 Turnout: 73.4% (58,054) 
+Conservative 26,790 Craig Whittaker
+Labour 26,181 Josh Fenton Glynn
+Liberal Democrat 1,952 Janet Battye
+UK Independence Party 1,466 Paul Rogan
+Green 631 Kieran Turner
+Other 1,034 Robert Holden
+
+Camberwell & Peckham LAB HOLD
+Majority: 37,316 Turnout: 67.1% (57,412) 
+Conservative 7,349 Ben Spencer
+Labour 44,665 Harriet Harman
+Liberal Democrat 3,413 Michael Bukola
+UK Independence Party 0
+Green 1,627 Eleanor Margolies
+Other 358 Ray Towey
+
+Camborne & Redruth CON HOLD
+Majority: 1,577 Turnout: 71.8% (48,456) 
+Conservative 23,001 George Eustice
+Labour 21,424 Graham Winter
+Liberal Democrat 2,979 Geoff Williams
+UK Independence Party 0
+Green 1,052 Geoff Garbett
+Other 0
+
+Cambridge LAB HOLD
+Majority: 12,661 Turnout: 71.7% (55,934) 
+Conservative 9,133 John Hayward
+Labour 29,032 Daniel Zeichner
+Liberal Democrat 16,371 Julian Huppert
+UK Independence Party 0
+Green 1,265 Stuart Tuckwood
+Other 133 Keith Garrett
+
+Cambridgeshire North East CON HOLD
+Majority: 21,270 Turnout: 63.1% (53,284) 
+Conservative 34,340 Stephen Barclay
+Labour 13,070 Ken Rustidge
+Liberal Democrat 2,383 Darren Fower
+UK Independence Party 2,174 Robin Talbot
+Green 1,024 Ruth Johnson
+Other 293 Stephen Goldspink
+
+Cambridgeshire North West CON HOLD
+Majority: 18,008 Turnout: 68.6% (63,991) 
+Conservative 37,529 Shailesh Vara
+Labour 19,521 Iain Ramsbottom
+Liberal Democrat 3,168 Bridget Smith
+UK Independence Party 2,518 John Whitby
+Green 1,255 Greg Guthrie
+Other 0
+
+Cambridgeshire South CON HOLD
+Majority: 15,952 Turnout: 76.2% (64,924) 
+Conservative 33,631 Heidi Allen
+Labour 17,679 Dan Greef
+Liberal Democrat 12,102 Susan van de Ven
+UK Independence Party 0
+Green 1,512 Simon Saggers
+
+Cambridgeshire South East CON HOLD
+Majority: 16,158 Turnout: 73.2% (63,002) 
+Conservative 33,601 Lucy Frazer
+Labour 17,443 Huw Jones
+Liberal Democrat 11,958 Lucy Nethsingha
+UK Independence Party 0
+Green 0
+
+Cannock Chase CON HOLD
+Majority: 8,391 Turnout: 64.2% (47,872) 
+Conservative 26,318 Amanda Milling
+Labour 17,927 Paul Dadge
+Liberal Democrat 794 Nat Green
+UK Independence Party 2,018 Paul Allen
+Green 815 Paul Woodhead
+
+Canterbury LAB GAIN
+Majority: 187 Turnout: 72.7% (56,800) 
+Conservative 25,385 Julian Brazier
+Labour 25,572 Rosie Duffield
+Liberal Democrat 4,561 James Flanagan
+UK Independence Party 0
+Green 1,282 Henry Stanton
+Other 0
+
+Cardiff Central LAB HOLD
+Majority: 17,196 Turnout: 68.1% (40,367) 
+Conservative 7,997 Gregory Stafford
+Labour 25,193 Jo Stevens
+Liberal Democrat 5,415 Eluned Parrott
+UK Independence Party 343 Sarul-Islam Mohammed
+Plaid Cymru 999 Mark Hooper
+Green 420 Benjamin Smith
+Other 0
+
+Cardiff North LAB GAIN
+Majority: 4,174 Turnout: 77.4% (52,022) 
+Conservative 21,907 Craig Williams
+Labour 26,081 Anna McMorrin
+Liberal Democrat 1,714 Matthew Hemsley
+UK Independence Party 582 Gary Oldfield
+Plaid Cymru 1,738 Steffan Webb
+Green 0
+Other 0
+
+Cardiff South & Penarth LAB HOLD
+Majority: 14,864 Turnout: 66.3% (50,736) 
+Conservative 15,318 Bill Rees
+Labour 30,182 Stephen Doughty
+Liberal Democrat 1,430 Emma Sands
+UK Independence Party 942 Andrew Bevan
+Plaid Cymru 2,162 Ian Titherington
+Green 532 Anthony Slaughter
+Other 170 Jeb Hedges
+
+Cardiff West LAB HOLD
+Majority: 12,551 Turnout: 69.4% (46,629) 
+Conservative 13,874 Matt Smith
+Labour 26,425 Kevin Brennan
+Liberal Democrat 1,214 Alex Meredith
+UK Independence Party 698 Richard Lewis
+Plaid Cymru 4,418 Michael Deem
+Green 0
+Other 0
+
+Carlisle CON HOLD
+Majority: 2,599 Turnout: 69.1% (43,056) 
+Conservative 21,472 John Stevenson
+Labour 18,873 Ruth Alcroft
+Liberal Democrat 1,256 Peter Thornton
+UK Independence Party 1,455 Fiona Mills
+Green 0
+Other 0
+
+Carmarthen East & Dinefwr PLAID HOLD
+Majority: 3,908 Turnout: 73.3% (41,029) 
+Conservative 10,778 Havard Hughes
+Labour 12,219 David Darkin
+Liberal Democrat 920 Lesley Prosser
+UK Independence Party 985 Neil Hamilton
+Plaid Cymru 16,127 Jonathan Edwards
+Green 0
+
+Carmarthen West & Pembrokeshire CON HOLD
+Majority: 3,110 Turnout: 72.1% (42,226) 
+Conservative 19,771 Simon Hart
+Labour 16,661 Marc Tierney
+Liberal Democrat 956 Alistair Cameron
+UK Independence Party 905 Phil Edwards
+Plaid Cymru 3,933 Abi Thomas
+Green 0
+
+Carshalton & Wallington LIB DEM HOLD
+Majority: 1,369 Turnout: 71.6% (50,753) 
+Conservative 19,450 Matthew Maxwell Scott
+Labour 9,360 Emina Ibrahim
+Liberal Democrat 20,819 Tom Brake
+UK Independence Party 0
+Green 501 Shasha Khan
+Other 623 Ashley Dickenson
+
+Castle Point CON HOLD
+Majority: 18,872 Turnout: 64.4% (44,710) 
+Conservative 30,076 Rebecca Harris
+Labour 11,204 Joe Cooke
+Liberal Democrat 1,049 Tom Holder
+UK Independence Party 2,381 David Kurten
+Green 0
+
+Ceredigion PLAID GAIN
+Majority: 104 Turnout: 75.2% (39,767) 
+Conservative 7,307 Ruth Davis
+Labour 8,017 Dinah Mulholland
+Liberal Democrat 11,519 Mark Williams
+UK Independence Party 602 Tom Harrison
+Plaid Cymru 11,623 Ben Lake
+Green 542 Grenville Ham
+Other 157 the Crazed Sir Dudley
+
+Charnwood CON HOLD
+Majority: 16,341 Turnout: 70.7% (55,176) 
+Conservative 33,318 Edward Argar
+Labour 16,977 Sean Kelly-Walsh
+Liberal Democrat 2,052 Simon Sansome
+UK Independence Party 1,471 Victoria Connor
+Green 1,036 Nick Cox
+British National Party 322 Stephen Denham
+
+Chatham & Aylesford CON HOLD
+Majority: 10,458 Turnout: 63.7% (44,890) 
+Conservative 25,587 Tracey Crouch
+Labour 15,129 Vince Maple
+Liberal Democrat 1,116 Thomas Quinton
+UK Independence Party 2,225 Nicole Bushill
+Green 573 Bernard Hyde
+Other 260 John Gibson
+
+Cheadle CON HOLD
+Majority: 4,507 Turnout: 75.0% (54,572) 
+Conservative 24,331 Mary Robinson
+Labour 10,417 Martin Miller
+Liberal Democrat 19,824 Mark Hunter
+UK Independence Party 0
+Other 0
+
+Chelmsford CON HOLD
+Majority: 13,572 Turnout: 70.2% (56,860) 
+Conservative 30,525 Vicky Ford
+Labour 16,953 Chris Vince
+Liberal Democrat 6,916 Stephen Robinson
+UK Independence Party 1,645 Nigel Carter
+Green 821 Hossain Reza
+Other 0
+
+Chelsea & Fulham CON HOLD
+Majority: 8,188 Turnout: 66.1% (42,128) 
+Conservative 22,179 Greg Hands
+Labour 13,991 Alan De'Ath
+Liberal Democrat 4,627 Louise Rowntree
+UK Independence Party 524 Alasdair Seton-Marsden
+Green 807 Bill Cashmore
+
+Cheltenham CON HOLD
+Majority: 2,569 Turnout: 72.3% (57,012) 
+Conservative 26,615 Alex Chalk
+Labour 5,408 Keith White
+Liberal Democrat 24,046 Martin Horwood
+UK Independence Party 0
+Green 943 Adam Van Coevorden
+Other 0
+
+Chesham & Amersham CON HOLD
+Majority: 22,140 Turnout: 77.1% (55,252) 
+Conservative 33,514 Cheryl Gillan
+Labour 11,374 Nina Dluzewska
+Liberal Democrat 7,179 Peter Jones
+UK Independence Party 1,525 David Meacock
+Green 1,660 Alan Booth
+
+Chesterfield LAB HOLD
+Majority: 9,605 Turnout: 66.5% (47,927) 
+Conservative 16,661 Spencer Pitfield
+Labour 26,266 Toby Perkins
+Liberal Democrat 2,612 Tom Snowdon
+UK Independence Party 1,611 Stuart Bent
+Green 777 David Wadsworth
+Other 0
+
+Chichester CON HOLD
+Majority: 22,621 Turnout: 70.5% (59,918) 
+Conservative 36,032 Gillian Keegan
+Labour 13,411 Mark Farwell
+Liberal Democrat 6,749 Jonathan Brown
+UK Independence Party 1,650 Andrew Moncreiff
+Green 1,992 Heather Barrie
+Other 84 Andrew Emerson
+
+Chingford & Woodford Green CON HOLD
+Majority: 2,438 Turnout: 71.1% (46,961) 
+Conservative 23,076 Iain Duncan Smith
+Labour 20,638 Bilal Mahmood
+Liberal Democrat 2,043 Deborah Unger
+UK Independence Party 0
+Green 1,204 Sinead King
+Other 0
+
+Chippenham CON HOLD
+Majority: 16,630 Turnout: 74.8% (57,140) 
+Conservative 31,267 Michelle Donelan
+Labour 11,236 Andrew Newman
+Liberal Democrat 14,637 Helen Belcher
+UK Independence Party 0
+Green 0
+
+Chipping Barnet CON HOLD
+Majority: 353 Turnout: 72.0% (55,423) 
+Conservative 25,679 Theresa Villiers
+Labour 25,326 Emma Whysall
+Liberal Democrat 3,012 Marisha Ray
+UK Independence Party 0
+Green 1,406 Phil Fletcher
+Other 0
+
+Chorley LAB HOLD
+Majority: 7,512 Turnout: 72.8% (55,634) 
+Conservative 23,233 Caroline Moon
+Labour 30,745 Lindsay Hoyle
+Liberal Democrat 1,126 Stephen Fenn
+UK Independence Party 0
+Green 530 Peter Lageard
+Other 0
+
+Christchurch CON HOLD
+Majority: 25,171 Turnout: 72.0% (50,633) 
+Conservative 35,230 Christopher Chope
+Labour 10,059 Patrick Canavan
+Liberal Democrat 4,020 Michael Cox
+UK Independence Party 0
+Green 1,324 Chris Rigby
+
+Cities of London & Westminster CON HOLD
+Majority: 3,148 Turnout: 62.8% (38,654) 
+Conservative 18,005 Mark Field
+Labour 14,857 Ibrahim Dogus
+Liberal Democrat 4,270 Bridget Fox
+UK Independence Party 426 Anil Bhatti
+Green 821 Lawrence McNally
+Other 275 Ankit Love The Maharaja of Kashmir
+
+City of Chester LAB HOLD
+Majority: 9,176 Turnout: 77.4% (56,421) 
+Conservative 22,847 Will Gallagher
+Labour 32,023 Chris Matheson
+Liberal Democrat 1,551 Lizzie Jewkes
+UK Independence Party 0
+
+City of Durham LAB HOLD
+Majority: 12,364 Turnout: 67.9% (48,294) 
+Conservative 14,408 Richard Lawrie
+Labour 26,772 Roberta Blackman-Woods
+Liberal Democrat 4,787 Amanda Hopgood
+UK Independence Party 1,116 Malcolm Bint
+Green 767 Jonathan Elmer
+Other 444 Jim Clark
+
+Clacton CON GAIN
+Majority: 15,828 Turnout: 63.7% (44,145) 
+Conservative 27,031 Giles Watling
+Labour 11,203 Tasha Osben
+Liberal Democrat 887 David Grace
+UK Independence Party 3,357 Paul Oakley
+Green 719 Chris Southall
+Other 948 Robin Tilbrook
+
+Cleethorpes CON HOLD
+Majority: 10,400 Turnout: 65.5% (47,844) 
+Conservative 27,321 Martin Vickers
+Labour 16,921 Peter Keith
+Liberal Democrat 1,110 Roy Horobin
+UK Independence Party 2,022 Tony Blake
+Green 470 Loyd Emmerson
+Other 0
+
+Clwyd South LAB HOLD
+Majority: 4,356 Turnout: 69.0% (37,474) 
+Conservative 14,646 Simon Baynes
+Labour 19,002 Susan Elan Jones
+Liberal Democrat 731 Bruce Roberts
+UK Independence Party 802 Jeanette Bassford-Barton
+Plaid Cymru 2,293 Christopher Allen
+Green 0
+
+Clwyd West CON HOLD
+Majority: 3,437 Turnout: 69.8% (40,654) 
+Conservative 19,541 David Jones
+Labour 16,104 Gareth Thomas
+Liberal Democrat 1,091 Victor Babu
+UK Independence Party 0
+Plaid Cymru 3,918 Dilwyn Roberts
+Other 0
+
+Coatbridge, Chryston & Bellshill LAB GAIN
+Majority: 1,586 Turnout: 63.3% (45,040) 
+Conservative 7,318 Robyn Halbert
+Labour 19,193 Hugh Gaffney
+Liberal Democrat 922 David Bennie
+UK Independence Party 0
+Scottish National Party 17,607 Phil Boswell
+
+Colchester CON HOLD
+Majority: 5,677 Turnout: 66.9% (53,545) 
+Conservative 24,565 Will Quince
+Labour 18,888 Tim Young
+Liberal Democrat 9,087 Bob Russell
+UK Independence Party 0
+Green 828 Mark Goacher
+Other 177 Robin Rennie
+
+Colne Valley LAB GAIN
+Majority: 915 Turnout: 71.6% (60,420) 
+Conservative 27,903 Jason McCartney
+Labour 28,818 Thelma Walker
+Liberal Democrat 2,494 Cahal Burke
+UK Independence Party 0
+Green 892 Sonia King
+Other 313 Patricia Sadio
+
+Congleton CON HOLD
+Majority: 12,619 Turnout: 73.3% (56,231) 
+Conservative 31,830 Fiona Bruce
+Labour 19,211 Sam Corcoran
+Liberal Democrat 2,902 Peter Hirst
+UK Independence Party 1,289 Mark Davies
+Green 999 Alexander Heath
+
+Copeland CON GAIN
+Majority: 1,695 Turnout: 69.5% (42,927) 
+Conservative 21,062 Trudy Harrison
+Labour 19,367 Gillian Troughton
+Liberal Democrat 1,404 Rebecca Hanson
+UK Independence Party 1,094 Herbert Crossman
+Green 0
+
+Corby CON HOLD
+Majority: 2,690 Turnout: 72.8% (59,997) 
+Conservative 29,534 Tom Pursglove
+Labour 26,844 Beth Miller
+Liberal Democrat 1,545 Chris Stanbra
+UK Independence Party 1,495 Sam Watts
+Green 579 Steven Scrutton
+
+Cornwall North CON HOLD
+Majority: 7,200 Turnout: 74.0% (50,944) 
+Conservative 25, 835 Scott Mann
+Labour 6,151 Joy Bassett
+Liberal Democrat 18,636 Daniel Rogerson
+UK Independence Party 0
+Green 0
+CPA 185 John Allman
+Soc Lab 138 Robert Hawkins
+
+Cornwall South East CON HOLD
+Majority: 17,443 Turnout: 51.0% (53,214) 
+Conservative 29,493 Sheryll Murray
+Labour 12,050 Gareth Derrick
+Liberal Democrat 10,336 Phil Hutty
+UK Independence Party 0
+Green 1,335 Martin Corney
+Other 0
+
+Coventry North East LAB HOLD
+Majority: 15,580 Turnout: 61.4% (46,508) 
+Conservative 13,919 Timothy Mayer
+Labour 29,499 Colleen Fletcher
+Liberal Democrat 1,157 Russell Field
+UK Independence Party 1,350 Avtar Taggar
+Green 502 Matthew Handley
+Other 81 Afzal Mahmood
+
+Coventry North West LAB HOLD
+Majority: 8,580 Turnout: 66.3% (49,849) 
+Conservative 18,314 Resham Kotecha
+Labour 26,894 Geoffrey Robinson
+Liberal Democrat 1,286 Andrew Hilton
+UK Independence Party 1,525 Michael Gee
+Green 666 Stephen Gray
+Other 1,164 Ciaran Norris
+
+Coventry South LAB HOLD
+Majority: 7,947 Turnout: 66.4% (47,009) 
+Conservative 17,927 Michelle Lowe
+Labour 25,874 James Cunningham
+Liberal Democrat 1,343 Greg Judge
+UK Independence Party 1,037 Ian Rogers
+Green 604 Aimee Challenor
+Other 224 Sandra Findlay
+
+Crawley CON HOLD
+Majority: 2,457 Turnout: 68.5% (50,273) 
+Conservative 25,426 Henry Smith
+Labour 22,969 Tim Lunnon
+Liberal Democrat 1,878 Marko Scepanovic
+UK Independence Party 0
+Green 0
+
+Crewe & Nantwich LAB GAIN
+Majority: 48 Turnout: 69.7% (55,027) 
+Conservative 25,880 Edward Timpson
+Labour 25,928 Laura Smith
+Liberal Democrat 1,334 David Crowther
+UK Independence Party 1,885 Michael Stanley
+
+Croydon Central LAB GAIN
+Majority: 5,652 Turnout: 71.3% (57,091) 
+Conservative 24,221 Gavin Barwell
+Labour 29,873 Sarah Jones
+Liberal Democrat 1,083 Gill Hickson
+UK Independence Party 1,040 Peter Staveley
+Green 626 Tracey Hague
+Other 248 John Boadu
+
+Croydon North LAB HOLD
+Majority: 32,365 Turnout: 68.2% (59,623) 
+Conservative 11,848 Samuel Kasumu
+Labour 44,213 Steve Reed
+Liberal Democrat 1,656 Maltby Pindar
+UK Independence Party 753 Michael Swadling
+Green 983 Peter Underwood
+Other 170 Lee Berks
+
+Croydon South CON HOLD
+Majority: 11,406 Turnout: 73.3% (61,257) 
+Conservative 33,334 Chris Philp
+Labour 21,928 Jennifer Brathwaite
+Liberal Democrat 3,541 Anna Jones
+UK Independence Party 1,116 Kathleen Garner
+Green 1,125 Catherine Shelley
+Other 213 David Omamogho
+
+Cumbernauld, Kilsyth & Kirkintilloch East SNP HOLD
+Majority: 4,264 Turnout: 65.9% (43,833) 
+Conservative 8,010 Stephen Johnston
+Labour 14,858 Elisha Fisher
+Liberal Democrat 1,238 Rod Ackland
+UK Independence Party 605 Carl Pearson
+Scottish National Party 19,122 Stuart McDonald
+
+Cynon Valley LAB HOLD
+Majority: 13,238 Turnout: 62.0% (31,802) 
+Conservative 6,166 Keith Dewhurst
+Labour 19,404 Ann Clwyd
+Liberal Democrat 585 Nicola Knight
+UK Independence Party 1,271 Ian McLean
+Plaid Cymru 4,376 Liz Walters
+Green 0
+Other 0
+
+Dagenham & Rainham LAB HOLD
+Majority: 4,958 Turnout: 64.5% (45,537) 
+Conservative 18,000 Julie Marson
+Labour 22,958 Jon Cruddas
+Liberal Democrat 465 Jonathan Fryer
+UK Independence Party 3,246 Peter Harris
+Green 544 Denis Breading
+British National Party 239 Paul Sturdy
+Other 85 Terence London
+
+Darlington LAB HOLD
+Majority: 3,280 Turnout: 67.6% (44,817) 
+Conservative 19,401 Peter Cuthbertson
+Labour 22,681 Jenny Chapman
+Liberal Democrat 1,031 Anne-Marie Curry
+UK Independence Party 1,180 Kevin Brack
+Green 524 Matthew Snedker
+Other 0
+
+Dartford CON HOLD
+Majority: 13,186 Turnout: 69.1% (54,224) 
+Conservative 31,210 Gareth Johnson
+Labour 18,024 Bachchu Kaini
+Liberal Democrat 1,428 Simon Beard
+UK Independence Party 2,544 Ben Fryer
+Green 807 Andrew Blatchford
+Other 211 Ola Adewunmi
+
+Daventry CON HOLD
+Majority: 21,734 Turnout: 73.9% (55,663) 
+Conservative 35,464 Chris Heaton-Harris
+Labour 13,730 Aiden Ramsey
+Liberal Democrat 4,015 Andrew Simpson
+UK Independence Party 1,497 Ian Gibbins
+Green 957 Jamie Wildman
+
+Delyn LAB HOLD
+Majority: 4,240 Turnout: 72.8% (39,418) 
+Conservative 16,333 Matt Wright
+Labour 20,573 David Hanson
+Liberal Democrat 1,031 Tom Rippeth
+UK Independence Party 0
+Plaid Cymru 1,481 Paul Rowlinson
+Green 0
+
+Denton & Reddish LAB HOLD
+Majority: 14,077 Turnout: 60.2% (39,599) 
+Conservative 11,084 Rozila Kana
+Labour 25,161 Andrew Gwynne
+Liberal Democrat 853 Catherine Ankers
+UK Independence Party 1,798 Josh Seddon
+Green 486 Gareth Hayes
+Other 217 Farmin Lord Dave
+
+Derby North LAB GAIN
+Majority: 2,015 Turnout: 69.6% (48,672) 
+Conservative 21,607 Amanda Solloway
+Labour 23,622 Chris Williamson
+Liberal Democrat 2,262 Lucy Care
+UK Independence Party 1,181 Bill Piper
+Green 0
+
+Derby South LAB HOLD
+Majority: 11,248 Turnout: 64.8% (45,306) 
+Conservative 15,182 Evonne Williams
+Labour 26,430 Margaret Beckett
+Liberal Democrat 1,229 Joe Naitta
+UK Independence Party 2,011 Alan Graves
+Green 454 Ian Sleeman
+Other 0
+
+Derbyshire Dales CON HOLD
+Majority: 14,327 Turnout: 77.0% (49,571) 
+Conservative 29,744 Patrick McLoughlin
+Labour 15,417 Andy Botham
+Liberal Democrat 3,126 Andrew Hollyer
+UK Independence Party 0
+Green 1,002 Matthew Buckler
+Other 282 Robin Greenwood
+
+Derbyshire Mid CON HOLD
+Majority: 11,616 Turnout: 74.7% (50,371) 
+Conservative 29,513 Pauline Latham
+Labour 17,897 Alison Martin
+Liberal Democrat 1,793 Adam Wain
+UK Independence Party 0
+Green 1,168 Sue Macfarlane
+
+Derbyshire North East CON GAIN
+Majority: 2,860 Turnout: 69.9% (50,380) 
+Conservative 24,783 Lee Rowley
+Labour 21,923 Natascha Engel
+Liberal Democrat 1,390 David Lomax
+UK Independence Party 1,565 James Bush
+Green 719 David Kesteven
+Other 0
+
+Derbyshire South CON HOLD
+Majority: 11,970 Turnout: 68.9% (52,631) 
+Conservative 30,907 Heather Wheeler
+Labour 18,937 Robert Pearson
+Liberal Democrat 1,870 Lorraine Johnson
+UK Independence Party 0
+Green 917 Marten Kats
+
+Devizes CON HOLD
+Majority: 21,136 Turnout: 70.1% (50,593) 
+Conservative 31,744 Claire Perry
+Labour 10,608 Imtiyaz Shaikh
+Liberal Democrat 4,706 Christopher Coleman
+UK Independence Party 1,706 Timothy Page
+Green 1,606 Emma Dawnay
+Other 223 Jim Gunter
+
+Devon Central CON HOLD
+Majority: 15,680 Turnout: 77.8% (57,844) 
+Conservative 31,278 Mel Stride
+Labour 15,598 Lisa Robillard Webb
+Liberal Democrat 6,770 Alex White
+UK Independence Party 1,326 Tim Matthews
+Green 1,531 Andy Williamson
+Other 1,341 Lloyd Knight
+
+Devon East CON HOLD
+Majority: 7,758 Turnout: 73.3% (60,382) 
+Conservative 29,306 Hugo Swire
+Labour 6,857 Jan Ross
+Liberal Democrat 1,468 Alison Eden
+UK Independence Party 1,203 Brigitte Graham
+Other 21,548 Peter Faithfull
+
+Devon North CON HOLD
+Majority: 4,332 Turnout: 73.5% (55,705) 
+Conservative 25,517 Peter Heaton-Jones
+Labour 7,063 Mark Cann
+Liberal Democrat 21,185 Nick Harvey
+UK Independence Party 1,187 Stephen Crowther
+Green 753 Ricky Knight
+Other 0
+
+Devon South West CON HOLD
+Majority: 15,816 Turnout: 74.2% (52,857) 
+Conservative 31,634 Gary Streeter
+Labour 15,818 Philippa Davey
+Liberal Democrat 2,732 Caroline Voaden
+UK Independence Party 1,540 Ian Ross
+Green 1,133 Win Scutt
+
+Devon West & Torridge CON HOLD
+Majority: 20,686 Turnout: 73.9% (59,480) 
+Conservative 33,612 Geoffrey Cox
+Labour 12,926 Vince Barry
+Liberal Democrat 10,526 David Chalmers
+UK Independence Party 0
+Green 1,622 Chris Jordan
+Other 794 Robin Julian
+
+Dewsbury LAB HOLD
+Majority: 3,321 Turnout: 69.5% (56,545) 
+Conservative 25,493 Beth Prescott
+Labour 28,814 Paula Sherriff
+Liberal Democrat 1,214 Ednan Hussain
+UK Independence Party 0
+Green 1,024 Simon Cope
+Other 0
+
+Don Valley LAB HOLD
+Majority: 5,169 Turnout: 62.2% (45,988) 
+Conservative 19,182 Aaron Bell
+Labour 24,351 Caroline Flint
+Liberal Democrat 856 Anthony Smith
+UK Independence Party 0
+Other 1,599 Stevie Manion
+
+Doncaster Central LAB HOLD
+Majority: 10,131 Turnout: 60.0% (43,024) 
+Conservative 14,784 Tom Hunt
+Labour 24,915 Rosie Winterton
+Liberal Democrat 973 Alison Breslford
+UK Independence Party 0
+Other 2,352 Eddie Todd
+
+Doncaster North LAB HOLD
+Majority: 14,024 Turnout: 58.5% (42,312) 
+Conservative 11,687 Shade Adoh
+Labour 25,711 Ed Miliband
+Liberal Democrat 706 Robert Adamson
+UK Independence Party 2,738 Kim Parkinson
+Green 0
+Other 1,470 David Allen
+
+Dorset Mid & Poole North CON HOLD
+Majority: 15,339 Turnout: 74.2% (48,254) 
+Conservative 28,585 Michael Tomlinson
+Labour 6,423 Steve Brew
+Liberal Democrat 13,246 Vikki Slade
+UK Independence Party 0
+Green 0
+
+Dorset North CON HOLD
+Majority: 25,777 Turnout: 73.0% (55,724) 
+Conservative 36,169 Simon Hoare
+Labour 10,392 Pat Osborne
+Liberal Democrat 7,556 Thomas Panton
+UK Independence Party 0
+Green 1,607 John Tutton
+
+Dorset South CON HOLD
+Majority: 11,695 Turnout: 71.8% (51,906) 
+Conservative 29,135 Richard Drax
+Labour 17,440 Tashi Warr
+Liberal Democrat 3,053 Howard Legg
+UK Independence Party 0
+Green 2,278 Jon Orrell
+Other 0
+
+Dorset West CON HOLD
+Majority: 19,091 Turnout: 75.4% (59,598) 
+Conservative 33,081 Oliver Letwin
+Labour 10,896 Lee Rhodes
+Liberal Democrat 13,990 Andy Canning
+UK Independence Party 0
+Green 1,631 Kelvin Clayton
+
+Dover CON HOLD
+Majority: 6,437 Turnout: 69.7% (51,966) 
+Conservative 27,211 Charlie Elphicke
+Labour 20,774 Stacey Blair
+Liberal Democrat 1,336 Simon Dodd
+UK Independence Party 1,722 Piers Wauchope
+Green 923 Beccy Sawbridge
+
+Down North IND HOLD
+Majority: 5,284 Turnout: 60.9% (39,185) 
+Conservative 941 Frank Shivers
+UK Independence Party 0
+Sinn Fein 531 Therese McCartney
+Democratic Unionist Party 14,940 Alex Easton
+Green 2,549 Steven Agnew
+Other 20,224 Caoimhe McNeill
+
+Down South SINN FEIN GAIN
+Majority: 632 Turnout: 67.2% (50,893) 
+Conservative 0
+UK Independence Party 0
+Sinn Fein 20,328 Chris Hazzard
+Democratic Unionist Party 8,867 Diane Forsythe
+Ulster Unionist Party 2,002 Harold McKee
+Other 19,696 Margaret Ritchie
+
+Dudley North LAB HOLD
+Majority: 22 Turnout: 62.7% (38,910) 
+Conservative 18,068 Les Jones
+Labour 18,090 Ian Austin
+Liberal Democrat 368 Ben France
+UK Independence Party 2,144 Bill Etheridge
+Green 240 Andrew Nixon
+Other 0
+
+Dudley South CON HOLD
+Majority: 7,730 Turnout: 62.4% (38,244) 
+Conservative 21,588 Mike Wood
+Labour 13,858 Natasha Millward
+Liberal Democrat 625 Jon Bramall
+UK Independence Party 1,791 Mitch Bolton
+Green 382 Jenny Maxwell
+
+Dulwich & West Norwood LAB HOLD
+Majority: 28,156 Turnout: 72.0% (56,143) 
+Conservative 10,940 Rachel Wolf
+Labour 39,096 Helen Hayes
+Liberal Democrat 4,475 Gail Kent
+UK Independence Party 0
+Green 1,408 Rashid Nix
+Other 224 Yen Lin Chong
+
+Dumfries & Galloway CON GAIN
+Majority: 5,643 Turnout: 69.5% (51,599) 
+Conservative 22,344 Alister Jack
+Labour 10,775 Daniel Goodare
+Liberal Democrat 1,241 Joan Mitchell
+UK Independence Party 0
+Scottish National Party 16,701 Richard Arkless
+Other 538 Yen Hongmei Jin
+
+Dumfriesshire, Clydesdale & Tweeddale CON HOLD
+Majority: 9,441 Turnout: 72.4% (48,964) 
+Conservative 24,177 David Mundell
+Labour 8,102 Douglas Beattie
+Liberal Democrat 1,949 John Ferry
+UK Independence Party 0
+Scottish National Party 14,736 Mairi McAllan
+Green 0
+
+Dunbartonshire East LIB DEM GAIN
+Majority: 5,339 Turnout: 78.1% (51,801) 
+Conservative 7,563 Sheila Mechan
+Labour 7,531 Callum McNally
+Liberal Democrat 21,023 Jo Swinson
+UK Independence Party 0
+Scottish National Party 15,684 John Nicolson
+Green 0
+
+Dunbartonshire West SNP HOLD
+Majority: 2,288 Turnout: 65.2% (44,083) 
+Conservative 7,582 Penny Hutton
+Labour 16,602 Jean Anne Mitchell
+Liberal Democrat 1,009 Rebecca Plenderleith
+Scottish National Party 18,890 Martin Docherty
+Other 0
+
+Dundee East SNP HOLD
+Majority: 6,645 Turnout: 65.2% (42,928) 
+Conservative 11,746 Eleanor Price
+Labour 11,176 Lesley Brennan
+Liberal Democrat 1,615 Christopher McIntyre
+Scottish National Party 18,391 Stewart Hosie
+Green 0
+Other 0
+
+Dundee West SNP HOLD
+Majority: 5,262 Turnout: 61.7% (38,677) 
+Conservative 6,257 Darren Cormack
+Labour 12,783 Alan Cowan
+Liberal Democrat 1,189 Jenny Blain
+Scottish National Party 18,045 Chris Law
+Green 0
+Other 403 Sean Dobson
+
+Dunfermline & Fife West SNP HOLD
+Majority: 844 Turnout: 67.4% (51,010) 
+Conservative 12,593 Belinda Hacking
+Labour 17,277 Cara Hilton
+Liberal Democrat 3,019 James Calder
+Scottish National Party 18,121 Douglas Chapman
+Green 0
+
+Durham North LAB HOLD
+Majority: 12,939 Turnout: 64.6% (43,284) 
+Conservative 12,978 Laetitia Glossop
+Labour 25,917 Kevan Jones
+Liberal Democrat 1,981 Craig Martin
+UK Independence Party 2,408 Kenneth Rollings
+Green 0
+
+Durham North West LAB HOLD
+Majority: 8,792 Turnout: 66.5% (47,902) 
+Conservative 16,516 Sally-Ann Hart
+Labour 25,308 Laura Pidcock
+Liberal Democrat 3,398 Owen Temple
+UK Independence Party 2,150 Alan Breeze
+Green 530 Dominic Horsman
+
+Dwyfor Meirionnydd PLAID HOLD
+Majority: 4,850 Turnout: 67.9% (30,348) 
+Conservative 8,837 Neil Fairlamb
+Labour 6,273 Mathew Norman
+Liberal Democrat 937 Stephen Churchman
+UK Independence Party 614 Frank Wykes
+Plaid Cymru 13,687 Liz Saville Roberts
+Green 0
+Other 0
+
+Ealing Central LAB HOLD
+Majority: 13,807 Turnout: 74.6% (55,342) 
+Conservative 19,230 Joy Morrissey
+Labour 33,037 Rupa Huq
+Liberal Democrat 3,075 Jon Ball
+UK Independence Party 0
+Green 0
+Other 0
+
+Ealing North LAB HOLD
+Majority: 19,693 Turnout: 70.2% (52,516) 
+Conservative 14,942 Isobel Grant
+Labour 34,635 Steve Pound
+Liberal Democrat 1,275 Humaira Sanders
+UK Independence Party 921 Peter Mcilvenna
+Green 743 Meena Hans
+Other 0
+
+Ealing Southall LAB HOLD
+Majority: 22,090 Turnout: 69.3% (45,145) 
+Conservative 9,630 Fabio Conti
+Labour 31,720 Virendra Sharma
+Liberal Democrat 1,892 Nigel Bakhai
+UK Independence Party 504 John Poynton
+Green 1,037 Peter Ward
+Other 362 Arjinder Thiara
+
+Easington LAB HOLD
+Majority: 14,892 Turnout: 58.3% (36,364) 
+Conservative 8,260 Barney Campbell
+Labour 23,152 Grahame Morris
+Liberal Democrat 460 Tom Hancock
+UK Independence Party 1,727 Allyn Roberts
+Green 410 Martie Warin
+Other 2,355 Susan McDonnell
+
+East Ham LAB HOLD
+Majority: 39,883 Turnout: 67.6% (56,633) 
+Conservative 7,241 Kirsty Finlayson
+Labour 47,124 Stephen Timms
+Liberal Democrat 656 Glanville Williams
+UK Independence Party 697 Daniel Oxley
+Green 474 Chidi Oti-Obihara
+Other 441 Choudhry Afzal
+
+East Kilbride, Strathaven & Lesmahagow SNP HOLD
+Majority: 3,866 Turnout: 67.3% (54,102) 
+Conservative 13,704 Mark McGeever
+Labour 17,157 Monique McAdams
+Liberal Democrat 1,590 Paul McGarry
+UK Independence Party 628 Janice MacKay
+Scottish National Party 21,023 Lisa Cameron
+Other 0
+
+East Lothian LAB GAIN
+Majority: 3,083 Turnout: 70.6% (55,878) 
+Conservative 16,540 Sheila Low
+Labour 20,158 Martin Whitfield
+Liberal Democrat 1,738 Elisabeth Wilson
+UK Independence Party 0
+Scottish National Party 17,075 George Kerevan
+Green 0
+Other 367 Mike Allan
+
+Eastbourne LIB DEM GAIN
+Majority: 1,609 Turnout: 72.9% (57,420) 
+Conservative 25,315 Caroline Ansell
+Labour 4,671 Jake Lambert
+Liberal Democrat 26,924 Stephen Lloyd
+UK Independence Party 0
+Green 510 Alex Hough
+Other 0
+
+Eastleigh CON HOLD
+Majority: 14,179 Turnout: 70.5% (57,280) 
+Conservative 28,889 Mims Davies
+Labour 11,454 Jill Payne
+Liberal Democrat 14,710 Mike Thornton
+UK Independence Party 1,477 Malcolm Jones
+Green 750 Ron Meldrum
+Other 0
+
+Eddisbury CON HOLD
+Majority: 11,942 Turnout: 73.0% (51,319) 
+Conservative 29,192 Antoinette Sandbach
+Labour 17,250 Cathy Reynolds
+Liberal Democrat 2,804 Ian Priestner
+UK Independence Party 1,109 John Bickley
+Green 785 Mark Green
+Other 179 Morgan Hill
+
+Edinburgh East SNP HOLD
+Majority: 3,427 Turnout: 66.1% (43,525) 
+Conservative 8,081 Katie Mackie
+Labour 15,084 Patsy King
+Liberal Democrat 1,849 Tristan Gray
+UK Independence Party 0
+Scottish National Party 18,511 Tommy Sheppard
+Green 0
+Other 0
+
+Edinburgh North & Leith SNP HOLD
+Majority: 1,625 Turnout: 71.2% (56,552) 
+Conservative 15,385 Iain McGill
+Labour 17,618 Gordon Munro
+Liberal Democrat 2,579 Martin Veart
+UK Independence Party 0
+Scottish National Party 19,243 Deidre Brock
+Green 1,727 Lorna Slater
+Other 0
+
+Edinburgh South LAB HOLD
+Majority: 15,514 Turnout: 74.1% (47,840) 
+Conservative 9,428 Stephanie Smith
+Labour 26,269 Ian Murray
+Liberal Democrat 1,388 Alan Beal
+UK Independence Party 0
+Scottish National Party 10,755 Jim Eadie
+Green 0
+Other 0
+
+Edinburgh South West SNP HOLD
+Majority: 1,097 Turnout: 69.4% (49,390) 
+Conservative 16,478 Miles Briggs
+Labour 13,213 Foysol Choudhury
+Liberal Democrat 2,124 Aisha Mir
+UK Independence Party 0
+Scottish National Party 17,575 Joanna Cherry
+Green 0
+
+Edinburgh West LIB DEM GAIN
+Majority: 2,988 Turnout: 73.8% (52,795) 
+Conservative 11,559 Sandy Batho
+Labour 7,876 Mandy Telford
+Liberal Democrat 18,108 Christine Jardine
+UK Independence Party 0
+Scottish National Party 15,120 Toni Giugliano
+Green 0
+Other 132 Mark Whittet
+
+Edmonton LAB HOLD
+Majority: 21,115 Turnout: 66.5% (43,678) 
+Conservative 10,106 Gonul Daniels
+Labour 31,221 Kate Osamor
+Liberal Democrat 858 David Schmitz
+UK Independence Party 860 Nigel Sussman
+Green 633 Benjamin Gill
+Other 0
+
+Ellesmere Port & Neston LAB HOLD
+Majority: 11,390 Turnout: 74.2% (50,939) 
+Conservative 18,747 Nigel Jones
+Labour 30,137 Justin Madders
+Liberal Democrat 892 Ed Gough
+UK Independence Party 821 Fred Fricker
+Green 342 Steven Baker
+Other 0
+
+Elmet & Rothwell CON HOLD
+Majority: 9,805 Turnout: 74.2% (59,542) 
+Conservative 32,352 Alec Shelbrooke
+Labour 22,547 David Patrick Nagle
+Liberal Democrat 2,606 Stewart Golton
+UK Independence Party 0
+Green 995 Dylan Brown
+Other 1,042 Matthew Clover
+
+Eltham LAB HOLD
+Majority: 6,296 Turnout: 71.6% (46,155) 
+Conservative 18,832 Matt Hartley
+Labour 25,128 Clive Efford
+Liberal Democrat 1,457 David Hall-Matthews
+UK Independence Party 0
+Green 0
+British National Party 738 John Clarke
+
+Enfield North LAB HOLD
+Majority: 10,247 Turnout: 70.9% (48,565) 
+Conservative 17,930 Nick De Bois
+Labour 28,177 Joan Ryan
+Liberal Democrat 1,036 Nicholas Da Costa
+UK Independence Party 848 Deborah Cairns
+Green 574 Bill Linton
+Other 0
+
+Enfield Southgate LAB GAIN
+Majority: 4,355 Turnout: 74.2% (48,328) 
+Conservative 20,634 David Burrowes
+Labour 24,989 Bambos Charalambous
+Liberal Democrat 1,925 Pippa Morgan
+UK Independence Party 0
+Green 780 David Flint
+
+Epping Forest CON HOLD
+Majority: 18,243 Turnout: 67.9% (50,779) 
+Conservative 31,462 Eleanor Laing
+Labour 13,219 Liam Preston
+Liberal Democrat 2,884 Jon Whitehouse
+UK Independence Party 1,871 Patrick O'Flynn
+Green 1,233 Simon Heap
+Other 110 Thomas Hall
+
+Epsom & Ewell CON HOLD
+Majority: 20,475 Turnout: 74.1% (59,266) 
+Conservative 35,313 Chris Grayling
+Labour 14,838 Ed Mayne
+Liberal Democrat 7,401 Steve Gee
+UK Independence Party 0
+Green 1,714 Janice Baker
+Other 0
+
+Erewash CON HOLD
+Majority: 4,534 Turnout: 68.2% (49,781) 
+Conservative 25,939 Maggie Throup
+Labour 21,405 Catherine Atkinson
+Liberal Democrat 1,243 Martin Garnett
+UK Independence Party 0
+Green 675 Ralph Hierons
+Other 519 Roy Dunn
+
+Erith & Thamesmead LAB HOLD
+Majority: 10,014 Turnout: 63.8% (44,464) 
+Conservative 15,571 Edward Baxter
+Labour 25,585 Teresa Pearce
+Liberal Democrat 750 Simon Waddington
+UK Independence Party 1,728 Ronie Johnson
+Green 507 Claudine Letsae
+Other 323 Temi Olodu
+
+Esher & Walton CON HOLD
+Majority: 23,298 Turnout: 73.9% (59,842) 
+Conservative 35,071 Dominic Raab
+Labour 11,773 Lana Hylands
+Liberal Democrat 10,374 Andrew Davis
+UK Independence Party 1,034 David Ions
+Green 1,074 Olivia Palmer
+Other 516 Della Reynolds
+
+Exeter LAB HOLD
+Majority: 16,117 Turnout: 71.7% (55,423) 
+Conservative 18,219 James Taghdissian
+Labour 34,336 Ben Bradshaw
+Liberal Democrat 1,562 Vanessa Newcombe
+UK Independence Party 0
+Green 1,027 Joe Levy
+Other 279 Jonathan West
+
+Falkirk SNP HOLD
+Majority: 4,923 Turnout: 65.4% (53,809) 
+Conservative 14,088 Callum Laidlaw
+Labour 16,029 Craig Martin
+Liberal Democrat 1,120 Austin Reid
+UK Independence Party 712 Stuart Martin
+Scottish National Party 20,952 Johnny McNally
+Green 908 Debra Pickering
+
+Fareham CON HOLD
+Majority: 21,555 Turnout: 71.7% (57,014) 
+Conservative 35,915 Suella Fernandes
+Labour 14,360 Matthew Randall
+Liberal Democrat 3,896 Matthew Winnington
+UK Independence Party 1,541 Tony Blewett
+Green 1,302 Miles Grindey
+Other 0
+
+Faversham & Kent Mid CON HOLD
+Majority: 17,413 Turnout: 65.5% (49,749) 
+Conservative 30,390 Helen Whately
+Labour 12,977 Michael Desmond
+Liberal Democrat 3,249 David Naghi
+UK Independence Party 1,702 Mark McGiffin
+Green 1,431 Alastair Gould
+Other 0
+
+Feltham & Heston LAB HOLD
+Majority: 15,603 Turnout: 64.9% (53,027) 
+Conservative 16,859 Samir Jassal
+Labour 32,462 Seema Malhotra
+Liberal Democrat 1,387 Hina Malik
+UK Independence Party 1,510 Stuart Agnew
+Green 809 Tony Firkins
+
+Fermanagh & South Tyrone SINN FEIN GAIN
+Majority: 875 Turnout: 75.8% (53,481) 
+Sinn Fein 25,230 Michelle Gildernew
+Ulster Unionist Party 24,355 Tom Elliott
+Green 423 Tanya Jones
+Other 3,473 Mary Garrity
+
+Fife North East SNP HOLD
+Majority: 2 Turnout: 71.3% (41,822) 
+Conservative 10,088 Tony Miklinski
+Labour 4,026 Rosalind Garton
+Liberal Democrat 13,741 Janet Riches
+Scottish National Party 13,743 Stephen Gethins
+Green 0
+Other 224 Mike Scott-Hayward
+
+Filton & Bradley Stoke CON HOLD
+Majority: 4,182 Turnout: 69.9% (50,694) 
+Conservative 25,331 Jack Lopresti
+Labour 21,149 Naomi Rylatt
+Liberal Democrat 3,052 Eva Fielding
+UK Independence Party 0
+Green 1,162 Diana Warner
+
+Finchley & Golders Green CON HOLD
+Majority: 1,657 Turnout: 71.6% (52,385) 
+Conservative 24,599 Mike Freer
+Labour 22,942 Jeremy Newmark
+Liberal Democrat 3,463 Jonathan Davies
+UK Independence Party 462 Andrew Price
+Green 919 Adele Ward
+
+Folkestone & Hythe CON HOLD
+Majority: 15,411 Turnout: 70.0% (58,875) 
+Conservative 32,197 Damian Collins
+Labour 16,786 Laura Davison
+Liberal Democrat 4,222 Lynne Beaumont
+UK Independence Party 2,565 Stephen Priestley
+Green 2,498 Martin Whybrow
+Other 607 David Plumstead
+
+Forest of Dean CON HOLD
+Majority: 9,502 Turnout: 73.0% (51,767) 
+Conservative 28,096 Mark Harper
+Labour 18,594 Shaun Stammers
+Liberal Democrat 2,029 Janet Ellard
+UK Independence Party 1,237 Ernie Warrender
+Green 1,241 James Greenwood
+Other 570 Julian Burrett
+
+Foyle SINN FEIN GAIN
+Majority: 2,055 Turnout: 65.4% (45,965) 
+Conservative 0
+UK Independence Party 0
+Sinn Fein 18,256 Elisha McCallion
+Democratic Unionist Party 7,398 Gary Middleton
+Ulster Unionist Party 0
+Other 20,311 Mark Durkan
+
+Fylde CON HOLD
+Majority: 11,805 Turnout: 70.5% (46,467) 
+Conservative 27,334 Mark Menzies
+Labour 15,529 Jed Sullivan
+Liberal Democrat 2,341 Freddie Van Mierlo
+UK Independence Party 0
+Green 1,263 Tina Rothery
+Other 0
+
+Gainsborough CON HOLD
+Majority: 17,023 Turnout: 67.8% (51,425) 
+Conservative 31,790 Edward Leigh
+Labour 14,767 Catherine Tite
+Liberal Democrat 3,630 Lesley Rollings
+UK Independence Party 0
+Green 1,238 Vicky Pearson
+Other 0
+
+Garston & Halewood LAB HOLD
+Majority: 32,149 Turnout: 71.1% (53,522) 
+Conservative 9,450 Adam Marsden
+Labour 41,599 Maria Eagle
+Liberal Democrat 1,723 Anna Martin
+UK Independence Party 0
+Green 750 Lawrence Brown
+
+Gateshead LAB HOLD
+Majority: 17,350 Turnout: 64.6% (42,103) 
+Conservative 10,076 Lauren Hankinson
+Labour 27,426 Ian Mearns
+Liberal Democrat 1,709 Frank Hindle
+UK Independence Party 2,281 Mark Bell
+Green 611 Andy Redfern
+
+Gedling LAB HOLD
+Majority: 4,694 Turnout: 72.6% (51,682) 
+Conservative 22,139 Carolyn Abbott
+Labour 26,833 Vernon Coaker
+Liberal Democrat 1,052 Robert Swift
+UK Independence Party 1,143 Lee Waters
+Green 515 Rebecca Connick
+
+Gillingham & Rainham CON HOLD
+Majority: 9,430 Turnout: 67.0% (48,868) 
+Conservative 27,091 Rehman Chishti
+Labour 17,661 Andrew Stamp
+Liberal Democrat 1,372 Paul Chaplin
+UK Independence Party 2,097 Martin Cook
+Green 520 Clive Gregory
+Other 127 Roger Peacock
+
+Glasgow Central SNP HOLD
+Majority: 2,267 Turnout: 55.9% (35,984) 
+Conservative 5,014 Charlotte Fairbanks
+Labour 13,829 Faten Hameed
+Liberal Democrat 1,045 Isabel Nelson
+UK Independence Party 0
+Scottish National Party 16,096 Alison Thewliss
+Green 0
+Other 0
+
+Glasgow East SNP HOLD
+Majority: 75 Turnout: 54.6% (36,175) 
+Conservative 6,816 Thomas Kerr
+Labour 13,949 Kate Watson
+Liberal Democrat 576 Matthew Clark
+UK Independence Party 504 John Ferguson
+Scottish National Party 14,024 David Linden
+Green 0
+Other 306 Karin Finegan
+
+Glasgow North SNP HOLD
+Majority: 1,060 Turnout: 62.1% (33,473) 
+Conservative 4,935 Stuart Cullen
+Labour 11,537 Pam Duncan-Glancy
+Liberal Democrat 1,153 Calum Shepherd
+UK Independence Party 0
+Scottish National Party 12,597 Patrick Grady
+Green 3,251 Patrick Harvie
+Other 0
+
+Glasgow North East LAB GAIN
+Majority: 242 Turnout: 53.0% (31,775) 
+Conservative 4,106 Jack Wylie
+Labour 13,637 Paul Sweeney
+Liberal Democrat 637 Daniel Donaldson
+Scottish National Party 13,395 Anne McLaughlin
+Green 0
+Other 0
+
+Glasgow North West SNP HOLD
+Majority: 2,561 Turnout: 60.9% (38,844) 
+Conservative 7,002 Christopher Land
+Labour 13,947 Michael Shanks
+Liberal Democrat 1,387 James Speirs
+Scottish National Party 16,508 Carol Monaghan
+Green 0
+Other 0
+
+Glasgow South SNP HOLD
+Majority: 2,027 Turnout: 64.4% (44,550) 
+Conservative 8,506 Taylor Muir
+Labour 16,285 Eileen Dinning
+Liberal Democrat 1,447 Ewan Hoyle
+Scottish National Party 18,312 Stewart McDonald
+Green 0
+Other 0
+
+Glasgow South West SNP HOLD
+Majority: 60 Turnout: 56.2% (35,378) 
+Conservative 5,524 Thomas Haddow
+Labour 14,326 Matt Kerr
+Liberal Democrat 661 Ben Denton-Cardew
+UK Independence Party 481 Sarah Hemy
+Scottish National Party 14,386 Chris Stephens
+Green 0
+Other 0
+
+Glenrothes SNP HOLD
+Majority: 3,267 Turnout: 60.9% (40,399) 
+Conservative 7,876 Andrew Brown
+Labour 14,024 Altany Craik
+Liberal Democrat 1,208 Rebecca Bell
+Scottish National Party 17,291 Peter Grant
+
+Gloucester CON HOLD
+Majority: 5,520 Turnout: 65.2% (54,071) 
+Conservative 27,208 Richard Graham
+Labour 21,688 Barry Kirby
+Liberal Democrat 2,716 Jeremy Hilton
+UK Independence Party 1,495 Daniel Woolf
+Green 754 Gerald Hartley
+Other 210 George Ridgeon
+
+Gordon CON GAIN
+Majority: 2,607 Turnout: 68.4% (53,685) 
+Conservative 21,861 Colin Clark
+Labour 6,340 Kirsten Muat
+Liberal Democrat 6,230 David Evans
+UK Independence Party 0
+Scottish National Party 19,254 Alex Salmond
+
+Gosport CON HOLD
+Majority: 17,211 Turnout: 67.0% (49,481) 
+Conservative 30,647 Caroline Dinenage
+Labour 13,436 Alan Durrant
+Liberal Democrat 2,328 Bruce Tennent
+UK Independence Party 1,790 Chloe Palmer
+Green 1,024 Monica Cassidy
+Other 256 Jeffrey Roberts
+
+Gower LAB GAIN
+Majority: 3,269 Turnout: 73.3% (45,576) 
+Conservative 19,458 Byron Davies
+Labour 22,727 Tonia Antoniazzi
+Liberal Democrat 931 Howard Evans
+UK Independence Party 642 Ross Ford
+Plaid Cymru 1,669 Harri Roberts
+Green 0
+Other 149 Jason Winstanley
+
+Grantham & Stamford CON HOLD
+Majority: 20,094 Turnout: 69.2% (56,593) 
+Conservative 35,090 Nick Boles
+Labour 14,996 Barrie Fairbairn
+Liberal Democrat 3,120 Anita Day
+UK Independence Party 1,745 Marietta King
+Green 782 Becca Thackray
+Other 860 Tariq Mahmood
+
+Gravesham CON HOLD
+Majority: 9,347 Turnout: 67.2% (48,997) 
+Conservative 27,237 Adam Holloway
+Labour 17,890 Mandy Garford
+Liberal Democrat 1,210 James Willis
+UK Independence Party 1,742 Emmanuel Feyisetan
+Green 723 Marna Gilligan
+Other 195 Michael Rogan
+
+Great Grimsby LAB HOLD
+Majority: 2,565 Turnout: 57.5% (35,521) 
+Conservative 14,980 Jo Gideon
+Labour 17,545 Melanie Onn
+Liberal Democrat 954 Steve Beasant
+UK Independence Party 1,648 Mike Hookem
+Green 0
+Other 394 Christina McGilligan-Fell
+
+Great Yarmouth CON HOLD
+Majority: 7,973 Turnout: 61.8% (44,146) 
+Conservative 23,901 Brandon Lewis
+Labour 15,928 Mike Smith-Clare
+Liberal Democrat 987 James Joyce
+UK Independence Party 2,767 Catherine Blaiklock
+Green 563 Harry Webb
+Other 0
+
+Greenwich & Woolwich LAB HOLD
+Majority: 20,714 Turnout: 68.8% (53,106) 
+Conservative 13,501 Caroline Attfield
+Labour 34,215 Matthew Pennycook
+Liberal Democrat 3,785 Chris Adams
+UK Independence Party 0
+Green 1,605 Daniel Garrun
+Other 0
+
+Guildford CON HOLD
+Majority: 17,040 Turnout: 73.6% (55,509) 
+Conservative 30,295 Anne Milton
+Labour 10,545 Howard Smith
+Liberal Democrat 13,255 Zoe Franklin
+UK Independence Party 0
+Green 1,152 Mark Bray-Parry
+Other 262 Semi Essessi
+
+Hackney North & Stoke Newington LAB HOLD
+Majority: 35,139 Turnout: 67.1% (56,298) 
+Conservative 7,126 Amy Gray
+Labour 42,265 Diane Abbott
+Liberal Democrat 3,817 Joe Richards
+UK Independence Party 0
+Green 2,606 Alastair Binnie-Lubbock
+Other 484 Jonathan Homan
+
+Hackney South & Shoreditch LAB HOLD
+Majority: 37,931 Turnout: 67.5% (55,354) 
+Conservative 6,043 Luke Parker
+Labour 43,974 Meg Hillier
+Liberal Democrat 3,168 Dave Raval
+UK Independence Party 0
+Green 1,522 Rebecca Johnson
+Other 647 Vanessa Hudson
+
+Halesowen & Rowley Regis CON HOLD
+Majority: 5,253 Turnout: 64.5% (44,379) 
+Conservative 23,012 James Morris
+Labour 17,759 Ian Cooper
+Liberal Democrat 859 Jamie Scott
+UK Independence Party 2,126 Stuart Henley
+Green 440 James Robertson
+Other 183 Tim Weller
+
+Halifax LAB HOLD
+Majority: 5,376 Turnout: 67.8% (48,276) 
+Conservative 20,131 Chris Pearson
+Labour 25,507 Holly Lynch
+Liberal Democrat 1,070 James Baker
+UK Independence Party 1,568 Mark Weedon
+Green 0
+Other 0
+
+Haltemprice & Howden CON HOLD
+Majority: 15,405 Turnout: 71.9% (51,440) 
+Conservative 31,355 David Davis
+Labour 15,950 Hollie Devanney
+Liberal Democrat 2,482 David Nolan
+UK Independence Party 0
+Green 711 Carole Needham
+Other 942 Diana Wallis
+
+Halton LAB HOLD
+Majority: 25,405 Turnout: 67.4% (49,518) 
+Conservative 10,710 Matthew Lloyd
+Labour 36,115 Derek Twigg
+Liberal Democrat 896 Ryan Bate
+UK Independence Party 1,488 Glyn Redican
+Green 0
+Other 309 Vic Turton
+
+Hammersmith LAB HOLD
+Majority: 18,751 Turnout: 71.9% (52,352) 
+Conservative 14,724 Charlie Dewhirst
+Labour 33,475 Andy Slaughter
+Liberal Democrat 2,802 Joyce Onstad
+UK Independence Party 507 Jack Bovill
+Green 800 Alex Horn
+Other 44 Jagdeosingh Hauzaree
+
+Hampshire East CON HOLD
+Majority: 25,852 Turnout: 74.7% (55,408) 
+Conservative 35,263 Damian Hinds
+Labour 9,411 Rohit Dasgupta
+Liberal Democrat 8,403 Richard Robinson
+UK Independence Party 0
+Green 1,760 Richard Knight
+Other 571 Susan Jerrard
+
+Hampshire North East CON HOLD
+Majority: 27,772 Turnout: 76.4% (57,627) 
+Conservative 37,754 Ranil Jayawardena
+Labour 9,982 Barry Jones
+Liberal Democrat 6,987 Graham Cockarill
+UK Independence Party 1,061 Mike Gascoigne
+Green 1,476 Chas Spradbery
+Other 367 Robert Blay
+
+Hampshire North West CON HOLD
+Majority: 22,679 Turnout: 72.2% (58,772) 
+Conservative 36,471 Kit Malthouse
+Labour 13,792 Andy Fitchet
+Liberal Democrat 5,708 Alex Payton
+UK Independence Party 1,467 Roger Clark
+Green 1,334 Dan Hill
+
+Hampstead & Kilburn LAB HOLD
+Majority: 15,560 Turnout: 70.4% (58,407) 
+Conservative 18,904 Claire-Louise Leyland
+Labour 34,464 Tulip Siddiq
+Liberal Democrat 4,100 Kirsty Allan
+UK Independence Party 0
+Green 742 John Mansook
+Other 197 Hugh Easterbrook
+
+Harborough CON HOLD
+Majority: 12,429 Turnout: 73.2% (57,598) 
+Conservative 30,135 Neil O'Brien
+Labour 17,706 Andy Thomas
+Liberal Democrat 7,286 Zuffar Haq
+UK Independence Party 1,361 Teck Khong
+Green 1,110 Darren Woodiwiss
+
+Harlow CON HOLD
+Majority: 7,031 Turnout: 66.2% (44,846) 
+Conservative 24,230 Robert Halfon
+Labour 17,199 Phil Waite
+Liberal Democrat 970 Geoffrey Seef
+UK Independence Party 1,787 Mark Gough
+Green 660 Hannah Clare
+Other 0
+
+Harrogate & Knaresborough CON HOLD
+Majority: 18,168 Turnout: 73.4% (56,740) 
+Conservative 31,477 Andrew Jones
+Labour 11,395 Mark Sewards
+Liberal Democrat 13,309 Helen Flynn
+UK Independence Party 0
+Green 0
+Other 559 Donald Fraser
+
+Harrow East CON HOLD
+Majority: 1,757 Turnout: 70.9% (50,845) 
+Conservative 25,129 Bob Blackman
+Labour 23,372 Navin Shah
+Liberal Democrat 1,573 Adam Bernard
+UK Independence Party 0
+Green 771 Emma Wallace
+Other 0
+
+Harrow West LAB HOLD
+Majority: 13,314 Turnout: 72.1% (50,355) 
+Conservative 17,326 Hannah David
+Labour 30,640 Gareth Thomas
+Liberal Democrat 1,267 Christopher Noyce
+UK Independence Party 470 Rathy Alagaratnam
+Green 652 Rowan Langley
+Other 0
+
+Hartlepool LAB HOLD
+Majority: 7,650 Turnout: 59.2% (41,835) 
+Conservative 14,319 Carl Jackson
+Labour 21,969 Mike Hill
+Liberal Democrat 746 Andy Hagon
+UK Independence Party 4,801 Phillip Broughton
+Green 0
+Other 0
+
+Harwich & Essex North CON HOLD
+Majority: 14,356 Turnout: 71.7% (51,141) 
+Conservative 29,921 Bernard Jenkin
+Labour 15,565 Rosalind Scott
+Liberal Democrat 2,787 Dominic Graham
+UK Independence Party 1,685 Aaron Hammond
+Green 1,042 Blake Roberts
+Other 141 Stephen Todd
+
+Hastings & Rye CON HOLD
+Majority: 346 Turnout: 69.9% (54,766) 
+Conservative 25,668 Amber Rudd
+Labour 25,322 Peter Chowney
+Liberal Democrat 1,885 Nicholas Perry
+UK Independence Party 1,479 Michael Phillips
+Green 0
+Other 412 Nicholas Wilson
+
+Havant CON HOLD
+Majority: 15,956 Turnout: 63.9% (46,314) 
+Conservative 27,676 Alan Mak
+Labour 11,720 Graham Giles
+Liberal Democrat 2,801 Paul Gray
+UK Independence Party 2,011 John Perry
+Green 1,122 Tim Dawes
+Other 984 Ann Buckley
+
+Hayes & Harlington LAB HOLD
+Majority: 18,115 Turnout: 65.2% (47,802) 
+Conservative 13,681 Greg Smith
+Labour 31,796 John McDonnell
+Liberal Democrat 601 Bill Newton Dunn
+UK Independence Party 1,153 Cliff Dixon
+Green 571 John Bowman
+
+Hazel Grove CON HOLD
+Majority: 5,514 Turnout: 70.4% (44,132) 
+Conservative 20,047 William Wragg
+Labour 9,036 Nav Mishra
+Liberal Democrat 14,533 Lisa Smart
+UK Independence Party 0
+Green 516 Robbie Lee
+
+Hemel Hempstead CON HOLD
+Majority: 9,445 Turnout: 69.7% (52,282) 
+Conservative 28,735 Mike Penning
+Labour 19,290 Mandi Tattershall
+Liberal Democrat 3,233 Sally Symington
+UK Independence Party 0
+Green 1,024 Sherief Hassan
+Other 0
+
+Hemsworth LAB HOLD
+Majority: 10,174 Turnout: 63.9% (45,944) 
+Conservative 15,566 Mike Jordan
+Labour 25,740 Jon Trickett
+Liberal Democrat 912 Joan MacQueen
+UK Independence Party 2,591 David Dews
+Other 1,135 Martin Roberts
+
+Hendon CON HOLD
+Majority: 1,072 Turnout: 68.4% (52,215) 
+Conservative 25,078 Matthew Offord
+Labour 24,006 Mike Katz
+Liberal Democrat 1,985 Alasdair Hill
+UK Independence Party 568 Sabriye Warsame
+Green 578 Carmen Legarda
+
+Henley CON HOLD
+Majority: 22,294 Turnout: 76.1% (57,099) 
+Conservative 33,749 John Howell
+Labour 11,455 Oliver Kavanagh
+Liberal Democrat 8,485 Laura Coyle
+UK Independence Party 1,154 Tim Scott
+Green 1,864 Robin Bennett
+Other 392 Patrick Gray
+
+Herefordshire North CON HOLD
+Majority: 21,602 Turnout: 74.1% (50,177) 
+Conservative 31,097 Bill Wiggin
+Labour 9,495 Roger Page
+Liberal Democrat 5,874 Jeanie Falconer
+UK Independence Party 0
+Green 2,771 Ellie Chowns
+Other 940 Arthur Devine
+
+Herefordshire South CON HOLD
+Majority: 15,013 Turnout: 71.0% (50,484) 
+Conservative 27,004 Jesse Norman
+Labour 11,991 Anna Coda
+Liberal Democrat 3,556 Lucy Hurds
+UK Independence Party 1,153 Gwyn Price
+Green 1,220 Diana Toynbee
+Other 5,560 Jim Kenyon
+
+Hertford & Stortford CON HOLD
+Majority: 19,035 Turnout: 72.8% (59,992) 
+Conservative 36,184 Mark Prisk
+Labour 17,149 Katherine Chibah
+Liberal Democrat 4,845 Mark Argent
+UK Independence Party 0
+Green 1,814 David Woollcombe
+
+Hertfordshire North East CON HOLD
+Majority: 16,835 Turnout: 73.2% (55,580) 
+Conservative 32,587 Oliver Heald
+Labour 15,752 Doug Swanney
+Liberal Democrat 4,276 Nicky Shepard
+UK Independence Party 0
+Green 2,965 Tim Lee
+
+Hertfordshire South West CON HOLD
+Majority: 19,550 Turnout: 75.5% (60,653) 
+Conservative 35,128 David Gauke
+Labour 15,578 Robert Wakely
+Liberal Democrat 7,078 Christopher Townsend
+UK Independence Party 1,293 Mark Anderson
+Green 1,576 Paul De Hoest
+Other 0
+
+Hertsmere CON HOLD
+Majority: 16,951 Turnout: 71.0% (52,253) 
+Conservative 31,928 Oliver Dowden
+Labour 14,977 Fiona Smith
+Liberal Democrat 2,794 Joe Jordan
+UK Independence Party 1,564 David Hoy
+Green 990 Sophie Summerhayes
+
+Hexham CON HOLD
+Majority: 9,236 Turnout: 75.8% (46,224) 
+Conservative 24,996 Guy Opperman
+Labour 15,760 Stephen Powers
+Liberal Democrat 3,285 Fiona Hall
+UK Independence Party 930 Francis Miles
+Green 1,253 Wesley Foot
+
+Heywood & Middleton LAB HOLD
+Majority: 7,617 Turnout: 62.4% (49,865) 
+Conservative 18,961 Chris Clarkson
+Labour 26,578 Liz McInnes
+Liberal Democrat 1,087 Bill Winlow
+UK Independence Party 3,239 Lee Seville
+Green 0
+
+High Peak LAB GAIN
+Majority: 2,322 Turnout: 73.5% (53,853) 
+Conservative 24,431 Andrew Bingham
+Labour 26,753 Ruth George
+Liberal Democrat 2,669 Charles Lawley
+UK Independence Party 0
+Green 0
+
+Hitchin & Harpenden CON HOLD
+Majority: 12,031 Turnout: 77.4% (58,783) 
+Conservative 31,189 Bim Afolami
+Labour 19,158 John Hayes
+Liberal Democrat 6,236 Hugh Annand
+UK Independence Party 0
+Green 1,329 Richard Cano
+Other 871 Sid Cordle
+
+Holborn & St Pancras LAB HOLD
+Majority: 30,509 Turnout: 67.0% (58,997) 
+Conservative 10,834 Tim Barnes
+Labour 41,343 Keir Starmer
+Liberal Democrat 4,020 Stephen Crosher
+UK Independence Party 727 Giles Game
+Green 1,980 Sian Berry
+Other 93 Janus Polenceus
+
+Hornchurch & Upminster CON HOLD
+Majority: 17,723 Turnout: 69.4% (56,107) 
+Conservative 33,750 Julia Dockerill
+Labour 16,027 Rocky Gill
+Liberal Democrat 1,371 Jonathan Mitchell
+UK Independence Party 3,502 Lawrence Webb
+Green 1,077 Peter Caton
+British National Party 380 David Furness
+
+Hornsey & Wood Green LAB HOLD
+Majority: 30,738 Turnout: 77.9% (62,293) 
+Conservative 9,246 Emma Lane
+Labour 40,738 Catherine West
+Liberal Democrat 10,000 Dawn Barnes
+UK Independence Party 429 Ruth Price
+Green 1,181 Sam Hall
+Other 699 Helen Spiby-Vann
+
+Horsham CON HOLD
+Majority: 23,484 Turnout: 74.9% (61,987) 
+Conservative 36,906 Jeremy Quin
+Labour 13,422 Susannah Brady
+Liberal Democrat 7,644 Morwen Millson
+UK Independence Party 1,533 Roger Arthur
+Green 1,844 Catherine Ross
+Other 638 Jim Duggan
+
+Houghton & Sunderland South LAB HOLD
+Majority: 12,341 Turnout: 60.9% (41,480) 
+Conservative 12,324 Paul Howell
+Labour 24,665 Bridget Phillipson
+Liberal Democrat 908 Paul Edgeworth
+UK Independence Party 2,379 Michael Joyce
+Green 725 Richard Bradley
+Other 479 Mick Watson
+
+Hove LAB HOLD
+Majority: 18,757 Turnout: 77.6% (57,596) 
+Conservative 18,185 Kristy Adams
+Labour 36,942 Peter Kyle
+Liberal Democrat 1,311 Caroline Hynds
+UK Independence Party 0
+Green 971 Phelim Mac Cafferty
+Other 187 Charley Sabel
+
+Huddersfield LAB HOLD
+Majority: 12,005 Turnout: 65.4% (43,834) 
+Conservative 14,465 Scott Benton
+Labour 26,470 Barry Sheerman
+Liberal Democrat 1,155 Zulfiqar Ali
+UK Independence Party 0
+Green 1,395 Andrew Cooper
+Other 349 Marteen Thokkudubiyyapu
+
+Hull East LAB HOLD
+Majority: 10,396 Turnout: 55.5% (36,638) 
+Conservative 10,959 Simon Burton
+Labour 21,355 Karl Turner
+Liberal Democrat 1,258 Andrew Marchington
+UK Independence Party 2,573 Mark Fox
+Green 493 Julia Brown
+Other 0
+
+Hull North LAB HOLD
+Majority: 14,262 Turnout: 57.4% (37,102) 
+Conservative 9,363 Lia Nici-Townend
+Labour 23,625 Diana Johnson
+Liberal Democrat 1,869 Mike Ross
+UK Independence Party 1,601 John Kitchener
+Green 644 Martin Deane
+Other 0
+
+Hull West & Hessle LAB HOLD
+Majority: 8,025 Turnout: 57.4% (34,565) 
+Conservative 10,317 Christine Mackay
+Labour 18,342 Emma Hardy
+Liberal Democrat 2,210 Claire Thomas
+UK Independence Party 1,399 Gary Shores
+Green 332 Mike Lammiman
+Other 1,965 Michelle Dewberry
+
+Huntingdon CON HOLD
+Majority: 14,475 Turnout: 70.8% (59,720) 
+Conservative 32,915 Jonathan Djanogly
+Labour 18,440 Nik Johnson
+Liberal Democrat 5,090 Rod Cantrill
+UK Independence Party 2,180 Paul Bullen
+Green 1,095 Tom Maclennan
+
+Hyndburn LAB HOLD
+Majority: 5,815 Turnout: 61.8% (45,202) 
+Conservative 18,305 Kevin Horkin
+Labour 24,120 Graham Jones
+Liberal Democrat 824 Les Jones
+UK Independence Party 1,953 Janet Brown
+Green 0
+
+Ilford North LAB HOLD
+Majority: 9,639 Turnout: 72.5% (52,941) 
+Conservative 20,950 Lee Scott
+Labour 30,589 Wes Streeting
+Liberal Democrat 1,034 Richard Clare
+UK Independence Party 0
+Green 0
+Other 368 Doris Osen
+
+Ilford South LAB HOLD
+Majority: 31,647 Turnout: 67.5% (57,657) 
+Conservative 12,077 Chris Chapman
+Labour 43,724 Mike Gapes
+Liberal Democrat 772 Farid Ahmed
+UK Independence Party 477 Tariq Saeed
+Green 542 Rosemary Warrington
+Other 65 Kane Khan
+
+Inverclyde SNP HOLD
+Majority: 384 Turnout: 66.4% (39,093) 
+Conservative 8,399 David Wilson
+Labour 14,666 Martin McCluskey
+Liberal Democrat 978 David Stevens
+UK Independence Party 0
+Scottish National Party 15,050 Ronnie Cowan
+Other 0
+
+Inverness, Nairn, Badenoch & Strathspey SNP HOLD
+Majority: 4,924 Turnout: 68.7% (52,801) 
+Conservative 16,118 Nicholas Tulloch
+Labour 8,552 Mike Robb
+Liberal Democrat 6,477 Ritchie Cunningham
+UK Independence Party 0
+Scottish National Party 21,042 Drew Hendry
+Green 0
+Other 612 Donald Boyd
+
+Ipswich LAB GAIN
+Majority: 831 Turnout: 68.4% (51,137) 
+Conservative 23,393 Ben Gummer
+Labour 24,224 Sandy Martin
+Liberal Democrat 1,187 Adrian Hyyrylainen-Trett
+UK Independence Party 1,372 Tony Gould
+Green 840 Charlotte Armstrong
+Other 121 David Tabane
+
+Isle of Wight CON HOLD
+Majority: 20,998 Turnout: 67.2% (74,408) 
+Conservative 38,119 Bob Seely
+Labour 17,121 Julian Critchley
+Liberal Democrat 2,740 Nick Belfitt
+UK Independence Party 1,921 Daryll Pitcher
+Green 12,915 Vix Lowthion
+Other 1,592 Julie Jones-Evans
+
+Islington North LAB HOLD
+Majority: 33,215 Turnout: 73.4% (54,928) 
+Conservative 6,871 James Clark
+Labour 40,086 Jeremy Corbyn
+Liberal Democrat 4,946 Keith Angus
+UK Independence Party 413 Keith Fraser
+Green 2,229 Caroline Russell
+Other 383 Andres Mendoza
+
+Islington South & Finsbury LAB HOLD
+Majority: 20,263 Turnout: 69.1% (48,049) 
+Conservative 9,925 Jason Charalambous
+Labour 30,188 Emily Thornberry
+Liberal Democrat 5,809 Alain Desmier
+UK Independence Party 929 Pete Muswell
+Green 1,198 Benali Hamdache
+Other 0
+
+Islwyn LAB HOLD
+Majority: 11,412 Turnout: 64.2% (36,093) 
+Conservative 9,826 Dan Thomas
+Labour 21,238 Chris Evans
+Liberal Democrat 685 Matthew Kidner
+UK Independence Party 1,605 Joe Smyth
+Plaid Cymru 2,739 Darren Jones
+Green 0
+Other 0
+
+Jarrow LAB HOLD
+Majority: 17,263 Turnout: 66.4% (43,023) 
+Conservative 10,757 Robin Gwynn
+Labour 28,020 Stephen Hepburn
+Liberal Democrat 1,163 Peter Maughan
+UK Independence Party 2,338 James Askwith
+Green 745 David Herbert
+Other 0
+
+Keighley LAB GAIN
+Majority: 249 Turnout: 72.4% (51,724) 
+Conservative 23,817 Kristan Hopkins
+Labour 24,066 John Grogan
+Liberal Democrat 1,226 Matt Walker
+UK Independence Party 1,291 Paul Latham
+Green 790 Ros Brown
+Other 534 David Crabtree
+
+Kenilworth & Southam CON HOLD
+Majority: 18,086 Turnout: 77.4% (51,311) 
+Conservative 31,207 Jeremy Wright
+Labour 13,121 Bally Singh
+Liberal Democrat 4,921 Richard Dickson
+UK Independence Party 929 Harry Cottam
+Green 1,133 Rob Ballantyne
+Other 0
+
+Kensington LAB GAIN
+Majority: 20 Turnout: 64% (38,677) 
+Labour 16,333 Emma Dent Coad
+Conservative 16,313 Victoria Borthwick
+Lib Dem 4,724 Annabel Mullin
+Green 767 Jennifer Nadel
+Ind 393 James Torrance
+Ind 98 Peter Marshall
+Green Soc 49 John Lloyd
+
+Kettering CON HOLD
+Majority: 10,562 Turnout: 69.1% (49,404) 
+Conservative 28,616 Philip Hollobone
+Labour 18,054 Mick Scrimshaw
+Liberal Democrat 1,618 Suzanna Austin
+UK Independence Party 0
+Green 1,116 Rob Reeves
+Other 0
+
+Kilmarnock & Loudoun SNP HOLD
+Majority: 6,269 Turnout: 63.4% (46,509) 
+Conservative 12,404 Alison Harper
+Labour 13,421 Laura Dover
+Liberal Democrat 994 Irene Lang
+Scottish National Party 19,690 Alan Brown
+
+Kingston & Surbiton LIB DEM GAIN
+Majority: 4,124 Turnout: 76.2% (62,178) 
+Conservative 23,686 James Berry
+Labour 9,203 Laurie South
+Liberal Democrat 27,810 Ed Davey
+UK Independence Party 675 Graham Matthews
+Green 536 Chris Walker
+Other 268 Michael Basman
+
+Kingswood CON HOLD
+Majority: 7,500 Turnout: 70.2% (48,741) 
+Conservative 26,754 Chris Skidmore
+Labour 19,254 Mhairi Threlfall
+Liberal Democrat 1,749 Karen Wilkinson
+UK Independence Party 0
+Green 984 Matt Furey-King
+British National Party 0
+Other 0
+
+Kirkcaldy & Cowdenbeath LAB GAIN
+Majority: 259 Turnout: 63.5% (46,193) 
+Conservative 10,762 Dave Dempsey
+Labour 17,016 Lesley Laird
+Liberal Democrat 1,118 Malcolm Wood
+UK Independence Party 540 David Coburn
+Scottish National Party 16,757 William Mullin
+
+Knowsley LAB HOLD
+Majority: 42,214 Turnout: 67.9% (55,483) 
+Conservative 5,137 James Spencer
+Labour 47,351 George Howarth
+Liberal Democrat 1,189 Carl Cashman
+UK Independence Party 1,285 Neil Miney
+Green 521 Steve Baines
+
+Lagan Valley DUP HOLD
+Majority: 18,160 Turnout: 62.1% (44,926) 
+Conservative 462 Ian Nickels
+UK Independence Party 0
+Sinn Fein 1,567 Jacqui Russell
+Democratic Unionist Party 26,762 Jeffrey Donaldson
+Ulster Unionist Party 7,533 Robbie Butler
+Other 8,602 Pat Catney
+
+Lanark & Hamilton East SNP HOLD
+Majority: 266 Turnout: 65.3% (50,470) 
+Conservative 16,178 Poppy Corbett
+Labour 16,084 Andrew Hilland
+Liberal Democrat 1,214 Colin Robb
+UK Independence Party 550 Donald Mackay
+Scottish National Party 16,444 Angela Crawley
+
+Lancashire West LAB HOLD
+Majority: 11,689 Turnout: 74.2% (54,389) 
+Conservative 20,341 Sam Currie
+Labour 32,030 Rosie Cooper
+Liberal Democrat 1,069 Jo Barton
+UK Independence Party 0
+Green 680 Nate Higgins
+Other 269 David Braid
+
+Lancaster & Fleetwood LAB HOLD
+Majority: 6,661 Turnout: 68.5% (45,989) 
+Conservative 18,681 Eric Ollerenshaw
+Labour 25,342 Cat Smith
+Liberal Democrat 1,170 Robin Long
+UK Independence Party 0
+Green 796 Rebecca Novell
+Other 0
+
+Leeds Central LAB HOLD
+Majority: 23,698 Turnout: 53.2% (47,673) 
+Conservative 9,755 Gareth Davies
+Labour 33,453 Hilary Benn
+Liberal Democrat 1,063 Andy Nash
+UK Independence Party 2,056 Bill Palfreman
+Green 1,189 Ed Carlisle
+Other 157 Alex Coetzee
+
+Leeds East LAB HOLD
+Majority: 12,752 Turnout: 62.8% (41,441) 
+Conservative 12,676 Matthew Robinson
+Labour 25,428 Richard Burgon
+Liberal Democrat 739 Ed Sanderson
+UK Independence Party 1,742 Paul Spivey
+Green 434 Jaimes Moran
+Other 422 John Otley
+
+Leeds North East LAB HOLD
+Majority: 16,991 Turnout: 75.6% (52,999) 
+Conservative 16,445 Ryan Stephenson
+Labour 33,436 Fabian Hamilton
+Liberal Democrat 1,952 Jon Hannah
+UK Independence Party 0
+Green 680 Ann Forsaith
+Other 486 Tim Mutamiri
+
+Leeds North West LAB GAIN
+Majority: 4,224 Turnout: 67.9% (46,287) 
+Conservative 9,097 Alan Lamb
+Labour 20,416 Alex Sobel
+Liberal Democrat 16,192 Greg Mulholland
+UK Independence Party 0
+Green 582 Martin Hemingway
+Other 0
+
+Leeds West LAB HOLD
+Majority: 15,965 Turnout: 62.1% (42,229) 
+Conservative 11,048 Zoe Metcalfe
+Labour 27,013 Rachel Reeves
+Liberal Democrat 905 Alisdair McGregor
+UK Independence Party 1,815 Mark Thackray
+Green 1,023 Andrew Pointon
+Other 425 Mike Davies
+
+Leicester East LAB HOLD
+Majority: 22,428 Turnout: 67.4% (52,424) 
+Conservative 12,688 Edward He
+Labour 35,116 Keith Vaz
+Liberal Democrat 1,343 Nitesh Dave
+UK Independence Party 0
+Green 1,070 Melanie Wakley
+Other 2,207 Sujata Barot
+
+Leicester South LAB HOLD
+Majority: 26,261 Turnout: 66.9% (50,517) 
+Conservative 10,896 Meera Sonecha
+Labour 37,157 Jon Ashworth
+Liberal Democrat 1,287 Harrish Bisnauthsing
+UK Independence Party 0
+Green 1,177 Mags Lewis
+Other 0
+
+Leicester West LAB HOLD
+Majority: 11,060 Turnout: 57.9% (37,512) 
+Conservative 11,763 Jack Hickey
+Labour 22,823 Liz Kendall
+Liberal Democrat 792 Ian Bradwell
+UK Independence Party 1,406 Stuart Young
+Green 607 Mel Gould
+Other 121 David Bowley
+
+Leicestershire North West CON HOLD
+Majority: 13,286 Turnout: 71.0% (53,541) 
+Conservative 31,153 Andrew Bridgen
+Labour 17,867 Sean Sheahan
+Liberal Democrat 3,420 Michael Wyatt
+UK Independence Party 0
+Green 1,101 Mia Woolley
+
+Leicestershire South CON HOLD
+Majority: 18,631 Turnout: 71.8% (56,689) 
+Conservative 34,795 Alberto Costa
+Labour 16,164 Shabbir Aslam
+Liberal Democrat 2,403 Gregory Webb
+UK Independence Party 2,235 Roger Helmer
+Green 1,092 Mary Morgan
+
+Leigh LAB HOLD
+Majority: 9,554 Turnout: 61.5% (46,874) 
+Conservative 16,793 James Grundy
+Labour 26,347 Joanne Platt
+Liberal Democrat 951 Richard Kilpatrick
+UK Independence Party 2,783 Mark Bradley
+Other 0
+
+Lewes CON HOLD
+Majority: 5,508 Turnout: 76.4% (54,192) 
+Conservative 26,820 Maria Caulfield
+Labour 6,060 Daniel Chapman
+Liberal Democrat 21,312 Kelly-Marie Blundell
+UK Independence Party 0
+Green 0
+
+Lewisham Deptford LAB HOLD
+Majority: 34,899 Turnout: 70.2% (55,112) 
+Conservative 7,562 Melanie McLean
+Labour 42,461 Vicky Foxcroft
+Liberal Democrat 2,911 Bobby Dean
+UK Independence Party 0
+Green 1,640 John Coughlin
+Other 538 Laura McAnea
+
+Lewisham East LAB HOLD
+Majority: 21,213 Turnout: 69.3% (47,201) 
+Conservative 10,859 Peter Fortune
+Labour 32,072 Heidi Alexander
+Liberal Democrat 2,086 Emily Frith
+UK Independence Party 798 Keith Forster
+Green 803 Storm Poorun
+Other 583 Maureen Martin
+
+Lewisham West & Penge LAB HOLD
+Majority: 23,162 Turnout: 73.0% (53,196) 
+Conservative 12,249 Shaun Bailey
+Labour 35,411 Ellie Reeves
+Liberal Democrat 3,317 John Russell
+UK Independence Party 700 Hoong-Wai Cheah
+Green 1,144 Karen Wheller
+Other 375 Katherine Hortense
+
+Leyton & Wanstead LAB HOLD
+Majority: 22,607 Turnout: 70.7% (46,173) 
+Conservative 9,627 Laura Farris
+Labour 32,234 John Cryer
+Liberal Democrat 2,961 Ben Sims
+UK Independence Party 0
+Green 1,351 Ashley Gunstock
+Other 0
+
+Lichfield CON HOLD
+Majority: 18,581 Turnout: 71.9% (53,524) 
+Conservative 34,018 Michael Fabricant
+Labour 15,437 Chris Worsey
+Liberal Democrat 2,653 Paul Ray
+UK Independence Party 0
+Green 1,416 Robert Pass
+Other 0
+
+Lincoln LAB GAIN
+Majority: 1,538 Turnout: 66.6% (48,718) 
+Conservative 21,795 Karl McCartney
+Labour 23,333 Karen Lee
+Liberal Democrat 1,284 Caroline Kenyon
+UK Independence Party 1,287 Nick Smith
+Green 583 Benjamin Loryman
+Other 436 Phil Gray
+
+Linlithgow & Falkirk East SNP HOLD
+Majority: 2,919 Turnout: 65.1% (56,094) 
+Conservative 16,311 Charles Kennedy
+Labour 17,469 Joan Coombes
+Liberal Democrat 1,926 Sally Pattle
+UK Independence Party 0
+Scottish National Party 20,388 Martyn Day
+Other 0
+
+Liverpool Riverside LAB HOLD
+Majority: 35,947 Turnout: 62.9% (48,020) 
+Conservative 4,652 Pamela Hall
+Labour 40,599 Louise Ellman
+Liberal Democrat 1,187 Tom Sebire
+UK Independence Party 0
+Green 1,582 Stephanie Pitchers
+Other 0
+
+Liverpool Walton LAB HOLD
+Majority: 32,551 Turnout: 67.3% (42,197) 
+Conservative 3,624 Laura Evans
+Labour 36,175 Dan Carden
+Liberal Democrat 638 Kris Brown
+UK Independence Party 0
+Green 523 Colm Feeley
+Other 1,237 Terry May
+
+Liverpool Wavertree LAB HOLD
+Majority: 29,466 Turnout: 69.9% (43,640) 
+Conservative 5,251 Denise Haddad
+Labour 34,717 Luciana Berger
+Liberal Democrat 2,858 Richard Kemp
+UK Independence Party 0
+Green 598 Ted Grant
+Other 216 Adam Heatherington
+
+Liverpool West Derby LAB HOLD
+Majority: 32,908 Turnout: 69.3% (45,163) 
+Conservative 4,463 Paul Richardson
+Labour 37,371 Stephen Twigg
+Liberal Democrat 545 Paul Parr
+UK Independence Party 0
+Green 329 Will Ward
+Other 2,455 Graham Hughes
+
+Livingston SNP HOLD
+Majority: 3,878 Turnout: 64.7% (52,505) 
+Conservative 12,799 Damian Timson
+Labour 17,158 Rhea Wolfson
+Liberal Democrat 1,512 Charles Dundas
+UK Independence Party 0
+Scottish National Party 21,036 Hannah Bardell
+
+Llanelli LAB HOLD
+Majority: 12,024 Turnout: 67.9% (40,342) 
+Conservative 9,544 Stephen Davies
+Labour 21,568 Nia Griffith
+Liberal Democrat 548 Rory Daniels
+UK Independence Party 1,331 Ken Rees
+Plaid Cymru 7,351 Mari Arthur
+Green 0
+Other 0
+
+Londonderry East DUP HOLD
+Majority: 8,842 Turnout: 61.2% (41,030) 
+Conservative 330 Liz St Clair-Legge
+Sinn Fein 10,881 Dermot Nicholl
+Democratic Unionist Party 19,723 Gregory Campbell
+Ulster Unionist Party 3,135 Richard Holmes
+Other 6,961 Stephanie Quigley
+
+Loughborough CON HOLD
+Majority: 4,269 Turnout: 68.0% (54,148) 
+Conservative 27,022 Nicky Morgan
+Labour 22,753 Jewel Miah
+Liberal Democrat 1,937 David Walker
+UK Independence Party 1,465 Andy McWilliam
+Green 971 Philip Leicester
+
+Louth & Horncastle CON HOLD
+Majority: 19,641 Turnout: 66.8% (52,771) 
+Conservative 33,733 Victoria Atkins
+Labour 14,092 Julie Speed
+Liberal Democrat 1,990 Lisa Gabriel
+UK Independence Party 2,460 Jonathan Noble
+Green 0
+Other 496 The Iconic Arty-Pole
+
+Ludlow CON HOLD
+Majority: 19,286 Turnout: 73.4% (49,970) 
+Conservative 31,433 Philip Dunne
+Labour 12,147 Julia Buckley
+Liberal Democrat 5,336 Heather Kidd
+UK Independence Party 0
+Green 1,054 Hilary Wendt
+
+Luton North LAB HOLD
+Majority: 14,364 Turnout: 69.8% (46,622) 
+Conservative 15,401 Caroline Kerswell
+Labour 29,765 Kelvin Hopkins
+Liberal Democrat 808 Rabi Martins
+UK Independence Party 0
+Green 648 Simon Hall
+
+Luton South LAB HOLD
+Majority: 13,925 Turnout: 68.7% (46,133) 
+Conservative 14,879 Dean Russell
+Labour 28,804 Gavin Shuker
+Liberal Democrat 1,056 Andrew Strange
+UK Independence Party 795 Ujjawal Ub
+Green 439 Marc Scheimann
+Other 160 Abid Ali
+
+Macclesfield CON HOLD
+Majority: 8,608 Turnout: 72.2% (54,307) 
+Conservative 28,595 David Rutley
+Labour 19,987 Neil Puttick
+Liberal Democrat 3,350 Richard Flowers
+UK Independence Party 0
+Green 1,213 James Booth
+Other 1,162 Mark Johnson
+
+Maidenhead CON HOLD
+Majority: 26,457 Turnout: 76.4% (58,239) 
+Conservative 37,718 Theresa May
+Labour 11,261 Pat McDonald
+Liberal Democrat 6,540 Tony Hill
+UK Independence Party 871 Gerard Batten
+Green 907 Derek Wall
+Other 942 Andrew Knight
+
+Maidstone & The Weald CON HOLD
+Majority: 17,704 Turnout: 68.6% (51,696) 
+Conservative 29,136 Helen Grant
+Labour 11,432 Allen Simpson
+Liberal Democrat 8,455 Emily Fermor
+UK Independence Party 1,613 Pamela Watts
+Green 888 Stuart Jeffery
+Other 172 Yolande Kenward
+
+Makerfield LAB HOLD
+Majority: 13,542 Turnout: 63.2% (46,933) 
+Conservative 14,703 Adam Carney
+Labour 28,245 Yvonne Fovargue
+Liberal Democrat 1,322 John Skipworth
+UK Independence Party 0
+Green 0
+Other 2,663 Bob Brierley
+
+Maldon CON HOLD
+Majority: 23,430 Turnout: 75.0% (50,202) 
+Conservative 34,111 John Whittingdale
+Labour 10,681 Peter Edwards
+Liberal Democrat 2,181 Zoe O'Connell
+UK Independence Party 1,899 Jesse Pryke
+Green 1,073 Steven Betteridge
+British National Party 257 Richard Perry
+Other 0
+
+Manchester Central LAB HOLD
+Majority: 31,445 Turnout: 55.1% (49,720) 
+Conservative 7,045 Xingang Wang
+Labour 38,490 Lucy Powell
+Liberal Democrat 1,678 John Bridges
+UK Independence Party 1,469 Kelvin Chapman
+Green 846 Rachael Shah
+Other 192 Neil Blackburn
+
+Manchester Gorton LAB HOLD
+Majority: 31,730 Turnout: 61.0% (45,953) 
+Conservative 3,355 Shaden Jaradat
+Labour 35,085 Mohammed Khan
+Liberal Democrat 2,597 Jackie Pearcey
+UK Independence Party 952 Phil Eckersley
+Green 1,038 Jess Mayo
+Other 2,926 Peter Clifford
+
+Manchester Withington LAB HOLD
+Majority: 29,875 Turnout: 71.9% (53,602) 
+Conservative 5,530 Sarah Heald
+Labour 38,424 Jeff Smith
+Liberal Democrat 8,549 John Leech
+UK Independence Party 0
+Green 865 Laura Bannister
+Other 234 Sally Carr
+
+Mansfield CON GAIN
+Majority: 1,057 Turnout: 64.5% (50,157) 
+Conservative 23,392 Ben Bradley
+Labour 22,335 Alan Meale
+Liberal Democrat 697 Anita Prabhakar
+UK Independence Party 2,654 Sid Pepper
+Green 0
+Other 1,079 Philip Shields
+
+Meon Valley CON HOLD
+Majority: 25,692 Turnout: 73.0% (54,192) 
+Conservative 35,624 George Hollingbery
+Labour 9,932 Sheena King
+Liberal Democrat 5,900 Martin Tod
+UK Independence Party 1,435 Paul Bailey
+Green 1,301 Andrew Hayward
+
+Meriden CON HOLD
+Majority: 19,198 Turnout: 67.1% (54,643) 
+Conservative 33,873 Caroline Spelman
+Labour 14,675 Tom McNeil
+Liberal Democrat 2,663 Antony Rogers
+UK Independence Party 2,016 Leslie Kaye
+Green 1,416 Alison Gavin
+Other 0
+
+Merthyr Tydfil & Rhymney LAB HOLD
+Majority: 16,334 Turnout: 60.5% (33,545) 
+Conservative 6,073 Pauline Jorgensen
+Labour 22,407 Gerald Jones
+Liberal Democrat 841 Bob Griffin
+UK Independence Party 1,484 David Rowlands
+Plaid Cymru 2,740 Amy Kitcher
+Green 0
+Other 0
+
+Mid Ulster SINN FEIN HOLD
+Majority: 12,890 Turnout: 68.2% (46,694) 
+Conservative 0
+UK Independence Party 0
+Sinn Fein 25,455 Francie Molloy
+Democratic Unionist Party 12,565 Keith Buchanan
+Ulster Unionist Party 3,017 Mark Glasgow
+Other 5,657 Malachy Quinn
+
+Middlesbrough LAB HOLD
+Majority: 13,873 Turnout: 58.3% (35,637) 
+Conservative 9,531 Jacob Young
+Labour 23,404 Andy McDonald
+Liberal Democrat 368 Dawud Islam
+UK Independence Party 1,452 David Hodgson
+Green 250 Carl Martinez
+Other 632 Terry Lawton
+
+Middlesbrough South & Cleveland East CON GAIN
+Majority: 1,020 Turnout: 65.8% (47,620) 
+Conservative 23,643 Simon Clarke
+Labour 22,623 Tracy Harvey
+Liberal Democrat 1,354 Chris Foote-Wood
+UK Independence Party 0
+Green 0
+
+Midlothian LAB GAIN
+Majority: 885 Turnout: 66.3% (45,273) 
+Conservative 11,521 Chris Donnelly
+Labour 16,458 Danielle Rowley
+Liberal Democrat 1,721 Ross Laird
+UK Independence Party 0
+Scottish National Party 15,573 Owen Thompson
+Green 0
+
+Milton Keynes North CON HOLD
+Majority: 1,915 Turnout: 71.5% (63,864) 
+Conservative 30,307 Mark Lancaster
+Labour 28,392 Charlynne Pullen
+Liberal Democrat 2,499 Imogen Shepherd-Dubey
+UK Independence Party 1,390 Jeff Wyatt
+Green 1,107 Alan Francis
+Other 169 Venetia Sams
+
+Milton Keynes South CON HOLD
+Majority: 1,725 Turnout: 69.7% (64,486) 
+Conservative 30,652 Iain Stewart
+Labour 28,927 Hannah O'Neill
+Liberal Democrat 1,895 Tahir Maher
+UK Independence Party 1,833 Vince Peddle
+Green 1,179 Graham Findlay
+Other 0
+
+Mitcham & Morden LAB HOLD
+Majority: 21,375 Turnout: 70.0% (48,118) 
+Conservative 11,664 Alicia Kearns
+Labour 33,039 Siobhain McDonagh
+Liberal Democrat 1,494 Claire Mathys
+UK Independence Party 1,054 Richard Hilton
+Green 644 Laura Collins
+Other 223 Des Coke
+
+Mole Valley CON HOLD
+Majority: 24,137 Turnout: 76.1% (56,726) 
+Conservative 35,092 Paul Beresford
+Labour 7,864 Marc Green
+Liberal Democrat 10,955 Paul Kennedy
+UK Independence Party 1,352 Judy Moore
+Green 1,463 Jacquetta Fewster
+
+Monmouth CON HOLD
+Majority: 8,206 Turnout: 76.6% (49,734) 
+Conservative 26,411 David Davies
+Labour 18,205 Ruth Jones
+Liberal Democrat 2,064 Veronica German
+UK Independence Party 762 Roy Neale
+Plaid Cymru 1,338 Carole Damon
+Green 954 Ian Chandler
+Other 0
+
+Montgomeryshire CON HOLD
+Majority: 9,285 Turnout: 68.7% (34,891) 
+Conservative 18,075 Glyn Davies
+Labour 5,542 Iwan Jones
+Liberal Democrat 8,790 Jane Dodds
+UK Independence Party 0
+Plaid Cymru 1,960 Aled Hughes
+Green 524 Richard Chaloner
+
+Moray CON GAIN
+Majority: 4,159 Turnout: 67.4% (47,605) 
+Conservative 22,637 Douglas Ross
+Labour 5,208 Jo Kirby
+Liberal Democrat 1,078 Alex Linklater
+UK Independence Party 0
+Scottish National Party 18,478 Angus Robertson
+Green 0
+Other 204 Anne Glen
+
+Morecambe & Lunesdale CON HOLD
+Majority: 1,399 Turnout: 68.3% (45,657) 
+Conservative 21,773 David Morris
+Labour 20,374 Vikki Singleton
+Liberal Democrat 1,699 Matthew Severn
+UK Independence Party 1,333 Robert Gillespie
+Green 478 Cait Sinclair
+Other 0
+
+Morley & Outwood CON HOLD
+Majority: 2,104 Turnout: 68.4% (52,357) 
+Conservative 26,550 Andrea Jenkyns
+Labour 24,446 Neil Dawson
+Liberal Democrat 1,361 Craig Dobson
+UK Independence Party 0
+Green 0
+Other 0
+
+Motherwell & Wishaw SNP HOLD
+Majority: 318 Turnout: 61.5% (41,926) 
+Conservative 8,490 Meghan Gallacher
+Labour 15,832 Angela Feeney
+Liberal Democrat 920 Yvonne Finlayson
+UK Independence Party 534 Neil Wilson
+Scottish National Party 16,150 Marion Fellows
+
+Neath LAB HOLD
+Majority: 12,631 Turnout: 68.5% (38,285) 
+Conservative 9,082 Oria Lowe
+Labour 21,713 Christina Rees
+Liberal Democrat 732 Frank Little
+UK Independence Party 1,419 Richard Pritchard
+Plaid Cymru 5,339 Daniel Williams
+Green 0
+
+New Forest East CON HOLD
+Majority: 21,995 Turnout: 70.8% (51,366) 
+Conservative 32,162 Julian Lewis
+Labour 10,167 Julie Renyard
+Liberal Democrat 7,786 David Harrison
+UK Independence Party 0
+Green 1,251 Henry Mellor
+
+New Forest West CON HOLD
+Majority: 23,431 Turnout: 72.1% (49,627) 
+Conservative 33,170 Desmond Swayne
+Labour 9,739 Jo Graham
+Liberal Democrat 4,781 Terry Scriven
+UK Independence Party 0
+Green 1,454 Janet Richards
+Other 483 Des Hjerling
+
+Newark CON HOLD
+Majority: 18,149 Turnout: 72.9% (55,042) 
+Conservative 34,493 Robert Jenrick
+Labour 16,344 Chantal Lee
+Liberal Democrat 2,786 David Watts
+UK Independence Party 1,419 Xandra Arundel
+Green 0
+Other 0
+
+Newbury CON HOLD
+Majority: 24,380 Turnout: 73.4% (60,849) 
+Conservative 37,399 Richard Benyon
+Labour 8,596 Alex Skirvin
+Liberal Democrat 13,019 Judith Bunting
+UK Independence Party 0
+Green 1,531 Paul Field
+Other 304 Dave Yates
+
+Newcastle upon Tyne Central LAB HOLD
+Majority: 14,937 Turnout: 66.8% (37,094) 
+Conservative 9,134 Steve Kyte
+Labour 24,071 Chi Onwurah
+Liberal Democrat 1,812 Nick Cott
+UK Independence Party 1,482 David Muat
+Green 595 Peter Thomson
+
+Newcastle upon Tyne East LAB HOLD
+Majority: 19,261 Turnout: 66.8% (41,637) 
+Conservative 8,866 Simon Kitchen
+Labour 28,127 Nick Brown
+Liberal Democrat 2,574 Wendy Taylor
+UK Independence Party 1,315 Tony Sanderson
+Green 755 Alistair Ford
+Other 0
+
+Newcastle upon Tyne North LAB HOLD
+Majority: 10,349 Turnout: 72.8% (48,288) 
+Conservative 16,380 Duncan Crute
+Labour 26,729 Catherine McKinnell
+Liberal Democrat 2,533 Anita Lower
+UK Independence Party 1,780 Timothy Marron
+Green 513 Alison Whalley
+Other 353 Brian Moore
+
+Newcastle-under-Lyme LAB HOLD
+Majority: 30 Turnout: 66.9% (43,842) 
+Conservative 21,094 Owen Meredith
+Labour 21,124 Paul Farrelly
+Liberal Democrat 1,624 Nigel Jones
+UK Independence Party 0
+Green 0
+Other 0
+
+Newport East LAB HOLD
+Majority: 8,003 Turnout: 64.3% (36,820) 
+Conservative 12,801 Natasha Asghar
+Labour 20,804 Jessica Morden
+Liberal Democrat 966 Pete Brown
+UK Independence Party 1,180 Ian Gorman
+Plaid Cymru 881 Cameron Wixcey
+Green 0
+Other 188 Nadeem Ahmed
+
+Newport West LAB HOLD
+Majority: 5,658 Turnout: 67.5% (43,438) 
+Conservative 17,065 Angela Jones-Evans
+Labour 22,723 Paul Flynn
+Liberal Democrat 976 Sarah Lockyer
+UK Independence Party 1,100 Stan Edwards
+Plaid Cymru 1,077 Morgan Bowler-Brown
+Green 497 Pippa Bartolotti
+
+Newry & Armagh SINN FEIN HOLD
+Majority: 12,489 Turnout: 68.5% (53,579) 
+Conservative 0
+Sinn Fein 25,666 Mickey Brady
+Democratic Unionist Party 13,177 William Irwin
+Ulster Unionist Party 4,425 Sam Nicholson
+Other 10,311 Justin McNulty
+
+Newton Abbot CON HOLD
+Majority: 17,160 Turnout: 72.0% (51,637) 
+Conservative 28,635 Anne Marie Morris
+Labour 11,475 James Osben
+Liberal Democrat 10,601 Marie Chadwick
+UK Independence Party 0
+Green 926 Kathryn Driscoll
+Other 0
+
+Norfolk Mid CON HOLD
+Majority: 16,086 Turnout: 69.6% (55,668) 
+Conservative 32,828 George Freeman
+Labour 16,742 Sarah Simpson
+Liberal Democrat 2,848 Fionna Tod
+UK Independence Party 2,092 Tracy Knowles
+Green 1,158 Hannah Lester
+
+Norfolk North LIB DEM HOLD
+Majority: 3,512 Turnout: 75.3% (52,188) 
+Conservative 21,748 James Wild
+Labour 5,180 Stephen Burke
+Liberal Democrat 25,260 Norman Lamb
+UK Independence Party 0
+Green 0
+
+Norfolk North West CON HOLD
+Majority: 13,788 Turnout: 67.7% (48,811) 
+Conservative 29,408 Henry Bellingham
+Labour 15,620 Jo Rust
+Liberal Democrat 1,393 Rupert Moss-Eccardt
+UK Independence Party 1,539 Michael Stone
+Green 851 Andrew De Whalley
+
+Norfolk South CON HOLD
+Majority: 16,678 Turnout: 73.6% (61,111) 
+Conservative 35,580 Richard Bacon
+Labour 18,902 Danielle Glavin
+Liberal Democrat 5,074 Christopher Brown
+UK Independence Party 0
+Green 1,555 Catherine Rowett
+
+Norfolk South West CON HOLD
+Majority: 18,312 Turnout: 67.3% (52,416) 
+Conservative 32,894 Elizabeth Truss
+Labour 14,582 Peter Smith
+Liberal Democrat 2,365 Stephen Gordon
+UK Independence Party 2,575 David Williams
+Green 0
+
+Normanton, Pontefract & Castleford LAB HOLD
+Majority: 14,499 Turnout: 60.3% (49,191) 
+Conservative 14,769 Andrew Lee
+Labour 29,268 Yvette Cooper
+Liberal Democrat 693 Clarke Roberts
+UK Independence Party 3,030 Lewis Thompson
+Other 1,431 Daniel Gascoigne
+
+Northampton North CON HOLD
+Majority: 807 Turnout: 69.4% (40,378) 
+Conservative 19,065 Michael Ellis
+Labour 18,258 Sally Keeble
+Liberal Democrat 1,015 George Smid
+UK Independence Party 1,404 Jonathan Bullock
+Green 636 Steve Miller
+
+Northampton South CON HOLD
+Majority: 1,159 Turnout: 67.3% (41,034) 
+Conservative 19,231 Andrew Lewer
+Labour 18,072 Kevin McKeever
+Liberal Democrat 1,405 Jill Hope
+UK Independence Party 1,630 Rose Gibbins
+Green 696 Scott Mabbutt
+Other 0
+
+Northamptonshire South CON HOLD
+Majority: 22,840 Turnout: 75.8% (64,998) 
+Conservative 40,599 Andrea Leadsom
+Labour 17,759 Sophie Johnson
+Liberal Democrat 3,623 Chris Lofts
+UK Independence Party 1,363 Nigel Wickens
+Green 1,357 Denise Donaldson
+Other 297 Josh Phillips
+
+Norwich North CON HOLD
+Majority: 507 Turnout: 68.6% (45,895) 
+Conservative 21,900 Chloe Smith
+Labour 21,393 Chris Jones
+Liberal Democrat 1,480 Hugh Lanham
+UK Independence Party 0
+Green 782 Adrian Holmes
+Other 340 Liam Matthews
+
+Norwich South LAB HOLD
+Majority: 15,596 Turnout: 69.2% (51,359) 
+Conservative 15,715 Lana Hempsall
+Labour 31,311 Clive Lewis
+Liberal Democrat 2,841 James Wright
+UK Independence Party 0
+Green 1,492 Richard Bearman
+Other 0
+
+Nottingham East LAB HOLD
+Majority: 19,590 Turnout: 63.7% (39,327) 
+Conservative 8,512 Simon Murray
+Labour 28,102 Chris Leslie
+Liberal Democrat 1,003 Barry Holliday
+UK Independence Party 817 Robert Hall-Palmer
+Green 698 Kat Boettge
+Other 195 David Bishop
+
+Nottingham North LAB HOLD
+Majority: 11,160 Turnout: 57.3% (38,319) 
+Conservative 11,907 Jack Tinley
+Labour 23,067 Alex Norris
+Liberal Democrat 674 Tad Jones
+UK Independence Party 2,133 Stephen Crosby
+Green 538 Kirsty Jones
+Other 0
+
+Nottingham South LAB HOLD
+Majority: 15,162 Turnout: 67.6% (48,129) 
+Conservative 14,851 Jane Hunt
+Labour 30,013 Lilian Greenwood
+Liberal Democrat 1,564 Tony Sutton
+UK Independence Party 1,103 David Hollas
+Green 598 Adam McGregor
+Other 0
+
+Nuneaton CON HOLD
+Majority: 4,739 Turnout: 66.6% (46,067) 
+Conservative 23,755 Marcus Jones
+Labour 19,016 Philip Johnson
+Liberal Democrat 914 Richard Brighton-Knight
+UK Independence Party 1,619 Craig Carpenter
+Green 763 Chris Brookes
+Other 0
+
+Ochil & Perthshire South CON GAIN
+Majority: 3,359 Turnout: 70.6% (54,168) 
+Conservative 22,469 Luke Graham
+Labour 10,847 Joanne Ross
+Liberal Democrat 1,742 Iliyan Stefanov
+UK Independence Party 0
+Scottish National Party 19,110 Tasmina Ahmed-Sheikh
+
+Ogmore LAB HOLD
+Majority: 13,871 Turnout: 65.7% (37,204) 
+Conservative 9,354 Jamie Wallis
+Labour 23,225 Chris Elmore
+Liberal Democrat 594 Gerald Francis
+UK Independence Party 1,235 Glenda Davies
+Plaid Cymru 2,796 Huw Marshall
+Green 0
+Other 0
+
+Old Bexley & Sidcup CON HOLD
+Majority: 15,466 Turnout: 72.8% (48,042) 
+Conservative 29,545 James Brokenshire
+Labour 14,079 Danny Hackett
+Liberal Democrat 1,572 Drew Heffernan
+UK Independence Party 1,619 Freddy Vachha
+Green 820 Derek Moran
+British National Party 324 Michael Jones
+Other 83 Chinwe Nwadikeduruibe
+
+Oldham East & Saddleworth LAB HOLD
+Majority: 8,182 Turnout: 65.1% (47,037) 
+Conservative 17,447 Kashif Ali
+Labour 25,629 Debbie Abrahams
+Liberal Democrat 1,683 Jonathan Smith
+UK Independence Party 2,278 Ian Bond
+Green 0
+
+Oldham West & Royton LAB HOLD
+Majority: 17,198 Turnout: 63.2% (45,788) 
+Conservative 12,648 Christopher Glenny
+Labour 29,846 Jim McMahon
+Liberal Democrat 956 Garth Harkness
+UK Independence Party 1,899 Ruth Keating
+Green 439 Adam King
+
+Orkney & Shetland LIB DEM HOLD
+Majority: 4,563 Turnout: 68.1% (23,277) 
+Conservative 2,024 Jamie Halcro Johnston
+Labour 2,664 Robina Barton
+Liberal Democrat 11,312 Alistair Carmichael
+UK Independence Party 283 Robert Smith
+Scottish National Party 6,749 Miriam Brett
+Other 245 Stuart Hill
+
+Orpington CON HOLD
+Majority: 19,461 Turnout: 74.3% (50,461) 
+Conservative 31,762 Jo Johnson
+Labour 12,301 Nigel De Gruchy
+Liberal Democrat 3,315 Alex Feakes
+UK Independence Party 2,023 Brian Philp
+Green 1,060 Tamara Galloway
+
+Oxford East LAB HOLD
+Majority: 23,284 Turnout: 68.8% (53,896) 
+Conservative 11,834 Suzanne Bartington
+Labour 35,118 Anneliese Dodds
+Liberal Democrat 4,904 Kirsten Johnson
+UK Independence Party 0
+Green 1,785 Larry Sanders
+Other 255 Chaka Artwell
+
+Oxford West & Abingdon LIB DEM GAIN
+Majority: 816 Turnout: 75.7% (60,020) 
+Conservative 25,440 Nicola Blackwood
+Labour 7,573 Marie Tidball
+Liberal Democrat 26,256 Layla Moran
+UK Independence Party 751 Alan Harris
+Green 0
+Other 0
+
+Paisley & Renfrewshire North SNP HOLD
+Majority: 2,613 Turnout: 69.1% (46,615) 
+Conservative 12,842 David Gardiner
+Labour 14,842 Alison Taylor
+Liberal Democrat 1,476 John Boyd
+Scottish National Party 17,455 Gavin Newlands
+Green 0
+Other 0
+
+Paisley & Renfrewshire South SNP HOLD
+Majority: 2,541 Turnout: 68.0% (41,712) 
+Conservative 8,122 Amy Thomson
+Labour 14,423 Alison Dowling
+Liberal Democrat 1,327 Eileen McCartin
+Scottish National Party 16,964 Mhairi Black
+Other 876 Paul Mack
+
+Pendle CON HOLD
+Majority: 1,279 Turnout: 69.0% (44,854) 
+Conservative 21,986 Andrew Stephenson
+Labour 20,707 Wayne Blackburn
+Liberal Democrat 941 Gordon Lishman
+UK Independence Party 0
+Green 502 Ian Barnett
+British National Party 718 Brian Parker
+
+Penistone & Stocksbridge LAB HOLD
+Majority: 1,322 Turnout: 69.8% (49,787) 
+Conservative 21,485 Nicola Wilson
+Labour 22,807 Angela Smith
+Liberal Democrat 2,042 Penny Baker
+UK Independence Party 3,453 John Booker
+Other 0
+
+Penrith & The Border CON HOLD
+Majority: 15,910 Turnout: 71.3% (46,470) 
+Conservative 28,078 Rory Stewart
+Labour 12,168 Lola McEvoy
+Liberal Democrat 3,641 Neil Hughes
+UK Independence Party 1,142 Kerryanne Wilde
+Green 1,029 Douglas Lawson
+Other 412 Jonathan Davies
+
+Perth & Perthshire North SNP HOLD
+Majority: 21 Turnout: 71.8% (51,525) 
+Conservative 21,783 Ian Duncan
+Labour 5,349 David Roemmele
+Liberal Democrat 2,589 Peter Barrett
+UK Independence Party 0
+Scottish National Party 21,804 Pete Wishart
+Green 0
+Other 0
+
+Peterborough LAB GAIN
+Majority: 607 Turnout: 66.7% (47,738) 
+Conservative 22,343 Stewart Jackson
+Labour 22,950 Fiona Onasanya
+Liberal Democrat 1,597 Beki Sellick
+UK Independence Party 0
+Green 848 Fiona Radic
+Other 0
+
+Plymouth Moor View CON HOLD
+Majority: 5,019 Turnout: 65.5% (45,417) 
+Conservative 23,567 Johnny Mercer
+Labour 18,548 Sue Dann
+Liberal Democrat 917 Graham Reed
+UK Independence Party 1,849 Wendy Noble
+Green 536 Joshua Pope
+Other 0
+
+Plymouth Sutton LAB GAIN
+Majority: 6,002 Turnout: 58.3% (44,621) 
+Conservative 17,806 Oliver Colvile
+Labour 23,808 Luke Pollard
+Liberal Democrat 1,106 Henrietta Bewley
+UK Independence Party 1,148 Richard Ellison
+Green 540 Daniel Sheaff
+Other 213 Danny Bamping
+
+Pontypridd LAB HOLD
+Majority: 11,448 Turnout: 65.9% (39,894) 
+Conservative 10,655 Juliette Ash
+Labour 22,103 Owen Smith
+Liberal Democrat 1,963 Michael Powell
+UK Independence Party 1,071 Robin Hunter-Clarke
+Plaid Cymru 4,102 Fflur Elin
+Green 0
+Other 0
+
+Poole CON HOLD
+Majority: 14,209 Turnout: 67.5% (49,850) 
+Conservative 28,888 Robert Syms
+Labour 14,679 Katie Taylor
+Liberal Democrat 4,433 Mike Plummer
+UK Independence Party 0
+Green 1,299 Adrian Oliver
+Other 551 Marty Caine
+
+Poplar & Limehouse LAB HOLD
+Majority: 27,712 Turnout: 67.4% (58,814) 
+Conservative 11,846 Christopher Wilford
+Labour 39,558 Jim Fitzpatrick
+Liberal Democrat 3,959 Elaine Bagshaw
+UK Independence Party 849 Nicholas McQueen
+Green 989 Bethan Lant
+Other 1,613 Oliur Rahman
+
+Portsmouth North CON HOLD
+Majority: 9,965 Turnout: 66.1% (47,210) 
+Conservative 25,860 Penny Mordaunt
+Labour 15,895 Rumal Khan
+Liberal Democrat 2,608 Darren Sanders
+UK Independence Party 1,926 Mike Fitzgerald
+Green 791 Ken Hawkins
+Other 130 Joe Jenkins
+
+Portsmouth South LAB GAIN
+Majority: 1,554 Turnout: 63.9% (44,566) 
+Conservative 16,736 Flick Drummond
+Labour 18,290 Stephen Morgan
+Liberal Democrat 7,699 Robert Vernon-Jackson
+UK Independence Party 1,129 Kevan Chippindall-Higgin
+Green 712 Ian McCulloch
+Other 0
+
+Preseli Pembrokeshire CON HOLD
+Majority: 314 Turnout: 72.1% (42,197) 
+Conservative 18,302 Stephen Crabb
+Labour 17,988 Philippa Thompson
+Liberal Democrat 1,106 Bob Kilmister
+UK Independence Party 850 Susan Bale
+Plaid Cymru 2,711 Owain Williams
+Green 0
+Other 1,240 Chris Overton
+
+Preston LAB HOLD
+Majority: 15,723 Turnout: 61.6% (35,597) 
+Conservative 8,487 Kevin Beaty
+Labour 24,210 Mark Hendrick
+Liberal Democrat 1,204 Neil Darby
+UK Independence Party 1,348 Simon Platt
+Green 348 Anne Power
+
+Pudsey CON HOLD
+Majority: 331 Turnout: 74.3% (53,959) 
+Conservative 25,550 Stuart Andrew
+Labour 25,219 Ian McCargo
+Liberal Democrat 1,761 Allen Nixon
+UK Independence Party 0
+Green 0
+Other 1,429 Michael Wharton
+
+Putney CON HOLD
+Majority: 1,554 Turnout: 72.1% (46,894) 
+Conservative 20,679 Justine Greening
+Labour 19,125 Neeraj Patil
+Liberal Democrat 5,448 Ryan Mercer
+UK Independence Party 477 Patricia Ward
+Green 1,107 Ben Fletcher
+Other 58 Lotta Quizeen
+
+Rayleigh & Wickford CON HOLD
+Majority: 23,450 Turnout: 70.4% (55,323) 
+Conservative 36,914 Mark Francois
+Labour 13,464 Mark Daniels
+Liberal Democrat 1,557 Ron Tindall
+UK Independence Party 2,326 Peter Smith
+Green 1,062 Paul Hill
+Other 0
+
+Reading East LAB GAIN
+Majority: 3,749 Turnout: 73.1% (55,238) 
+Conservative 23,344 Rob Wilson
+Labour 27,093 Matt Rodda
+Liberal Democrat 3,378 Jenny Woods
+UK Independence Party 0
+Green 1,093 Kizzi Johannessen
+Other 330 Andy Kirkwood
+
+Reading West CON HOLD
+Majority: 2,876 Turnout: 69.5% (51,766) 
+Conservative 25,311 Alok Sharma
+Labour 22,435 Olivia Bailey
+Liberal Democrat 3,041 Meri O'Connell
+UK Independence Party 0
+Green 979 Jamie Whitham
+Other 0
+
+Redcar LAB HOLD
+Majority: 9,485 Turnout: 63.7% (42,560) 
+Conservative 14,138 Peter Gibson
+Labour 23,623 Anna Turley
+Liberal Democrat 2,849 Josh Mason
+UK Independence Party 1,950 Chris Gallacher
+Green 0
+Other 0
+
+Redditch CON HOLD
+Majority: 7,363 Turnout: 70.3% (45,203) 
+Conservative 23,652 Rachel Maclean
+Labour 16,289 Rebecca Blake
+Liberal Democrat 1,173 Susan Juned
+UK Independence Party 1,371 Paul Swansborough
+Green 380 Kevin White
+Other 2,338 Sally Woodhall
+
+Reigate CON HOLD
+Majority: 17,614 Turnout: 72.1% (53,823) 
+Conservative 30,896 Crispin Blunt
+Labour 13,282 Toby Brampton
+Liberal Democrat 5,889 Anna Tarrant
+UK Independence Party 1,542 Joseph Fox
+Green 2,214 Jonathan Essex
+
+Renfrewshire East CON GAIN
+Majority: 4,712 Turnout: 76.7% (53,738) 
+Conservative 21,496 Paul Masterton
+Labour 14,346 Blair McDougall
+Liberal Democrat 1,112 Aileen Morton
+UK Independence Party 0
+Scottish National Party 16,784 Kirsten Oswald
+
+Rhondda LAB HOLD
+Majority: 13,746 Turnout: 65.2% (32,936) 
+Conservative 3,333 Virginia Crosbie
+Labour 21,096 Chris Bryant
+Liberal Democrat 277 Karen Roberts
+UK Independence Party 880 Janet Kenrick
+Plaid Cymru 7,350 Branwen Cennard
+Green 0
+
+Ribble Valley CON HOLD
+Majority: 13,199 Turnout: 70.8% (55,200) 
+Conservative 31,919 Nigel Evans
+Labour 18,720 David Hinder
+Liberal Democrat 3,247 Allan Knox
+UK Independence Party 0
+Green 1,314 Graham Sowter
+Other 0
+
+Richmond (Yorks) CON HOLD
+Majority: 23,108 Turnout: 70.5% (57,013) 
+Conservative 36,458 Rishi Sunak
+Labour 13,350 Dan Perry
+Liberal Democrat 3,360 Tobie Abel
+UK Independence Party 0
+Green 1,739 Fiona Yorke
+Other 2,106 Chris Pearson
+
+Richmond Park CON HOLD
+Majority: 45 Turnout: 79.1% (63,330) 
+Conservative 28,588 Zac Goldsmith
+Labour 5,773 Cate Tuitt
+Liberal Democrat 28,543 Sarah Olney
+UK Independence Party 426 Peter Jewell
+Green 0
+
+Rochdale LAB HOLD
+Majority: 14,819 Turnout: 64.1% (50,044) 
+Conservative 14,216 Jane Howard
+Labour 29,035 Tony Lloyd
+Liberal Democrat 4,027 Andy Kelly
+UK Independence Party 1,641 Christopher Baksa
+Green 0
+Other 1,125 Andy Littlewood
+
+Rochester & Strood CON HOLD
+Majority: 9,850 Turnout: 65.0% (53,769) 
+Conservative 29,232 Kelly Tolhurst
+Labour 19,382 Teresa Murray
+Liberal Democrat 1,189 Bart Ricketts
+UK Independence Party 2,893 David Allen
+Green 781 Sonia Hyner
+Other 292 Steve Benson
+
+Rochford & Southend East CON HOLD
+Majority: 5,548 Turnout: 64.3% (47,248) 
+Conservative 23,013 James Duddridge
+Labour 17,465 Ashley Dalton
+Liberal Democrat 1,265 Peter Gwizdala
+UK Independence Party 1,777 Neil Hookway
+Green 804 Simon Cross
+Other 2,924 Ron Woodley
+
+Romford CON HOLD
+Majority: 13,778 Turnout: 67.9% (49,944) 
+Conservative 29,671 Andrew Rosindell
+Labour 15,893 Angelina Leatherbarrow
+Liberal Democrat 1,215 Ian Sanderson
+UK Independence Party 2,350 Andrew Beadle
+Green 815 David Hughes
+
+Romsey & Soton North CON HOLD
+Majority: 18,006 Turnout: 74.7% (50,168) 
+Conservative 28,668 Caroline Nokes
+Labour 9,614 Darren Paffey
+Liberal Democrat 10,662 Catherine Royce
+UK Independence Party 0
+Green 953 Ian Callaghan
+Other 271 Don Jerrard
+
+Ross, Skye & Lochaber SNP HOLD
+Majority: 5,919 Turnout: 71.7% (38,454) 
+Conservative 9,561 Robert Mackenzie
+Labour 4,695 Peter O'Donnghaile
+Liberal Democrat 8,042 Jean Davis
+UK Independence Party 0
+Scottish National Party 15,480 Ian Blackford
+Green 0
+Other 676 Ronnie the Crofter Campbell
+
+Rossendale & Darwen CON HOLD
+Majority: 3,216 Turnout: 69.2% (50,156) 
+Conservative 25,499 Jake Berry
+Labour 22,283 Alyson Barnes
+Liberal Democrat 1,550 Sean Bonner
+UK Independence Party 0
+Green 824 John Payne
+Other 0
+
+Rother Valley LAB HOLD
+Majority: 3,882 Turnout: 65.8% (49,488) 
+Conservative 19,939 Bethan Eddy
+Labour 23,821 Kevin Barron
+Liberal Democrat 1,155 Katie Pruszynski
+UK Independence Party 3,704 Lee Hunter
+Green 869 Paul Martin
+Other 0
+
+Rotherham LAB HOLD
+Majority: 11,387 Turnout: 60.0% (37,923) 
+Conservative 10,017 James Bellis
+Labour 21,404 Sarah Champion
+Liberal Democrat 1,754 Adam Carter
+UK Independence Party 3,316 Allen Cowles
+British National Party 0
+Other 1,432 Mick Bower
+
+Rugby CON HOLD
+Majority: 8,212 Turnout: 71.1% (51,336) 
+Conservative 27,872 Mark Pawsey
+Labour 19,660 Claire Edwards
+Liberal Democrat 2,851 Jerry Roodhouse
+UK Independence Party 0
+Green 953 Graham Bliss
+Other 0
+
+Ruislip, Northwood & Pinner CON HOLD
+Majority: 13,980 Turnout: 72.7% (53,382) 
+Conservative 30,555 Nick Hurd
+Labour 16,575 Rebecca Lury
+Liberal Democrat 3,813 Alex Cunliffe
+UK Independence Party 1,171 Richard Braine
+Green 1,268 Sarah Green
+Other 0
+
+Runnymede & Weybridge CON HOLD
+Majority: 18,050 Turnout: 68.9% (51,609) 
+Conservative 31,436 Philip Hammond
+Labour 13,386 Fiona Dent
+Liberal Democrat 3,765 John Vincent
+UK Independence Party 1,675 Nicholas Wood
+Green 1,347 Lee-Anne Lawrance
+
+Rushcliffe CON HOLD
+Majority: 8,010 Turnout: 78.0% (58,311) 
+Conservative 30,223 Kenneth Clarke
+Labour 22,213 David Mellen
+Liberal Democrat 2,759 Jayne Phoenix
+UK Independence Party 1,490 Matthew Faithfull
+Green 1,626 George Mallender
+
+Rutherglen & Hamilton West LAB GAIN
+Majority: 265 Turnout: 63.5% (50,872) 
+Conservative 9,941 Ann Le Blond
+Labour 19,101 Ged Killen
+Liberal Democrat 2,158 Robert Brown
+UK Independence Party 465 Caroline Santos
+Scottish National Party 18,836 Margaret Ferrier
+Other 371 Andy Dixon
+
+Rutland & Melton CON HOLD
+Majority: 23,104 Turnout: 73.4% (57,569) 
+Conservative 36,169 Alan Duncan
+Labour 13,065 Heather Peto
+Liberal Democrat 4,711 Ed Reynolds
+UK Independence Party 1,869 John Scutter
+Green 1,755 Alastair McQuillan
+Other 0
+
+Saffron Walden CON HOLD
+Majority: 24,966 Turnout: 72.8% (60,911) 
+Conservative 37,629 Kemi Badenoch
+Labour 12,663 Jane Berney
+Liberal Democrat 8,528 Mike Hibbs
+UK Independence Party 2,091 Lorna Howe
+Green 0
+Other 0
+
+Salford & Eccles LAB HOLD
+Majority: 19,132 Turnout: 61.0% (47,619) 
+Conservative 12,036 Jason Sugarman
+Labour 31,168 Rebecca Long-Bailey
+Liberal Democrat 1,286 John Reid
+UK Independence Party 2,320 Christopher Barnes
+Green 809 Wendy Olsen
+Other 0
+
+Salisbury CON HOLD
+Majority: 17,333 Turnout: 73.1% (53,311) 
+Conservative 30,952 John Glen
+Labour 13,619 Tom Corbin
+Liberal Democrat 5,982 Paul Sample
+UK Independence Party 1,191 Dean Palethorpe
+Green 1,152 Brig Oubridge
+Other 415 King Arthur Pendragon
+
+Scarborough & Whitby CON HOLD
+Majority: 3,435 Turnout: 68.6% (50,449) 
+Conservative 24,401 Robert Goodwill
+Labour 20,966 Eric Broadbent
+Liberal Democrat 1,354 Robert Lockwood
+UK Independence Party 1,682 Sam Cross
+Green 915 David Malone
+Other 1,131 John Freeman
+
+Scunthorpe LAB HOLD
+Majority: 3,431 Turnout: 65.3% (40,202) 
+Conservative 17,485 Holly Mumby-Croft
+Labour 20,916 Nic Dakin
+Liberal Democrat 554 Ryk Downes
+UK Independence Party 1,247 Andy Tallis
+Green 0
+Other 0
+
+Sedgefield LAB HOLD
+Majority: 6,059 Turnout: 65.1% (41,591) 
+Conservative 16,143 Dehenna Davison
+Labour 22,202 Phil Wilson
+Liberal Democrat 797 Stephen Psallidas
+UK Independence Party 1,763 John Grant
+Green 686 Melissa Wilson
+
+Sefton Central LAB HOLD
+Majority: 15,618 Turnout: 75.5% (52,079) 
+Conservative 17,212 Jade Marsden
+Labour 32,830 Bill Esterson
+Liberal Democrat 1,381 Daniel Lewis
+UK Independence Party 0
+Green 656 Mike Carter
+
+Selby & Ainsty CON HOLD
+Majority: 13,772 Turnout: 74.0% (56,076) 
+Conservative 32,921 Nigel Adams
+Labour 19,149 David Bowgett
+Liberal Democrat 2,293 Callum Delhoy
+UK Independence Party 1,713 Tony Pycroft
+Green 0
+Other 0
+
+Sevenoaks CON HOLD
+Majority: 21,917 Turnout: 72.1% (51,218) 
+Conservative 32,644 Michael Fallon
+Labour 10,727 Chris Clark
+Liberal Democrat 4,280 Alan Bullion
+UK Independence Party 1,894 Graham Cushway
+Green 1,673 Philip Dodd
+
+Sheffield Brightside & Hillsborough LAB HOLD
+Majority: 19,143 Turnout: 59.5% (41,870) 
+Conservative 9,050 Michael Naughton
+Labour 28,193 Gill Furniss
+Liberal Democrat 1,061 Simon Clement-Jones
+UK Independence Party 2,645 Shane Harper
+Green 737 Christine Gilligan Kubo
+Other 184 Muzafar Rahman
+
+Sheffield Central LAB HOLD
+Majority: 27,748 Turnout: 61.7% (47,877) 
+Conservative 6,215 Stephanie Roe
+Labour 33,963 Paul Blomfield
+Liberal Democrat 2,465 Shaffaq Mohammed
+UK Independence Party 1,060 Dominic Cook
+Green 3,848 Natalie Bennett
+Other 326 Robert Moran
+
+Sheffield Hallam LAB GAIN
+Majority: 2,125 Turnout: 77.6% (57,020) 
+Conservative 13,561 Ian Walker
+Labour 21,881 Jared O Mara
+Liberal Democrat 19,756 Nick Clegg
+UK Independence Party 929 John Thurley
+Green 823 Logan Robin
+Other 70 Steven Winstone
+
+Sheffield Heeley LAB HOLD
+Majority: 13,828 Turnout: 65.0% (44,226) 
+Conservative 12,696 Gordon Gregory
+Labour 26,524 Louise Haigh
+Liberal Democrat 2,022 Joe Otten
+UK Independence Party 1,977 Howard Denby
+Green 943 Declan Walsh
+Other 64 Jaspreet Oberoi
+
+Sheffield South East LAB HOLD
+Majority: 11,798 Turnout: 63.2% (43,596) 
+Conservative 13,722 Lindsey Cawrey
+Labour 25,520 Clive Betts
+Liberal Democrat 1,432 Colin Ross
+UK Independence Party 2,820 Dennise Dawson
+Green 0
+Other 102 Ishleen Oberoi
+
+Sherwood CON HOLD
+Majority: 5,198 Turnout: 70.0% (53,364) 
+Conservative 27,492 Mark Spencer
+Labour 22,294 Mike Pringle
+Liberal Democrat 1,113 Becky Thomas
+UK Independence Party 1,801 Stuart Bestwick
+Green 664 Morris Findley
+Other 0
+
+Shipley CON HOLD
+Majority: 4,681 Turnout: 73.0% (53,395) 
+Conservative 27,417 Philip Davies
+Labour 22,736 Steve Clapcote
+Liberal Democrat 2,202 Caroline Jones
+UK Independence Party 0
+Green 0
+Other 1,040 Sophie Walker
+
+Shrewsbury & Atcham CON HOLD
+Majority: 6,627 Turnout: 73.6% (58,203) 
+Conservative 29,073 Daniel Kawczynski
+Labour 22,446 Laura Davies
+Liberal Democrat 4,254 Hannah Fraser
+UK Independence Party 1,363 Edward Higginbottom
+Green 1,067 Emma Bullard
+Other 0
+
+Shropshire North CON HOLD
+Majority: 16,355 Turnout: 69.0% (55,599) 
+Conservative 33,642 Owen Paterson
+Labour 17,287 Graeme Currie
+Liberal Democrat 2,948 Tom Thornhill
+UK Independence Party 0
+Green 1,722 Duncan Kerr
+
+Sittingbourne & Sheppey CON HOLD
+Majority: 15,211 Turnout: 62.9% (51,389) 
+Conservative 30,911 Gordon Henderson
+Labour 15,700 Mike Rolfe
+Liberal Democrat 1,392 Keith Nevols
+UK Independence Party 0
+Green 558 Mark Richard Lindop
+Other 2,828 Mike Baldock
+
+Skipton & Ripon CON HOLD
+Majority: 19,985 Turnout: 74.4% (58,138) 
+Conservative 36,425 Julian Smith
+Labour 16,440 Alan Woodhead
+Liberal Democrat 0
+UK Independence Party 0
+Green 3,734 Andy Brown
+Other 1,539 Jack Render
+
+Sleaford & North Hykeham CON HOLD
+Majority: 25,237 Turnout: 72.4% (65,797) 
+Conservative 42,245 Caroline Johnson
+Labour 17,008 Jim Clarke
+Liberal Democrat 2,722 Ross Pepper
+UK Independence Party 1,954 Sally Chadd
+Green 968 Fiona McKenna
+Other 900 Paul Coyne
+
+Slough LAB HOLD
+Majority: 16,998 Turnout: 65.2% (54,295) 
+Conservative 17,172 Mark Vivis
+Labour 34,170 Tan Dhesi
+Liberal Democrat 1,308 Tom McCann
+UK Independence Party 1,228 Karen Perez
+Green 0
+Other 417 Paul Janik
+
+Solihull CON HOLD
+Majority: 20,571 Turnout: 73.0% (56,748) 
+Conservative 32,985 Julian Knight
+Labour 12,414 Nigel Knowles
+Liberal Democrat 8,901 Ade Adeyemo
+UK Independence Party 1,291 Andrew Garcarz
+Green 1,157 Max Mcloughlin
+Other 0
+
+Somerset North CON HOLD
+Majority: 17,103 Turnout: 77.0% (61,994) 
+Conservative 33,605 Liam Fox
+Labour 16,502 Greg Chambers
+Liberal Democrat 5,982 Richard Foord
+UK Independence Party 0
+Green 1,976 Charley Pattison
+Other 3,929 Donald Davies
+
+Somerset North East CON HOLD
+Majority: 10,235 Turnout: 75.7% (54,043) 
+Conservative 28,992 Jacob Rees-Mogg
+Labour 18,757 Robin Moss
+Liberal Democrat 4,461 Manda Rigby
+UK Independence Party 0
+Green 1,245 Sally Calverley
+Other 588 Shaun Hughes
+
+Somerton & Frome CON HOLD
+Majority: 22,906 Turnout: 75.3% (63,592) 
+Conservative 36,231 David Warburton
+Labour 10,998 Sean Dromgoole
+Liberal Democrat 13,325 Mark Blackburn
+UK Independence Party 0
+Green 2,047 Theo Simon
+Other 991 Richard Hadwin
+
+South Holland & The Deepings CON HOLD
+Majority: 24,897 Turnout: 65.9% (50,315) 
+Conservative 35,179 John Hayes
+Labour 10,282 Voyteck Kowalewski
+Liberal Democrat 1,433 Julia Cambridge
+UK Independence Party 2,185 Nicola Smith
+Green 894 Daniel Wilshire
+Other 342 Rick Stringer
+
+South Ribble CON HOLD
+Majority: 7,421 Turnout: 72.4% (54,834) 
+Conservative 28,980 Seema Kennedy
+Labour 21,559 Julie Gibson
+Liberal Democrat 2,073 John Wright
+UK Independence Party 1,387 Mark Smith
+Green 494 Andrew Wight
+Other 341 Mark Jarnell
+
+South Shields LAB HOLD
+Majority: 14,508 Turnout: 64.3% (40,772) 
+Conservative 10,570 Felicity Buchan
+Labour 25,078 Emma Lewell-Buck
+Liberal Democrat 681 Gita Gordon
+UK Independence Party 3,006 Richard Elvin
+Green 1,437 Shirley Ford
+Other 0
+
+Southampton Itchen CON HOLD
+Majority: 31 Turnout: 65.2% (46,783) 
+Conservative 21,773 Royston Smith
+Labour 21,742 Simon Letts
+Liberal Democrat 1,421 Eleanor Bell
+UK Independence Party 1,122 Kim Rose
+Green 725 Rosie Pearce
+Other 0
+
+Southampton Test LAB HOLD
+Majority: 11,508 Turnout: 66.8% (46,908) 
+Conservative 16,006 Paul Holmes
+Labour 27,514 Alan Whitehead
+Liberal Democrat 1,892 Thomas Gravatt
+UK Independence Party 0
+Green 0
+Other 1,496 Keith Morrell
+
+Southend West CON HOLD
+Majority: 10,000 Turnout: 69.7% (47,191) 
+Conservative 26,046 David Amess
+Labour 16,046 Julian Ware-Lane
+Liberal Democrat 2,110 Lucy Salek
+UK Independence Party 1,666 John Stansfield
+Green 831 Dominic Ellis
+Other 492 Jason Pilley
+
+Southport CON GAIN
+Majority: 2,914 Turnout: 69.1% (47,956) 
+Conservative 18,541 Damien Moore
+Labour 15,627 Liz Savage
+Liberal Democrat 12,661 Sue McGuire
+UK Independence Party 1,127 Terry Durrance
+Green 0
+Other 0
+
+Spelthorne CON HOLD
+Majority: 13,425 Turnout: 69.0% (50,115) 
+Conservative 28,692 Kwasi Kwarteng
+Labour 15,267 Rebecca Geach
+Liberal Democrat 2,755 Rosamund Shimell
+UK Independence Party 2,296 Redvers Cunningham
+Green 1,105 Paul Jacobs
+Other 0
+
+St Albans CON HOLD
+Majority: 6,109 Turnout: 78.3% (56,998) 
+Conservative 24,571 Anne Main
+Labour 13,137 Kerry Pollard
+Liberal Democrat 18,462 Daisy Cooper
+UK Independence Party 0
+Green 828 Jack Easton
+
+St Austell & Newquay CON HOLD
+Majority: 11,142 Turnout: 69.0% (54,212) 
+Conservative 26,856 Steve Double
+Labour 15,714 Kevin Neil
+Liberal Democrat 11,642 Stephen Gilbert
+UK Independence Party 0
+Green 0
+Other 0
+
+St Helens North LAB HOLD
+Majority: 18,406 Turnout: 66.0% (50,222) 
+Conservative 13,606 Jackson Ng
+Labour 32,012 Conor McGinn
+Liberal Democrat 1,287 Tom Morrison
+UK Independence Party 2,097 Peter Peers
+Green 1,220 Rachel Parkinson
+
+St Helens South & Whiston LAB HOLD
+Majority: 24,343 Turnout: 66.9% (52,886) 
+Conservative 11,536 Ed McRandal
+Labour 35,879 Marie Rimmer
+Liberal Democrat 2,101 Brian Spencer
+UK Independence Party 1,953 Mark Hitchen
+Green 1,417 Jess Northey
+
+St Ives CON HOLD
+Majority: 312 Turnout: 75.9% (51,226) 
+Conservative 22,120 Derek Thomas
+Labour 7,298 Christopher Drew
+Liberal Democrat 21,808 Andrew George
+UK Independence Party 0
+Green 0
+Other 0
+
+Stafford CON HOLD
+Majority: 7,729 Turnout: 75.9% (51,924) 
+Conservative 28,424 Jeremy Lefroy
+Labour 20,695 David Williams
+Liberal Democrat 1,540 Christine Tinker
+UK Independence Party 0
+Green 1,265 Tony Pearce
+Other 0
+
+Staffordshire Moorlands CON HOLD
+Majority: 10,830 Turnout: 67.6% (44,655) 
+Conservative 25,963 Karen Bradley
+Labour 15,133 Dave Jones
+Liberal Democrat 1,494 Henry Jebb
+UK Independence Party 0
+Green 541 Mike Shone
+Other 1,524 Nicholas Sheldon
+
+Staffordshire South CON HOLD
+Majority: 22,733 Turnout: 69.6% (51,109) 
+Conservative 35,656 Gavin Williamson
+Labour 12,923 Adam Freeman
+Liberal Democrat 1,348 Hilary Myers
+UK Independence Party 0
+Green 1,182 Claire McIlvenna
+
+Stalybridge & Hyde LAB HOLD
+Majority: 8,084 Turnout: 59.5% (42,457) 
+Conservative 16,193 Tom Dowse
+Labour 24,277 Jonathan Reynolds
+Liberal Democrat 996 Paul Ankers
+UK Independence Party 0
+Green 991 Julie Wood
+
+Stevenage CON HOLD
+Majority: 3,384 Turnout: 69.7% (49,329) 
+Conservative 24,798 Stephen McPartland
+Labour 21,414 Sharon Taylor
+Liberal Democrat 2,032 Barbara Gibson
+UK Independence Party 0
+Green 1,085 Victoria Snelling
+Other 0
+
+Stirling CON GAIN
+Majority: 148 Turnout: 74.3% (49,356) 
+Conservative 18,291 Stephen Kerr
+Labour 10,902 Chris Kane
+Liberal Democrat 1,683 Wendy Chamberlain
+Scottish National Party 18,143 Steven Paterson
+Green 0
+Other 337 Kirstein Rummery
+
+Stockport LAB HOLD
+Majority: 14,477 Turnout: 65.5% (41,544) 
+Conservative 11,805 Daniel Hamilton
+Labour 26,282 Ann Coffey
+Liberal Democrat 1,778 Daniel Hawthorne
+UK Independence Party 1,088 John Kelly
+Green 591 Gary Lawson
+Other 0
+
+Stockton North LAB HOLD
+Majority: 8,715 Turnout: 64.5% (42,731) 
+Conservative 15,589 Mark Fletcher
+Labour 24,304 Alex Cunningham
+Liberal Democrat 646 Sarah Brown
+UK Independence Party 1,834 Ted Strike
+Green 358 Emma Robson
+Other 0
+
+Stockton South LAB GAIN
+Majority: 888 Turnout: 71.2% (53,824) 
+Conservative 25,214 James Wharton
+Labour 26,102 Paul Williams
+Liberal Democrat 951 Drew Durning
+UK Independence Party 1,186 David Outterside
+Green 371 Jo Fitzgerald
+Other 0
+
+Stoke-on-Trent Central LAB HOLD
+Majority: 3,897 Turnout: 57.0% (33,145) 
+Conservative 13,186 Daniel Jellyman
+Labour 17,083 Gareth Snell
+Liberal Democrat 680 Peter Andras
+UK Independence Party 1,608 Mick Harold
+Green 378 Adam Colclough
+Other 210 Barbara Fielding
+
+Stoke-on-Trent North LAB HOLD
+Majority: 2,359 Turnout: 57.7% (41,786) 
+Conservative 18,913 Ben Adams
+Labour 21,272 Ruth Smeeth
+Liberal Democrat 916 Richard Whelan
+UK Independence Party 0
+Green 685 Douglas Rouxel
+Other 0
+
+Stoke-on-Trent South CON GAIN
+Majority: 663 Turnout: 63.1% (41,690) 
+Conservative 20,451 Jack Brereton
+Labour 19,788 Rob Flello
+Liberal Democrat 808 Ian Wilkes
+UK Independence Party 0
+Green 643 Jan Zablocki
+Other 0
+
+Stone CON HOLD
+Majority: 17,495 Turnout: 73.8% (50,032) 
+Conservative 31,614 Bill Cash
+Labour 14,119 Sam Hale
+Liberal Democrat 2,222 Martin Lewis
+UK Independence Party 1,370 Edward Whitfield
+Green 707 Samantha Pancheri
+Other 0
+
+Stourbridge CON HOLD
+Majority: 7,654 Turnout: 67.1% (47,135) 
+Conservative 25,706 Margot James
+Labour 18,052 Pete Lowe
+Liberal Democrat 1,083 Christoper Bramall
+UK Independence Party 1,801 Glen Wilson
+Green 493 Andi Mohr
+
+Strangford DUP HOLD
+Majority: 15,939 Turnout: 60.2% (38,749) 
+Conservative 507 Claire Hiscott
+UK Independence Party 0
+Sinn Fein 1,083 Carole Murphy
+Democratic Unionist Party 24,036 Jim Shannon
+Ulster Unionist Party 4,419 Mike Nesbitt
+Green 607 Ricky Bamford
+Other 8,097 Joe Boyle
+
+Stratford-on-Avon CON HOLD
+Majority: 20,958 Turnout: 72.3% (52,532) 
+Conservative 32,657 Nadhim Zahawi
+Labour 11,699 Jeff Kenner
+Liberal Democrat 6,357 Elizabeth Adams
+UK Independence Party 0
+Green 1,345 Dominic Giles
+Other 474 Tom Darwood
+
+Streatham LAB HOLD
+Majority: 26,285 Turnout: 71.0% (55,795) 
+Conservative 11,927 Kim Caddy
+Labour 38,212 Chuka Umunna
+Liberal Democrat 3,611 Alex Davies
+UK Independence Party 349 Robert Stephenson
+Green 1,696 Nicole Griffiths
+Other 0
+
+Stretford & Urmston LAB HOLD
+Majority: 19,705 Turnout: 69.9% (50,191) 
+Conservative 13,814 Lisa Cooke
+Labour 33,519 Kate Green
+Liberal Democrat 1,001 Anna Fryer
+UK Independence Party 1,094 Andrew Beaumont
+Green 641 Michael Ingleson
+Other 122 Rose Doman
+
+Stroud LAB GAIN
+Majority: 687 Turnout: 77.0% (63,816) 
+Conservative 29,307 Neil Carmichael
+Labour 29,994 David Drew
+Liberal Democrat 2,053 Max Wilkinson
+UK Independence Party 1,039 Glenville Gogerly
+Green 1,423 Sarah Lunnon
+Other 0
+
+Suffolk Central & Ipswich North CON HOLD
+Majority: 17,185 Turnout: 72.4% (56,524) 
+Conservative 33,992 Dan Poulter
+Labour 16,807 Elizabeth Hughes
+Liberal Democrat 2,431 Aidan Van de Weyer
+UK Independence Party 1,635 Stephen Searle
+Green 1,659 Regan Scott
+Other 0
+
+Suffolk Coastal CON HOLD
+Majority: 16,012 Turnout: 73.2% (58,074) 
+Conservative 33,713 Therese Coffey
+Labour 17,701 Cameron Matthews
+Liberal Democrat 4,048 James Sandbach
+UK Independence Party 0
+Green 1,802 Eamonn O'Nolan
+Other 810 Philip Young
+
+Suffolk South CON HOLD
+Majority: 17,749 Turnout: 71.4% (54,235) 
+Conservative 32,829 James Cartlidge
+Labour 15,080 Emma Bishton
+Liberal Democrat 3,154 Andrew Aalders-Dunthorne
+UK Independence Party 1,449 Aidan Powlesland
+Green 1,723 Robert Lindsay
+Other 0
+
+Suffolk West CON HOLD
+Majority: 17,063 Turnout: 67.2% (51,746) 
+Conservative 31,649 Matt Hancock
+Labour 14,586 Michael Jefferys
+Liberal Democrat 2,180 Elfreda Tealby-Watson
+UK Independence Party 2,396 Julian Flood
+Green 935 Donald Allwright
+
+Sunderland Central LAB HOLD
+Majority: 9,997 Turnout: 62.0% (45,111) 
+Conservative 15,059 Robert Oliver
+Labour 25,056 Julie Elliott
+Liberal Democrat 1,777 Niall Hodson
+UK Independence Party 2,209 Gary Leighton
+Green 705 Rachel Featherstone
+Other 305 Sean Cockburn
+
+Surrey East CON HOLD
+Majority: 23,914 Turnout: 72.2% (59,203) 
+Conservative 35,310 Sam Gyimah
+Labour 11,396 Hitesh Tailor
+Liberal Democrat 6,197 David Lee
+UK Independence Party 2,227 Helena Windsor
+Green 1,100 Benedict Southworth
+Other 2,973 Andy Parr
+
+Surrey Heath CON HOLD
+Majority: 24,943 Turnout: 71.8% (57,822) 
+Conservative 37,118 Michael Gove
+Labour 12,175 Laween Atroshi
+Liberal Democrat 6,271 Anne-Marie Barker
+UK Independence Party 0
+Green 2,258 Sharon Galliford
+Other 0
+
+Surrey South West CON HOLD
+Majority: 21,590 Turnout: 77.4% (60,432) 
+Conservative 33,683 Jeremy Hunt
+Labour 7,606 David Black
+Liberal Democrat 5,967 Ollie Purkiss
+UK Independence Party 1,083 Mark Webber
+Green 0
+Other 12,093 Louise Irvine
+
+Sussex Mid CON HOLD
+Majority: 19,673 Turnout: 73.6% (61,632) 
+Conservative 35,082 Nicholas Soames
+Labour 15,409 Greg Mountain
+Liberal Democrat 7,855 Sarah Osborne
+UK Independence Party 1,251 Toby Brothers
+Green 1,571 Chris Jerrey
+Other 464 Baron Von Thunderclap
+
+Sutton & Cheam CON HOLD
+Majority: 12,698 Turnout: 73.8% (51,970) 
+Conservative 26,567 Paul Scully
+Labour 10,663 Bonnie Craven
+Liberal Democrat 13,869 Amna Ahmad
+UK Independence Party 0
+Green 871 Claire Jackson-Prior
+Other 0
+
+Sutton Coldfield CON HOLD
+Majority: 15,339 Turnout: 69.9% (52,858) 
+Conservative 32,224 Andrew Mitchell
+Labour 16,885 Rob Pocock
+Liberal Democrat 2,302 Jennifer Wilkinson
+UK Independence Party 0
+Green 965 David Ratcliff
+Other 482 Hannah Sophia
+
+Swansea East LAB HOLD
+Majority: 13,168 Turnout: 60.1% (35,159) 
+Conservative 9,139 Dan Boucher
+Labour 22,307 Carolyn Harris
+Liberal Democrat 625 Charley Hasted
+UK Independence Party 1,040 Clifford Johnson
+Plaid Cymru 1,689 Steffan Phillips
+Green 359 Chris Evans
+
+Swansea West LAB HOLD
+Majority: 10,598 Turnout: 65.5% (37,282) 
+Conservative 11,680 Craig Lawton
+Labour 22,278 Geraint Davies
+Liberal Democrat 1,269 Michael O'Carroll
+UK Independence Party 0
+Plaid Cymru 1,529 Rhydian Fitter
+Green 434 Mike Whittall
+Other 92 Brian Johnson
+
+Swindon North CON HOLD
+Majority: 8,335 Turnout: 68.5% (54,911) 
+Conservative 29,431 Justin Tomlinson
+Labour 21,096 Mark Dempsey
+Liberal Democrat 1,962 Liz Webster
+UK Independence Party 1,564 Steve Halden
+Green 858 Andy Bentley
+
+Swindon South CON HOLD
+Majority: 2,464 Turnout: 70.8% (51,271) 
+Conservative 24,809 Robert Buckland
+Labour 22,345 Sarah Church
+Liberal Democrat 2,079 Stan Pajak
+UK Independence Party 1,291 Martin Costello
+Green 747 Talis Kimberley-Fairbourn
+
+Tamworth CON HOLD
+Majority: 12,347 Turnout: 66.1% (47,110) 
+Conservative 28,748 Christopher Pincher
+Labour 16,401 Andrew Hammond
+Liberal Democrat 1,961 Jenny Pinkett
+UK Independence Party 0
+Green 0
+
+Tatton CON HOLD
+Majority: 14,787 Turnout: 72.4% (49,116) 
+Conservative 28,764 Esther McVey
+Labour 13,977 Sam Rushworth
+Liberal Democrat 4,431 Gareth Wilson
+UK Independence Party 0
+Green 1,024 Nigel Hennerley
+Other 920 Quentin Abel
+
+Taunton Deane CON HOLD
+Majority: 15,887 Turnout: 73.8% (63,053) 
+Conservative 33,333 Rebecca Pow
+Labour 9,689 Martin Jevon
+Liberal Democrat 17,446 Gideon Amos
+UK Independence Party 1,434 Alan Dimmick
+Green 1,151 Clive Martin
+Other 0
+
+Telford CON HOLD
+Majority: 720 Turnout: 65.6% (44,686) 
+Conservative 21,777 Lucy Allan
+Labour 21,057 Kuldip Sahota
+Liberal Democrat 954 Susan King
+UK Independence Party 0
+Green 898 Luke Shirley
+
+Tewkesbury CON HOLD
+Majority: 22,574 Turnout: 72.5% (59,084) 
+Conservative 35,448 Laurence Robertson
+Labour 12,874 Manjinder Kang
+Liberal Democrat 7,981 Cait Clucas
+UK Independence Party 1,205 Simon Collins
+Green 1,576 Cate Cody
+
+Thanet North CON HOLD
+Majority: 10,738 Turnout: 66.5% (48,325) 
+Conservative 27,163 Roger Gale
+Labour 16,425 Frances Rehal
+Liberal Democrat 1,586 Martyn Pennington
+UK Independence Party 2,198 Clive Egan
+Green 825 Ed Targett
+Other 128 Iris White
+
+Thanet South CON HOLD
+Majority: 6,387 Turnout: 68.8% (49,753) 
+Conservative 25,262 Craig Mackinlay
+Labour 18,875 Raushan Ara
+Liberal Democrat 1,514 Jordan Williams
+UK Independence Party 2,997 Stuart Piper
+Green 809 Trevor Roper
+Other 296 Faith Fisher
+
+The Cotswolds CON HOLD
+Majority: 25,499 Turnout: 74.2% (59,702) 
+Conservative 36,201 Geoffrey Clifton-Brown
+Labour 10,702 Mark Huband
+Liberal Democrat 9,748 Andrew Gant
+UK Independence Party 1,197 Chris Harlow
+Green 1,747 Sabrina Poole
+Other 107 Sandy Steel
+
+The Wrekin CON HOLD
+Majority: 9,564 Turnout: 72.1% (49,523) 
+Conservative 27,451 Mark Pritchard
+Labour 17,887 Dylan Harrison
+Liberal Democrat 1,345 Rod Keyes
+UK Independence Party 1,656 Denis Allen
+Green 804 Pat McCarthy
+Other 380 Fay Easton
+
+Thirsk & Malton CON HOLD
+Majority: 19,001 Turnout: 71.1% (55,929) 
+Conservative 33,572 Kevin Hollinrake
+Labour 14,571 Alan Avery
+Liberal Democrat 3,859 Dinah Keal
+UK Independence Party 1,532 Toby Horton
+Green 1,100 Martin Brampton
+Other 1,295 Philip Tate
+
+Thornbury & Yate CON HOLD
+Majority: 12,071 Turnout: 74.6% (50,690) 
+Conservative 28,008 Luke Hall
+Labour 6,112 Brian Mead
+Liberal Democrat 15,937 Claire Young
+UK Independence Party 0
+Green 633 Iain Hamilton
+
+Thurrock CON HOLD
+Majority: 345 Turnout: 64.4% (50,325) 
+Conservative 19,880 Jackie Doyle-Price
+Labour 19,535 John Kent
+Liberal Democrat 798 Kevin McNamara
+UK Independence Party 10,112 Tim Aker
+Other 0
+
+Tiverton & Honiton CON HOLD
+Majority: 19,801 Turnout: 71.6% (57,815) 
+Conservative 35,471 Neil Parish
+Labour 15,670 Caroline Kolek
+Liberal Democrat 4,639 Matthew Wilson
+UK Independence Party 0
+Green 2,035 Gill Westcott
+
+Tonbridge & Malling CON HOLD
+Majority: 23,508 Turnout: 73.7% (56,907) 
+Conservative 36,218 Tom Tugendhat
+Labour 12,710 Dylan Jones
+Liberal Democrat 3,787 Keith Miller
+UK Independence Party 1,857 Colin Bullen
+Green 2,335 April Clark
+
+Tooting LAB HOLD
+Majority: 15,458 Turnout: 74.6% (58,171) 
+Conservative 19,236 Dan Watkins
+Labour 34,694 Rosena Allin-Khan
+Liberal Democrat 3,057 Alexander Glassbrook
+UK Independence Party 339 Ryan Coshall
+Green 845 Esther Obiri-Darko
+
+Torbay CON HOLD
+Majority: 14,283 Turnout: 67.4% (51,174) 
+Conservative 27,141 Kevin Foster
+Labour 9,310 Paul Raybould
+Liberal Democrat 12,858 Deborah Brewer
+UK Independence Party 1,213 Tony McIntyre
+Green 652 Sam Moss
+
+Torfaen LAB HOLD
+Majority: 10,240 Turnout: 62.1% (38,429) 
+Conservative 11,894 Graham Smith
+Labour 22,134 Nick Thomas-Symonds
+Liberal Democrat 852 Andrew Best
+UK Independence Party 1,490 Ian Williams
+Plaid Cymru 2,059 Jeff Rees
+Green 0
+Other 0
+
+Totnes CON HOLD
+Majority: 13,477 Turnout: 72.9% (50,270) 
+Conservative 26,972 Sarah Wollaston
+Labour 13,495 Gerrie Messer
+Liberal Democrat 6,466 Julian Brazil
+UK Independence Party 1,240 Steven Harvey
+Green 2,097 Jacqi Hodgson
+
+Tottenham LAB HOLD
+Majority: 34,584 Turnout: 67.7% (49,339) 
+Conservative 5,665 Myles Stacey
+Labour 40,249 David Lammy
+Liberal Democrat 1,687 Brian Haley
+UK Independence Party 462 Patricia Rumble
+Green 1,276 Jarelle Francis
+Other 0
+
+Truro & Falmouth CON HOLD
+Majority: 3,792 Turnout: 75.8% (56,647) 
+Conservative 25,123 Sarah Newton
+Labour 21,331 Jayne Kirkham
+Liberal Democrat 8,465 Rob Nolan
+UK Independence Party 897 Duncan Odgers
+Green 831 Amanda Pennington
+Other 0
+
+Tunbridge Wells CON HOLD
+Majority: 16,465 Turnout: 72.1% (54,209) 
+Conservative 30,856 Greg Clark
+Labour 14,391 Charles Woodgate
+Liberal Democrat 5,355 Rachel Sadler
+UK Independence Party 1,464 Chris Hoare
+Green 1,441 Trevor Bisdee
+Other 702 Celine Thomas
+
+Twickenham LIB DEM GAIN
+Majority: 9,752 Turnout: 79.5% (66,296) 
+Conservative 25,207 Tania Mathias
+Labour 6,130 Katherine Dunne
+Liberal Democrat 34,959 Vince Cable
+UK Independence Party 0
+Green 0
+Other 0
+
+Tynemouth LAB HOLD
+Majority: 11,666 Turnout: 73.4% (56,858) 
+Conservative 20,729 Nick Varley
+Labour 32,395 Alan Campbell
+Liberal Democrat 1,724 John Appleby
+UK Independence Party 1,257 Stuart Houghton
+Green 629 Julia Erskine
+Other 124 Anthony The Durham Cobbler
+
+Tyneside North LAB HOLD
+Majority: 19,284 Turnout: 65.8% (51,892) 
+Conservative 14,172 Henry Newman
+Labour 33,456 Mary Glindon
+Liberal Democrat 1,494 Greg Stone
+UK Independence Party 2,101 Gary Legg
+Green 669 Martin Collins
+Other 0
+
+Tyrone West SINN FEIN HOLD
+Majority: 10,342 Turnout: 67.9% (43,486) 
+Conservative 0
+Sinn Fein 22,060 Barry McElduff
+Democratic Unionist Party 11,718 Thomas Buchanan
+Ulster Unionist Party 2,253 Alicia Clarke
+Green 427 Ciaran McClean
+Other 7,028 Daniel McCrossan
+
+Upper Bann DUP HOLD
+Majority: 7,992 Turnout: 63.9% (51,257) 
+Conservative 0
+Sinn Fein 14,325 John O Dowd
+Democratic Unionist Party 22,317 David Simpson
+Ulster Unionist Party 7,900 Doug Beattie
+Other 6,715 Declan McAlinden
+
+Uxbridge & Ruislip South CON HOLD
+Majority: 5,034 Turnout: 66.8% (46,694) 
+Conservative 23,716 Boris Johnson
+Labour 18,682 Vincent Lo
+Liberal Democrat 1,835 Rosina Robson
+UK Independence Party 1,577 Elizabeth Kemp
+Green 884 Mark Keir
+Other 0
+
+Vale of Clwyd LAB GAIN
+Majority: 2,379 Turnout: 68.0% (38,684) 
+Conservative 17,044 James Davies
+Labour 19,423 Chris Ruane
+Liberal Democrat 666 Gwyn Williams
+UK Independence Party 0
+Plaid Cymru 1,551 David Wyatt
+
+Vale of Glamorgan CON HOLD
+Majority: 2,190 Turnout: 72.6% (53,718) 
+Conservative 25,501 Alun Cairns
+Labour 23,311 Camilla Beaven
+Liberal Democrat 1,020 Jennifer Geroni
+UK Independence Party 868 Melanie Hunter-Clarke
+Plaid Cymru 2,295 Ian Johnson
+Green 419 Stephen Davis-Barker
+Other 304 David Elston
+
+Vauxhall LAB HOLD
+Majority: 20,196 Turnout: 67.1% (54,988) 
+Conservative 10,277 Dolly Theis
+Labour 31,522 Kate Hoey
+Liberal Democrat 11,326 George Turner
+UK Independence Party 0
+Green 1,152 Gulnar Hasnain
+Other 711 Mark Chapman
+
+Wakefield LAB HOLD
+Majority: 2,176 Turnout: 65.8% (46,284) 
+Conservative 20,811 Antony Calvert
+Labour 22,987 Mary Creagh
+Liberal Democrat 943 Denis Cronin
+UK Independence Party 0
+Green 0
+Other 1,543 Waj Ali
+
+Wallasey LAB HOLD
+Majority: 23,320 Turnout: 71.7% (48,353) 
+Conservative 11,232 Andy Livsey
+Labour 34,552 Angela Eagle
+Liberal Democrat 772 Paul Childs
+UK Independence Party 1,160 Debbie Caplin
+Green 637 Lily Clough
+
+Walsall North CON GAIN
+Majority: 2,601 Turnout: 56.6% (38,118) 
+Conservative 18,919 Eddie Hughes
+Labour 16,318 David Winnick
+Liberal Democrat 586 Isabelle Parasram
+UK Independence Party 2,295 Liz Hazell
+Green 0
+Other 0
+
+Walsall South LAB HOLD
+Majority: 8,892 Turnout: 65.4% (44,072) 
+Conservative 16,394 James Bird
+Labour 25,286 Valerie Vaz
+Liberal Democrat 587 Anna Wellings Purvis
+UK Independence Party 1,805 Derek Bennett
+Green 0
+
+Walthamstow LAB HOLD
+Majority: 31,924 Turnout: 70.5% (48,050) 
+Conservative 6,776 Molly Samuel
+Labour 38,700 Stella Creasy
+Liberal Democrat 1,384 Ukonu Obasi
+UK Independence Party 0
+Green 1,190 Andrew Johns
+Other 0
+
+Wansbeck LAB HOLD
+Majority: 10,435 Turnout: 68.4% (42,454) 
+Conservative 13,903 Chris Galley
+Labour 24,338 Ian Lavery
+Liberal Democrat 2,015 Joan Tebbutt
+UK Independence Party 1,483 Melanie Hurst
+Green 715 Steven Leyland
+
+Wantage CON HOLD
+Majority: 17,380 Turnout: 72.5% (63,602) 
+Conservative 34,459 Ed Vaizey
+Labour 17,079 Rachel Eden
+Liberal Democrat 9,234 Chris Carrigan
+UK Independence Party 1,284 David McLeod
+Green 1,546 Sue Ap-Roberts
+
+Warley LAB HOLD
+Majority: 16,483 Turnout: 63.1% (40,206) 
+Conservative 10,521 Anthony Mangnall
+Labour 27,004 John Spellar
+Liberal Democrat 777 Bryan Manley-Green
+UK Independence Party 1,349 Darryl Magher
+Green 555 Mark Redding
+
+Warrington North LAB HOLD
+Majority: 9,582 Turnout: 67.4% (48,517) 
+Conservative 17,774 Val Allen
+Labour 27,356 Helen Jones
+Liberal Democrat 1,207 Stefan Krizanac
+UK Independence Party 1,561 James Ashington
+Green 619 Lyndsay McAteer
+
+Warrington South LAB GAIN
+Majority: 2,549 Turnout: 72.3% (61,995) 
+Conservative 27,445 David Mowat
+Labour 29,994 Faisal Rashid
+Liberal Democrat 3,339 Bob Barr
+UK Independence Party 0
+Green 0
+Other 1,217 John Boulton
+
+Warwick & Leamington LAB GAIN
+Majority: 1,206 Turnout: 72.8% (54,055) 
+Conservative 24,021 Chris White
+Labour 25,227 Matt Western
+Liberal Democrat 2,810 Nick Solman
+UK Independence Party 799 Bob Dhillon
+Green 1,198 Jonathan Chilvers
+
+Warwickshire North CON HOLD
+Majority: 8,510 Turnout: 65.3% (47,178) 
+Conservative 26,860 Craig Tracey
+Labour 18,350 Julie Jackson
+Liberal Democrat 1,028 James Cox
+UK Independence Party 0
+Green 940 Keith Kondakor
+Other 0
+
+Washington & Sunderland West LAB HOLD
+Majority: 12,940 Turnout: 60.3% (40,574) 
+Conservative 11,699 Jonathan Gullis
+Labour 24,639 Sharon Hodgson
+Liberal Democrat 961 Tom Appleby
+UK Independence Party 2,761 Bryan Foster
+Green 514 Michal Chantkowski
+Other 0
+
+Watford CON HOLD
+Majority: 2,092 Turnout: 67.8% (58,610) 
+Conservative 26,731 Richard Harrington
+Labour 24,639 Chris Ostrowski
+Liberal Democrat 5,335 Ian Stotesbury
+UK Independence Party 1,184 Ian Green
+Green 721 Alex Murray
+Other 0
+
+Waveney CON HOLD
+Majority: 9,215 Turnout: 65.2% (52,674) 
+Conservative 28,643 Peter Aldous
+Labour 19,428 Sonia Barker
+Liberal Democrat 1,012 Jacky Howe
+UK Independence Party 1,933 Bert Poole
+Green 1,332 Elfrede Brambley-Crawshaw
+Other 326 Allyson Barron
+
+Wealden CON HOLD
+Majority: 23,628 Turnout: 74.3% (60,464) 
+Conservative 37,027 Nus Ghani
+Labour 13,399 Angela Smith
+Liberal Democrat 6,281 Chris Bowers
+UK Independence Party 1,798 Nicola Burton
+Green 1,959 Colin Stocks
+
+Weaver Vale LAB GAIN
+Majority: 3,928 Turnout: 73.3% (50,613) 
+Conservative 22,138 Graham Evans
+Labour 26,066 Mike Amesbury
+Liberal Democrat 1,623 Paul Roberts
+UK Independence Party 0
+Green 786 Christopher Copeman
+Other 0
+
+Wellingborough CON HOLD
+Majority: 12,460 Turnout: 67.2% (53,240) 
+Conservative 30,579 Peter Bone
+Labour 18,119 Andrea Watts
+Liberal Democrat 1,782 Chris Nelson
+UK Independence Party 1,804 Allan Shipham
+Green 956 Jonathan Hornett
+
+Wells CON HOLD
+Majority: 6,582 Turnout: 75.0% (61,843) 
+Conservative 30,488 James Heappey
+Labour 7,129 Andy Merryfield
+Liberal Democrat 23,906 Tessa Munt
+UK Independence Party 0
+Green 0
+Other 320 Lorna Corke
+
+Welwyn Hatfield CON HOLD
+Majority: 7,369 Turnout: 70.9% (51,669) 
+Conservative 26,374 Grant Shapps
+Labour 19,005 Anawar Miah
+Liberal Democrat 3,836 Nigel Quinton
+UK Independence Party 1,441 Dean Milliken
+Green 835 Christianne Sayers
+Other 178 Melvyn Jones
+
+Wentworth & Dearne LAB HOLD
+Majority: 14,803 Turnout: 58.7% (43,947) 
+Conservative 13,744 Steven Jackson
+Labour 28,547 John Healey
+Liberal Democrat 1,656 Janice Middleton
+UK Independence Party 0
+Other 0
+
+West Bromwich East LAB HOLD
+Majority: 7,713 Turnout: 61.3% (39,098) 
+Conservative 14,951 Emma Crane
+Labour 22,664 Tom Watson
+Liberal Democrat 625 Karen Trench
+UK Independence Party 0
+Green 533 John Macefield
+Other 325 Colin Rankine
+
+West Bromwich West LAB HOLD
+Majority: 4,460 Turnout: 54.7% (36,094) 
+Conservative 14,329 Andrew Hardie
+Labour 18,789 Adrian Bailey
+Liberal Democrat 333 Flo Clucas
+UK Independence Party 2,320 Star Anderton
+Green 323 Robert Buckman
+
+West Ham LAB HOLD
+Majority: 36,754 Turnout: 65.8% (60,708) 
+Conservative 9,837 Patrick Spencer
+Labour 46,591 Lyn Brown
+Liberal Democrat 1,836 Paul Reynolds
+UK Independence Party 1,134 Rosamund Beattie
+Green 957 Michael Spracklin
+Other 353 Kayode Shedowo
+
+Western Isles SNP HOLD
+Majority: 1,007 Turnout: 69.6% (14,818) 
+Conservative 2,441 Dan McCroskrie
+Labour 5,006 Ealasaid MacDonald
+Liberal Democrat 250 James Paterson
+Scottish National Party 6,013 Angus MacNeil
+Other 1,108 John Cormack
+
+Westminster North LAB HOLD
+Majority: 11,512 Turnout: 67.8% (43,295) 
+Conservative 14,422 Lindsey Hall
+Labour 25,934 Karen Buck
+Liberal Democrat 2,253 Alex Harding
+UK Independence Party 0
+Green 595 Emmanuelle Tandy
+Other 91 Abby Dharamsey
+
+Westmorland & Lonsdale LIB DEM HOLD
+Majority: 777 Turnout: 77.9% (51,687) 
+Conservative 22,909 James Airey
+Labour 4,783 Eli Aldridge
+Liberal Democrat 23,686 Tim Farron
+UK Independence Party 0
+Green 0
+Other 309 Mr Fishfinger
+
+Weston-Super-Mare CON HOLD
+Majority: 11,544 Turnout: 68.7% (56,415) 
+Conservative 29,982 John Penrose
+Labour 18,438 Timothy Taylor
+Liberal Democrat 5,175 Mike Bell
+UK Independence Party 1,932 Helen Hims
+Green 888 Suneil Basu
+Other 0
+
+Wigan LAB HOLD
+Majority: 16,027 Turnout: 63.1% (47,542) 
+Conservative 13,548 Alexander Williams
+Labour 29,575 Lisa Nandy
+Liberal Democrat 916 Mark Clayton
+UK Independence Party 2,750 Nathan Ryding
+Green 753 William Patterson
+Other 0
+
+Wiltshire North CON HOLD
+Majority: 22,877 Turnout: 75.2% (53,706) 
+Conservative 32,398 James Gray
+Labour 9,399 Peter Baldrey
+Liberal Democrat 9,521 Brian Mathew
+UK Independence Party 871 Paddy Singh
+Green 1,141 Phil Chamberlain
+Other 376 Lisa Tweedie
+
+Wiltshire South West CON HOLD
+Majority: 18,326 Turnout: 71.2% (54,751) 
+Conservative 32,841 Andrew Murrison
+Labour 14,515 Laura Pictor
+Liberal Democrat 5,360 Trevor Carbin
+UK Independence Party 0
+Green 1,445 Christopher Walford
+Other 590 Liam Silcocks
+
+Wimbledon CON HOLD
+Majority: 5,622 Turnout: 77.2% (51,526) 
+Conservative 23,946 Stephen Hammond
+Labour 18,324 Imran Uddin
+Liberal Democrat 7,472 Carl Quilliam
+UK Independence Party 553 Strachan McDonald
+Green 1,231 Charles Barraball
+
+Winchester CON HOLD
+Majority: 9,999 Turnout: 79.8% (57,849) 
+Conservative 29,729 Steve Brine
+Labour 6,700 Mark Chaloner
+Liberal Democrat 19,730 Jackie Porter
+UK Independence Party 695 Martin Lyon
+Green 846 Andrew Wainwright
+Other 149 Teresa Skelton
+
+Windsor CON HOLD
+Majority: 22,384 Turnout: 73.3% (53,921) 
+Conservative 34,718 Adam Afriyie
+Labour 12,334 Peter Shearman
+Liberal Democrat 5,434 Julian Tisi
+UK Independence Party 0
+Green 1,435 Fintan McKeown
+Other 0
+
+Wirral South LAB HOLD
+Majority: 8,323 Turnout: 78.4% (45,195) 
+Conservative 17,548 Adam Sykes
+Labour 25,871 Alison McGovern
+Liberal Democrat 1,322 Chris Carubia
+UK Independence Party 0
+Green 454 Mandi Roberts
+
+Wirral West LAB HOLD
+Majority: 5,365 Turnout: 78.5% (43,951) 
+Conservative 18,501 Tony Caldeira
+Labour 23,866 Margaret Greenwood
+Liberal Democrat 1,155 Peter Reisdorf
+UK Independence Party 0
+Green 429 John Coyne
+Other 0
+
+Witham CON HOLD
+Majority: 18,646 Turnout: 71.2% (49,241) 
+Conservative 31,670 Priti Patel
+Labour 13,024 Phil Barlow
+Liberal Democrat 2,715 Jo Hayes
+UK Independence Party 0
+Green 1,832 James Abbott
+Other 0
+
+Witney CON HOLD
+Majority: 21,241 Turnout: 73.6% (60,927) 
+Conservative 33,839 Robert Courts
+Labour 12,598 Laetisia Carter
+Liberal Democrat 12,457 Liz Leffman
+UK Independence Party 980 Alexander Craig
+Green 1,053 Claire Lasko
+Other 0
+
+Woking CON HOLD
+Majority: 16,724 Turnout: 72.5% (55,246) 
+Conservative 29,903 Jonathan Lord
+Labour 13,179 Fiona Colley
+Liberal Democrat 9,711 Will Forster
+UK Independence Party 1,161 Troy De Leon
+Green 1,092 James Brierley
+Other 200 Hassan Akberali
+
+Wokingham CON HOLD
+Majority: 18,798 Turnout: 74.7% (59,690) 
+Conservative 33,806 John Redwood
+Labour 15,008 Andy Croy
+Liberal Democrat 9,512 Clive Jones
+UK Independence Party 0
+Green 1,364 Russell Seymour
+Other 0
+
+Wolverhampton North East LAB HOLD
+Majority: 4,587 Turnout: 60.0% (36,508) 
+Conservative 14,695 Sarah Macken
+Labour 19,282 Emma Reynolds
+Liberal Democrat 570 Ian Jenkins
+UK Independence Party 1,479 Graham Eardley
+Green 482 Clive Wood
+
+Wolverhampton South East LAB HOLD
+Majority: 8,514 Turnout: 51.9% (36,304) 
+Conservative 12,623 Kieran Mullan
+Labour 21,137 Pat McFadden
+Liberal Democrat 448 Ben Mathis
+UK Independence Party 1,675 Barry Hodgson
+Green 421 Amy Bertaut
+Other 0 Cooper Jennifer
+
+Wolverhampton South West LAB HOLD
+Majority: 2,185 Turnout: 70.6% (42,346) 
+Conservative 18,714 Paul Uppal
+Labour 20,899 Eleanor Smith
+Liberal Democrat 784 Sarah Quarmby
+UK Independence Party 1,012 Rob Jones
+Green 579 Andrea Cantrill
+Other 358 Jagmeet Singh
+
+Worcester CON HOLD
+Majority: 2,508 Turnout: 70.6% (51,423) 
+Conservative 24,731 Robin Walker
+Labour 22,223 Joy Squires
+Liberal Democrat 1,757 Stephen Kearney
+UK Independence Party 1,354 Paul Hickling
+Green 1,211 Louis Stephen
+Other 147 Mark Shuker
+
+Worcestershire Mid CON HOLD
+Majority: 23,326 Turnout: 72.4% (55,089) 
+Conservative 35,967 Nigel Huddleston
+Labour 12,641 Fred Grindrod
+Liberal Democrat 3,450 Margaret Rowley
+UK Independence Party 1,660 David Greenwood
+Green 1,371 Fay Whitfield
+
+Worcestershire West CON HOLD
+Majority: 21,328 Turnout: 75.9% (56,471) 
+Conservative 34,703 Harriett Baldwin
+Labour 13,375 Samantha Charles
+Liberal Democrat 5,307 Edward McMillan-Scott
+UK Independence Party 1,481 Mike Savage
+Green 1,605 Natalie McVey
+
+Workington LAB HOLD
+Majority: 3,925 Turnout: 69.2% (41,676) 
+Conservative 17,392 Clark Vasey
+Labour 21,317 Sue Hayman
+Liberal Democrat 1,133 Phill Roberts
+UK Independence Party 1,556 George Kemp
+Green 0
+Other 278 Roy Ivinson
+
+Worsley & Eccles South LAB HOLD
+Majority: 8,379 Turnout: 61.9% (45,642) 
+Conservative 17,667 Iain Lindley
+Labour 26,046 Barbara Keeley
+Liberal Democrat 1,087 Kate Clarkson
+UK Independence Party 0
+Green 842 Tom Dylan
+Other 0
+
+Worthing East & Shoreham CON HOLD
+Majority: 5,106 Turnout: 70.3% (53,117) 
+Conservative 25,988 Tim Loughton
+Labour 20,882 Sophie Cook
+Liberal Democrat 2,523 Oli Henman
+UK Independence Party 1,444 Mike Glennon
+Green 1,273 Leslie Groves Williams
+Other 1,007 Andy Lutwyche
+
+Worthing West CON HOLD
+Majority: 12,090 Turnout: 70.1% (54,503) 
+Conservative 30,181 Peter Bottomley
+Labour 18,091 Beccy Cooper
+Liberal Democrat 2,982 Hazel Thorpe
+UK Independence Party 1,635 Mark Withers
+Green 1,614 Benjamin Cornish
+
+Wrexham LAB HOLD
+Majority: 1,832 Turnout: 69.6% (35,092) 
+Conservative 15,321 Andrew Atkinson
+Labour 17,153 Ian Lucas
+Liberal Democrat 865 Carole O'Toole
+UK Independence Party 0
+Plaid Cymru 1,753 Carrie Harper
+Green 0
+Other 0
+
+Wycombe CON HOLD
+Majority: 6,578 Turnout: 69.4% (53,493) 
+Conservative 26,766 Steve Baker
+Labour 20,188 Rafiq Raja
+Liberal Democrat 4,147 Steve Guy
+UK Independence Party 1,210 Richard Phoenix
+Green 1,182 Peter Sims
+Other 0
+
+Wyre & Preston North CON HOLD
+Majority: 12,246 Turnout: 72.8% (52,646) 
+Conservative 30,684 Ben Wallace
+Labour 18,438 Michelle Heaton-Bentley
+Liberal Democrat 2,551 John Potter
+UK Independence Party 0
+Green 973 Ruth Norbury
+
+Wyre Forest CON HOLD
+Majority: 13,334 Turnout: 65.8% (51,129) 
+Conservative 29,859 Mark Garnier
+Labour 16,525 Matthew Lamb
+Liberal Democrat 1,943 Shazu Miah
+UK Independence Party 1,777 George Connolly
+Green 1,025 Brett Caulfield
+Other 0
+
+Wythenshawe & Sale East LAB HOLD
+Majority: 14,944 Turnout: 60.0% (45,846) 
+Conservative 13,581 Fiona Green
+Labour 28,525 Mike Kane
+Liberal Democrat 1,504 William Jones
+UK Independence Party 1,475 Mike Bayley-Sanderson
+Green 576 Dan Jerrome
+Other 185 Luckson Francis-Augustine
+
+Yeovil CON HOLD
+Majority: 14,723 Turnout: 71.6% (59,404) 
+Conservative 32,369 Marcus Fysh
+Labour 7,418 Ian Martin
+Liberal Democrat 17,646 Jo Roundell Greene
+UK Independence Party 0
+Green 1,052 Robert Wood
+Other 919 Katy Pritchard
+
+Ynys Mon LAB HOLD
+Majority: 5,259 Turnout: 71.2% (37,367) 
+Conservative 10,384 Tomos Davies
+Labour 15,643 Albert Owen
+Liberal Democrat 479 Sarah Jackson
+UK Independence Party 624 James Turner
+Plaid Cymru 10,237 leuan Wyn Jones
+Other 0
+
+York Central LAB HOLD
+Majority: 18,575 Turnout: 68.7% (53,088) 
+Conservative 16,019 Ed Young
+Labour 34,594 Rachael Maskell
+Liberal Democrat 2,475 Nick Love
+UK Independence Party 0
+Green 0
+Other 0
+
+York Outer CON HOLD
+Majority: 8,289 Turnout: 75.7% (57,427) 
+Conservative 29,356 Julian Sturdy
+Labour 21,067 Luke Charters-Reid
+Liberal Democrat 5,910 James Blanchard
+UK Independence Party 0
+Green 1,094 Bethan Vincent
+
+Yorkshire East CON HOLD
+Majority: 15,006 Turnout: 66.6% (53,956) 
+Conservative 31,442 Greg Knight
+Labour 16,436 Alan Clark
+Liberal Democrat 2,134 Carl Minns
+UK Independence Party 1,986 Andrew Dennis
+Green 943 Michael Jackson
+Other 1,015 Timothy Norman
